@@ -1,4 +1,4 @@
-# 🚀 📡 SonyLIV Live Events Data Hub by Sayan
+# 🚀 📡 SonyLIV Live Events Data Hub by Sayan Pal (sportlive18)
 
 [![GitHub Workflow Status](https://github.com/sportlive18/sonyliv-autoupdate/actions/workflows/update_sonyliv_json.yml/badge.svg)](https://github.com/sportlive18/sonyliv-autoupdate/actions) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/sportlive18/sonyliv-autoupdate)](https://github.com/sportlive18/sonyliv-autoupdate/commits/main)
@@ -54,4 +54,4 @@ We extend our sincere thanks to the creator of **drmlive/sliv-live-events** for 
 
 ## 👤 Project Developed by
 
-This advanced auto-sync project is developed and maintained by **Sayan**.
+This advanced auto-sync project is developed and maintained by **Sayan Pal (sportlive18)**.
