@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:09:10 30-05-2026",
+    "last update time": "11:31:00 30-05-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090531335_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017794/1778071297125681_LIV_Golf_South_Korea_2026_DAY-3_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "LIV Golf",
+            "match_name": "South Korea - Day 3 - 30 May 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LIVGolf_3005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780164060~acl=/*~id=77604808318550185094951834108552~hmac=73a8525ce32637b3a8d33c3f30aa0418fcc25c5ac1b65da51c23577e00327d31",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LIVGolf_3005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780164060~acl=/*~id=77604808318550185094951834108552~hmac=73a8525ce32637b3a8d33c3f30aa0418fcc25c5ac1b65da51c23577e00327d31",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LIVGolf_3005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780164060~acl=/*~id=77604808318550185094951834108552~hmac=73a8525ce32637b3a8d33c3f30aa0418fcc25c5ac1b65da51c23577e00327d31"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -40,15 +53,6 @@
             "event_name": "Upcoming - India Women's Tour of England 2026"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090530671,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018138/1779196622363185_UCL26_final_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - PSG vs Arsenal - Final - UEFA Champions League 2025-26 (Hindi)"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090504215,
@@ -65,6 +69,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Arsenal - Final - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090530671,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018138/1779196622363185_UCL26_final_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - PSG vs Arsenal - Final - UEFA Champions League 2025-26 (Hindi)"
         }
     ]
 }
