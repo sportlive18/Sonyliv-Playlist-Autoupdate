@@ -1,5 +1,4 @@
-name: Automated SonyLIV JSON Updater
-
+name: Automated SonyLiv JSON & M3U Updater
 on:
   schedule:
     - cron: '*/7 * * * *'
@@ -7,35 +6,35 @@ on:
   push:
     branches:
       - main
-
 jobs:
   update-file:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
       - name: Configure Git User
         run: |
-          git config --global user.name "sportlive18"
-          git config --global user.email "271363488+sportlive18@users.noreply.github.com"
-
+          git config user.name "sportlive18"
+          git config user.email "271363488+sportlive18@users.noreply.github.com"
       - name: Sync and Update Log
         run: |
           export TZ="Asia/Kolkata"
           git pull origin main --rebase
-          curl -sS -o sonyliv.json "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.json"
-          echo "🚀 SonyLIV Synced | IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> sliv.txt
 
+          curl -sS -f -o sonyliv.json "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.json" || echo "⚠️ sonyliv.json fetch failed"
+          curl -sS -f -L -o sonyliv.m3u "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u" || echo "⚠️ sonyliv.m3u fetch failed"
+          curl -sS -f -o sonyliv2.json "https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.json" || echo "⚠️ sonyliv2.json fetch failed"
+          curl -sS -f -L -o sonyliv2.m3u "https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u" || echo "⚠️ sonyliv2.m3u fetch failed"
+
+          echo "🚀 SonyLiv Synced | IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> sonyliv.txt
       - name: Commit and Push
         run: |
           export TZ="Asia/Kolkata"
-          git add sonyliv.json sliv.txt
+          git add sonyliv.json sonyliv.m3u sonyliv2.json sonyliv2.m3u sonyliv.txt
           git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "SonyLIV Database Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
+          git commit -m "SonyLiv Database Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
           git push origin main
