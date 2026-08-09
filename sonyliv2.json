@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "09-08-2026 18:20",
+  "last_updated": "06:40:24 PM 09-08-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,107 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090538832,
+      "video_info": {
+        "title": "Vitality Mixed Disability IT20 series",
+        "shortDescription": "India face England in the 3rd Match of the Mixed Disability IT20 Series. Don't miss a moment LIVE on Sony LIV!",
+        "longDescription": "India face England in the 3rd Match of the Mixed Disability IT20 Series. Don't miss a moment LIVE on Sony LIV!",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "England vs India - 3rd T20I - 9 Aug 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/bdRpTNSURR6_I76sWJXssA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "09 Aug 2026, 06:30 PM",
+        "contractEndDate": "10 Aug 2026, 03:15 AM",
+        "originalAirDate": "09 Aug 2026, 07:00 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021845/178600773176747_Vitality_Mixed_Disability_3rd_T20i_England_vs_India_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021845/178600776325047_Vitality_Mixed_Disability_3rd_T20i_England_vs_India_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021791/1785833228000177_Vitality_Mixed_Disability_IT20_series_2026_GOB_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021886/1786089358710506_Vitality_Mixed_Disability_IT20_series_2026_GOB_Masthead_logo_3rd_IT20I_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021845/178600776325047_Vitality_Mixed_Disability_3rd_T20i_England_vs_India_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "SONY_PRO_MAX",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "unavailable",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1786281020194,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "MT-SSB",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "FULL_HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/hdntl=exp=1786367420~acl=%2f*~id=e93fc569b02b585a2e9d87cd0a4b2ea7-1786275004226~data=hdntl,20000297,Cricket_0908,ENG~hmac=af6bd680d153ab10551913ec87d600a50c94d6170a67d6acec74c69463b4104e/master_200.m3u8?aka_me_session_id=AAAAAAAAAAC8zXlqAAAAAJvljccMgddKxi5GSslWPNAsZWHASGUjpBcQFmonyjpRM69YPhMZF3Zi0Ez30yOIjSLJ87ZSz5hH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/hdntl=exp=1786367420~acl=%2f*~id=e93fc569b02b585a2e9d87cd0a4b2ea7-1786275004226~data=hdntl,20000297,Cricket_0908,ENG~hmac=af6bd680d153ab10551913ec87d600a50c94d6170a67d6acec74c69463b4104e/master_400.m3u8?aka_me_session_id=AAAAAAAAAAC8zXlqAAAAAJvljccMgddKxi5GSslWPNAsZWHASGUjpBcQFmonyjpRM69YPhMZF3Zi0Ez30yOIjSLJ87ZSz5hH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/hdntl=exp=1786367420~acl=%2f*~id=e93fc569b02b585a2e9d87cd0a4b2ea7-1786275004226~data=hdntl,20000297,Cricket_0908,ENG~hmac=af6bd680d153ab10551913ec87d600a50c94d6170a67d6acec74c69463b4104e/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC8zXlqAAAAAJvljccMgddKxi5GSslWPNAsZWHASGUjpBcQFmonyjpRM69YPhMZF3Zi0Ez30yOIjSLJ87ZSz5hH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/hdntl=exp=1786367420~acl=%2f*~id=e93fc569b02b585a2e9d87cd0a4b2ea7-1786275004226~data=hdntl,20000297,Cricket_0908,ENG~hmac=af6bd680d153ab10551913ec87d600a50c94d6170a67d6acec74c69463b4104e/master_600.m3u8?aka_me_session_id=AAAAAAAAAAC8zXlqAAAAAJvljccMgddKxi5GSslWPNAsZWHASGUjpBcQFmonyjpRM69YPhMZF3Zi0Ez30yOIjSLJ87ZSz5hH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/hdntl=exp=1786367420~acl=%2f*~id=e93fc569b02b585a2e9d87cd0a4b2ea7-1786275004226~data=hdntl,20000297,Cricket_0908,ENG~hmac=af6bd680d153ab10551913ec87d600a50c94d6170a67d6acec74c69463b4104e/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC8zXlqAAAAAJvljccMgddKxi5GSslWPNAsZWHASGUjpBcQFmonyjpRM69YPhMZF3Zi0Ez30yOIjSLJ87ZSz5hH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/hdntl=exp=1786367420~acl=%2f*~id=e93fc569b02b585a2e9d87cd0a4b2ea7-1786275004226~data=hdntl,20000297,Cricket_0908,ENG~hmac=af6bd680d153ab10551913ec87d600a50c94d6170a67d6acec74c69463b4104e/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAC8zXlqAAAAAJvljccMgddKxi5GSslWPNAsZWHASGUjpBcQFmonyjpRM69YPhMZF3Zi0Ez30yOIjSLJ87ZSz5hH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/hdntl=exp=1786367420~acl=%2f*~id=e93fc569b02b585a2e9d87cd0a4b2ea7-1786275004226~data=hdntl,20000297,Cricket_0908,ENG~hmac=af6bd680d153ab10551913ec87d600a50c94d6170a67d6acec74c69463b4104e/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC8zXlqAAAAAJvljccMgddKxi5GSslWPNAsZWHASGUjpBcQFmonyjpRM69YPhMZF3Zi0Ez30yOIjSLJ87ZSz5hH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/hdntl=exp=1786367420~acl=%2f*~id=e93fc569b02b585a2e9d87cd0a4b2ea7-1786275004226~data=hdntl,20000297,Cricket_0908,ENG~hmac=af6bd680d153ab10551913ec87d600a50c94d6170a67d6acec74c69463b4104e/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAC8zXlqAAAAAJvljccMgddKxi5GSslWPNAsZWHASGUjpBcQFmonyjpRM69YPhMZF3Zi0Ez30yOIjSLJ87ZSz5hH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/hdntl=exp=1786367420~acl=%2f*~id=e93fc569b02b585a2e9d87cd0a4b2ea7-1786275004226~data=hdntl,20000297,Cricket_0908,ENG~hmac=af6bd680d153ab10551913ec87d600a50c94d6170a67d6acec74c69463b4104e/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAC8zXlqAAAAAJvljccMgddKxi5GSslWPNAsZWHASGUjpBcQFmonyjpRM69YPhMZF3Zi0Ez30yOIjSLJ87ZSz5hH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/hdntl=exp=1786367420~acl=%2f*~id=e93fc569b02b585a2e9d87cd0a4b2ea7-1786275004226~data=hdntl,20000297,Cricket_0908,ENG~hmac=af6bd680d153ab10551913ec87d600a50c94d6170a67d6acec74c69463b4104e/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC8zXlqAAAAAJvljccMgddKxi5GSslWPNAsZWHASGUjpBcQFmonyjpRM69YPhMZF3Zi0Ez30yOIjSLJ87ZSz5hH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/hdntl=exp=1786367420~acl=%2f*~id=e93fc569b02b585a2e9d87cd0a4b2ea7-1786275004226~data=hdntl,20000297,Cricket_0908,ENG~hmac=af6bd680d153ab10551913ec87d600a50c94d6170a67d6acec74c69463b4104e/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAC8zXlqAAAAAJvljccMgddKxi5GSslWPNAsZWHASGUjpBcQFmonyjpRM69YPhMZF3Zi0Ez30yOIjSLJ87ZSz5hH&aka_media_format_type=hls",
+              "Date": "Sunday 9th of August 2026 06:40:21 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090536992,
