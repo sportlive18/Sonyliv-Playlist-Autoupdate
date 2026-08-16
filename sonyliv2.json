@@ -2,13 +2,13 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "15-08-2026 22:40",
+  "last_updated": "09:25:23 AM 16-08-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
     "MULTI_CDN": "OFF",
     "Debugging": "OFF",
-    "SUB_TYPE": "PREMIUM",
+    "SUB_TYPE": "FREEMIUM",
     "RECIVER": "OFF",
     "REALTIME": "OFF",
     "REPLACEMENT": "OFF",
@@ -17,124 +17,151 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
-  "upcoming": [
+  "data": [
     {
-      "contentId": 1090538572,
+      "contentId": 1090539338,
       "video_info": {
-        "title": "Upcoming: Mega Sporting Day - 16th August 2026",
-        "shortDescription": "Don't miss an action-packed Sunday of Cricket, football, and UFC events, streaming LIVE only on Sony LIV.",
-        "longDescription": "Don't miss an action-packed Sunday of Cricket, football, and UFC events, streaming LIVE only on Sony LIV.",
+        "title": "India Tour of Sri Lanka 2026",
+        "shortDescription": "India begin Day 2 of the 1st Test in control after a dominant Day 1, powered by Devdutt Padikkal's unbeaten 131. Watch all the action from India Tour of Sri Lanka 2026, LIVE on Sony LIV.",
+        "longDescription": "India begin Day 2 of the 1st Test in control after a dominant Day 1, powered by Devdutt Padikkal's unbeaten 131. Watch all the action from India Tour of Sri Lanka 2026, LIVE on Sony LIV.",
         "genres": [
-          "Football"
+          "Cricket"
         ],
-        "episodeTitle": ""
+        "episodeTitle": "Day 2 - 1st Test - 16 Aug 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/907e7626f7464c0383e1c7734ded0eb1/1785763625/baseline-std-v4/16thAug_SPORTS_COMBO_PROMO_40SEC_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "03 Aug 2026, 06:00 PM",
-        "contractEndDate": "16 Aug 2026, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021817/1785927557572415_sporting_day_dated_rev_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021817/1785927793578415_sporting_day_dated_landscape_thumb.jpg",
-        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/facommunityshield24_masthead_mobile_v1_1.jpg",
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/facommunityshield23_masthead_mobile_v1.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/masthead_logo/FACommunityShield22GOB_Masthead_Logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021817/1785927793578415_sporting_day_dated_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090538996,
-      "video_info": {
-        "title": "Upcoming - UFC 330 - Makhachev vs Machado Garry ",
-        "shortDescription": "Tune in to catch all the action from UFC 330 - Makhachev vs Machado Garry, only on Sony LIV. ",
-        "longDescription": "Tune in to catch all the action from UFC 330 - Makhachev vs Machado Garry, only on Sony LIV. ",
-        "genres": [
-          "Fight Sports"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
+        "dai_asset_key": "https://dai.google.com/ssai/event/DgeLzKxsSMuwfRa8znq4RQ/master.m3u8",
         "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
             "lang_code": "ENG",
             "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
+          },
+          {
+            "lang_code": "KAN",
+            "lang_label": "Kannada"
           }
         ],
-        "emfAttributes__audio_languages": "ENG",
+        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL,KAN",
         "platformVariants": {
           "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
           "audioLanguages": [
             {
               "audioId": 1,
               "audioLanguageName": "ENG",
               "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
+              "audioLanguageLabel": "English"
             }
           ],
           "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/7b9b187dcdca40f7a32f9fc7eee4a81b/1786361403/baseline-std-v4/1090538996_10082026_eng_baseline-800300010.mpd",
-          "hasTrailer": true
+          "videoUrl": "NA"
         }
       },
       "air_dates": {
-        "contractStartDate": "10 Aug 2026, 04:00 PM",
-        "contractEndDate": "16 Aug 2026, 04:00 AM",
-        "originalAirDate": null
+        "contractStartDate": "16 Aug 2026, 08:30 AM",
+        "contractEndDate": "16 Aug 2026, 08:30 PM",
+        "originalAirDate": "16 Aug 2026, 09:00 AM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021986/1786355417985863_UFC_330_Makhachev_vs_Machado_Garry_Promo_portrait_thumb_dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022108/1786524872000603_UFC_330_Makhachev_vs_Machado_Garry_Landscape_Thumb_Dated.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022255/1786797571080863_SL_vs_IND_1stTest_Day2_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022255/1786797425630863_SL_vs_IND_1stTest_Day2_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022108/1786524872000604_UFC_330_Makhachev_vs_Machado_Garry_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022108/1786524872000603_UFC_330_Makhachev_vs_Machado_Garry_Masthead_logo_IND.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022213/1786705838000407_India_Tour_of_Sri_Lanka_2026_Match_masthead_mobile_v2_984x1182_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022195/1786707344807328_India_Tour_of_Sri_Lanka_2026_Match_Masthead_logo_1stTEST_Day2_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022108/1786524872000603_UFC_330_Makhachev_vs_Machado_Garry_Landscape_Thumb_Dated.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022255/1786797425630863_SL_vs_IND_1stTest_Day2_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
+    {
+      "contentId": 1090539297,
+      "video_info": {
+        "title": "UFC 330 - Makhachev vs Machado Garry",
+        "shortDescription": "Champion Islam Makhachev puts his UFC welterweight title on the line against Ian Machado Garry in the blockbuster main event of UFC 330. Catch all the action LIVE on Sony LIV.",
+        "longDescription": "Champion Islam Makhachev puts his UFC welterweight title on the line against Ian Machado Garry in the blockbuster main event of UFC 330. Catch all the action LIVE on Sony LIV.",
+        "genres": [
+          "Fight Sports"
+        ],
+        "episodeTitle": "UFC 330 - Makhachev vs Machado Garry - 16 Aug 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
+          },
+          {
+            "lang_code": "KAN",
+            "lang_label": "Kannada"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL,KAN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "16 Aug 2026, 06:00 AM",
+        "contractEndDate": "16 Aug 2026, 01:00 PM",
+        "originalAirDate": "16 Aug 2026, 06:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022181/1786691548984354_UFC_330_live_Portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022181/1786691707375354_UFC_330_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022108/1786524872000604_UFC_330_Makhachev_vs_Machado_Garry_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022108/1786524872000603_UFC_330_Makhachev_vs_Machado_Garry_Masthead_Logo_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022181/1786691707375354_UFC_330_live_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    }
+  ],
+  "upcoming": [
     {
       "contentId": 1090538649,
       "video_info": {
@@ -182,14 +209,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021812/178591928917072_Community-Shield-2026_DDT_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021812/178592230632772_Community-Shield-2026_DDT_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021812/178592210639472_Community-Shield-2026_Tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021812/178592232420372_Community-Shield-2026_Tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021991/1786358442041813_Community_Shield_2026_Match_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021868/1786026719128508_Community_Shield_2026_Match_Masthead_logo_Arsenal_vs_Man_City_Dated.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021868/1786026719170508_Community_Shield_2026_Match_Masthead_logo_Arsenal_vs_Man_City_TONIGHT.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021812/178592230632772_Community-Shield-2026_DDT_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021812/178592232420372_Community-Shield-2026_Tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
