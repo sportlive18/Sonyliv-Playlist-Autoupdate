@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "18-08-2026 23:00",
+  "last_updated": "12:00:26 AM 19-08-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,305 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090539572,
+      "video_info": {
+        "title": "UEFA Champions League 2026-27",
+        "shortDescription": "Fenerbahce hosts Lyon in a crucial UEFA Champions League 2026-27 Play-offs Leg 1 clash as both teams battle for an early edge. Catch all the action from UEFA Champions League 2026-27, LIVE only on Sony LIV.",
+        "longDescription": "Fenerbahce hosts Lyon in a crucial UEFA Champions League 2026-27 Play-offs Leg 1 clash as both teams battle for an early edge. Catch all the action from UEFA Champions League 2026-27, LIVE only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Fenerbahce vs Lyon - Play-offs - Leg 1 - 19 Aug 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "18 Aug 2026, 11:55 PM",
+        "contractEndDate": "19 Aug 2026, 04:55 AM",
+        "originalAirDate": "19 Aug 2026, 12:25 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022385/1786978857021606_UCL26-27_Play-offs_Leg1_Fenerbahce_vs_Lyon_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022385/1786979056172606_UCL26-27_Play-offs_Leg1_Fenerbahce_vs_Lyon_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022452/1787060450380870_UCL26_27_Match_masthead_logo_V1_692x390_Fenerbahce_vs_Lyon_LIVE.png",
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022452/1787060450301870_UCL26_27_Match_Masthead_logo_Fenerbahce_vs_Lyon_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022385/1786979056172606_UCL26-27_Play-offs_Leg1_Fenerbahce_vs_Lyon_live_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "SONY_PRO_MAX",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/20000291/Football1808/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "unavailable",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1787077820855,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "MT-SSB",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "FULL_HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/Football1808/ENG/hdntl=exp=1787164221~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000291,Football1808,ENG~hmac=3e093403b9a543cf2d60b189c1f2d2da9e8a3d5ae331b665ece3317529d16696/master_200.m3u8?aka_me_session_id=AAAAAAAAAAA99oVqAAAAAEI6Vw8h9KxYYRzvOD9iGlzGNh1xn4APd4MArazmkUpoeB2L1BdRd5+kvZbhdJe8IOujzvkIHZuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/Football1808/ENG/hdntl=exp=1787164221~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000291,Football1808,ENG~hmac=3e093403b9a543cf2d60b189c1f2d2da9e8a3d5ae331b665ece3317529d16696/master_400.m3u8?aka_me_session_id=AAAAAAAAAAA99oVqAAAAAEI6Vw8h9KxYYRzvOD9iGlzGNh1xn4APd4MArazmkUpoeB2L1BdRd5+kvZbhdJe8IOujzvkIHZuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/Football1808/ENG/hdntl=exp=1787164221~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000291,Football1808,ENG~hmac=3e093403b9a543cf2d60b189c1f2d2da9e8a3d5ae331b665ece3317529d16696/master_500.m3u8?aka_me_session_id=AAAAAAAAAAA99oVqAAAAAEI6Vw8h9KxYYRzvOD9iGlzGNh1xn4APd4MArazmkUpoeB2L1BdRd5+kvZbhdJe8IOujzvkIHZuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/Football1808/ENG/hdntl=exp=1787164221~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000291,Football1808,ENG~hmac=3e093403b9a543cf2d60b189c1f2d2da9e8a3d5ae331b665ece3317529d16696/master_600.m3u8?aka_me_session_id=AAAAAAAAAAA99oVqAAAAAEI6Vw8h9KxYYRzvOD9iGlzGNh1xn4APd4MArazmkUpoeB2L1BdRd5+kvZbhdJe8IOujzvkIHZuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/Football1808/ENG/hdntl=exp=1787164221~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000291,Football1808,ENG~hmac=3e093403b9a543cf2d60b189c1f2d2da9e8a3d5ae331b665ece3317529d16696/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAA99oVqAAAAAEI6Vw8h9KxYYRzvOD9iGlzGNh1xn4APd4MArazmkUpoeB2L1BdRd5+kvZbhdJe8IOujzvkIHZuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/Football1808/ENG/hdntl=exp=1787164221~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000291,Football1808,ENG~hmac=3e093403b9a543cf2d60b189c1f2d2da9e8a3d5ae331b665ece3317529d16696/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAA99oVqAAAAAEI6Vw8h9KxYYRzvOD9iGlzGNh1xn4APd4MArazmkUpoeB2L1BdRd5+kvZbhdJe8IOujzvkIHZuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/Football1808/ENG/hdntl=exp=1787164221~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000291,Football1808,ENG~hmac=3e093403b9a543cf2d60b189c1f2d2da9e8a3d5ae331b665ece3317529d16696/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAA99oVqAAAAAEI6Vw8h9KxYYRzvOD9iGlzGNh1xn4APd4MArazmkUpoeB2L1BdRd5+kvZbhdJe8IOujzvkIHZuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/Football1808/ENG/hdntl=exp=1787164221~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000291,Football1808,ENG~hmac=3e093403b9a543cf2d60b189c1f2d2da9e8a3d5ae331b665ece3317529d16696/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAA99oVqAAAAAEI6Vw8h9KxYYRzvOD9iGlzGNh1xn4APd4MArazmkUpoeB2L1BdRd5+kvZbhdJe8IOujzvkIHZuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/Football1808/ENG/hdntl=exp=1787164221~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000291,Football1808,ENG~hmac=3e093403b9a543cf2d60b189c1f2d2da9e8a3d5ae331b665ece3317529d16696/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAA99oVqAAAAAEI6Vw8h9KxYYRzvOD9iGlzGNh1xn4APd4MArazmkUpoeB2L1BdRd5+kvZbhdJe8IOujzvkIHZuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/Football1808/ENG/hdntl=exp=1787164221~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000291,Football1808,ENG~hmac=3e093403b9a543cf2d60b189c1f2d2da9e8a3d5ae331b665ece3317529d16696/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAA99oVqAAAAAEI6Vw8h9KxYYRzvOD9iGlzGNh1xn4APd4MArazmkUpoeB2L1BdRd5+kvZbhdJe8IOujzvkIHZuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/Football1808/ENG/hdntl=exp=1787164221~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000291,Football1808,ENG~hmac=3e093403b9a543cf2d60b189c1f2d2da9e8a3d5ae331b665ece3317529d16696/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAA99oVqAAAAAEI6Vw8h9KxYYRzvOD9iGlzGNh1xn4APd4MArazmkUpoeB2L1BdRd5+kvZbhdJe8IOujzvkIHZuH&aka_media_format_type=hls",
+              "Date": "Wednesday 19th of August 2026 12:00:21 AM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090539571,
+      "video_info": {
+        "title": "UEFA Champions League 2026-27",
+        "shortDescription": "GNK Dinamo hosts Viking in a crucial UEFA Champions League 2026-27 Play-offs Leg 1 clash as both teams battle for an early edge. Catch all the action from UEFA Champions League 2026-27, LIVE only on Sony LIV.",
+        "longDescription": "GNK Dinamo hosts Viking in a crucial UEFA Champions League 2026-27 Play-offs Leg 1 clash as both teams battle for an early edge. Catch all the action from UEFA Champions League 2026-27, LIVE only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "GNK Dinamo vs Viking - Play-offs - Leg 1 - 19 Aug 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/Qj1-QMbLSuak3wfnlay8tQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 1",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "18 Aug 2026, 11:55 PM",
+        "contractEndDate": "19 Aug 2026, 04:55 AM",
+        "originalAirDate": "19 Aug 2026, 12:25 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022402/1786979843145942_UCL_26_Play-offs-Leg1_GNK-Dinamo-vs-Viking_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022402/1787031647078942_UCL_26_Play-offs-Leg1_GNK-Dinamo-vs-Viking_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022402/1787031647078942_UCL_26_Play-offs-Leg1_GNK-Dinamo-vs-Viking_live_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "SONY_PRO_MAX",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/20000301/Football1808/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "unavailable",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1787077823095,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "MT-SSB",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "FULL_HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000301/Football1808/ENG/hdntl=exp=1787164223~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000301,Football1808,ENG~hmac=f0ad1d86a7e9d3575426f2de4b995393fcf20b98706b88e7d6c7356f27d694fc/master_200.m3u8?aka_me_session_id=AAAAAAAAAAA%2f9oVqAAAAAKwJBBRii4N1IA7c5aV7aSY+MCQlFA5uSYbLblSgtU1no4FoiLVvhdpegLSCXPd8Yw8gXU%2fvyL1m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000301/Football1808/ENG/hdntl=exp=1787164223~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000301,Football1808,ENG~hmac=f0ad1d86a7e9d3575426f2de4b995393fcf20b98706b88e7d6c7356f27d694fc/master_400.m3u8?aka_me_session_id=AAAAAAAAAAA%2f9oVqAAAAAKwJBBRii4N1IA7c5aV7aSY+MCQlFA5uSYbLblSgtU1no4FoiLVvhdpegLSCXPd8Yw8gXU%2fvyL1m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000301/Football1808/ENG/hdntl=exp=1787164223~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000301,Football1808,ENG~hmac=f0ad1d86a7e9d3575426f2de4b995393fcf20b98706b88e7d6c7356f27d694fc/master_500.m3u8?aka_me_session_id=AAAAAAAAAAA%2f9oVqAAAAAKwJBBRii4N1IA7c5aV7aSY+MCQlFA5uSYbLblSgtU1no4FoiLVvhdpegLSCXPd8Yw8gXU%2fvyL1m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000301/Football1808/ENG/hdntl=exp=1787164223~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000301,Football1808,ENG~hmac=f0ad1d86a7e9d3575426f2de4b995393fcf20b98706b88e7d6c7356f27d694fc/master_600.m3u8?aka_me_session_id=AAAAAAAAAAA%2f9oVqAAAAAKwJBBRii4N1IA7c5aV7aSY+MCQlFA5uSYbLblSgtU1no4FoiLVvhdpegLSCXPd8Yw8gXU%2fvyL1m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000301/Football1808/ENG/hdntl=exp=1787164223~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000301,Football1808,ENG~hmac=f0ad1d86a7e9d3575426f2de4b995393fcf20b98706b88e7d6c7356f27d694fc/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAA%2f9oVqAAAAAKwJBBRii4N1IA7c5aV7aSY+MCQlFA5uSYbLblSgtU1no4FoiLVvhdpegLSCXPd8Yw8gXU%2fvyL1m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000301/Football1808/ENG/hdntl=exp=1787164223~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000301,Football1808,ENG~hmac=f0ad1d86a7e9d3575426f2de4b995393fcf20b98706b88e7d6c7356f27d694fc/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAA%2f9oVqAAAAAKwJBBRii4N1IA7c5aV7aSY+MCQlFA5uSYbLblSgtU1no4FoiLVvhdpegLSCXPd8Yw8gXU%2fvyL1m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000301/Football1808/ENG/hdntl=exp=1787164223~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000301,Football1808,ENG~hmac=f0ad1d86a7e9d3575426f2de4b995393fcf20b98706b88e7d6c7356f27d694fc/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAA%2f9oVqAAAAAKwJBBRii4N1IA7c5aV7aSY+MCQlFA5uSYbLblSgtU1no4FoiLVvhdpegLSCXPd8Yw8gXU%2fvyL1m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000301/Football1808/ENG/hdntl=exp=1787164223~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000301,Football1808,ENG~hmac=f0ad1d86a7e9d3575426f2de4b995393fcf20b98706b88e7d6c7356f27d694fc/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAA%2f9oVqAAAAAKwJBBRii4N1IA7c5aV7aSY+MCQlFA5uSYbLblSgtU1no4FoiLVvhdpegLSCXPd8Yw8gXU%2fvyL1m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000301/Football1808/ENG/hdntl=exp=1787164223~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000301,Football1808,ENG~hmac=f0ad1d86a7e9d3575426f2de4b995393fcf20b98706b88e7d6c7356f27d694fc/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAA%2f9oVqAAAAAKwJBBRii4N1IA7c5aV7aSY+MCQlFA5uSYbLblSgtU1no4FoiLVvhdpegLSCXPd8Yw8gXU%2fvyL1m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000301/Football1808/ENG/hdntl=exp=1787164223~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000301,Football1808,ENG~hmac=f0ad1d86a7e9d3575426f2de4b995393fcf20b98706b88e7d6c7356f27d694fc/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAA%2f9oVqAAAAAKwJBBRii4N1IA7c5aV7aSY+MCQlFA5uSYbLblSgtU1no4FoiLVvhdpegLSCXPd8Yw8gXU%2fvyL1m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000301/Football1808/ENG/hdntl=exp=1787164223~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000301,Football1808,ENG~hmac=f0ad1d86a7e9d3575426f2de4b995393fcf20b98706b88e7d6c7356f27d694fc/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAA%2f9oVqAAAAAKwJBBRii4N1IA7c5aV7aSY+MCQlFA5uSYbLblSgtU1no4FoiLVvhdpegLSCXPd8Yw8gXU%2fvyL1m&aka_media_format_type=hls",
+              "Date": "Wednesday 19th of August 2026 12:00:23 AM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090539534,
+      "video_info": {
+        "title": "UEFA Champions League 2026-27",
+        "shortDescription": "Levski Sofia hosts AEK Athens in a crucial UEFA Champions League 2026-27 Play-offs Leg 1 clash as both teams battle for an early edge. Catch all the action from UEFA Champions League 2026-27, LIVE only on Sony LIV.",
+        "longDescription": "Levski Sofia hosts AEK Athens in a crucial UEFA Champions League 2026-27 Play-offs Leg 1 clash as both teams battle for an early edge. Catch all the action from UEFA Champions League 2026-27, LIVE only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Levski Sofia vs AEK Athens - Play-offs - Leg 1 - 19 Aug 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "18 Aug 2026, 11:55 PM",
+        "contractEndDate": "19 Aug 2026, 04:55 AM",
+        "originalAirDate": "19 Aug 2026, 12:25 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022387/1786980930432843_UCL_26_Play-offs-Leg1_Levski-Sofia-vs-AEK-Athens_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022402/1787031755536942_UCL_26_Play-offs-Leg1_Levski-Sofia-vs-AEK-Athens_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022402/1787031755536942_UCL_26_Play-offs-Leg1_Levski-Sofia-vs-AEK-Athens_live_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "SONY_PRO_MAX",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/20000292/Football1808/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "unavailable",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1787077824157,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "MT-SSB",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "FULL_HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000292/Football1808/ENG/hdntl=exp=1787164224~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000292,Football1808,ENG~hmac=871f2decee1b24e43f44b8ad28020e5f6d6d98ea7c57bdfce53aea872c38c068/master_200.m3u8?aka_me_session_id=AAAAAAAAAABA9oVqAAAAANS7iFj+%2fJdPiTxy33+GMcI4z02H312Hl8KvPM4iPndxNmSRjQyO0ml0D422Tihin3gW98l2n%2fhI&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000292/Football1808/ENG/hdntl=exp=1787164224~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000292,Football1808,ENG~hmac=871f2decee1b24e43f44b8ad28020e5f6d6d98ea7c57bdfce53aea872c38c068/master_400.m3u8?aka_me_session_id=AAAAAAAAAABA9oVqAAAAANS7iFj+%2fJdPiTxy33+GMcI4z02H312Hl8KvPM4iPndxNmSRjQyO0ml0D422Tihin3gW98l2n%2fhI&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000292/Football1808/ENG/hdntl=exp=1787164224~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000292,Football1808,ENG~hmac=871f2decee1b24e43f44b8ad28020e5f6d6d98ea7c57bdfce53aea872c38c068/master_500.m3u8?aka_me_session_id=AAAAAAAAAABA9oVqAAAAANS7iFj+%2fJdPiTxy33+GMcI4z02H312Hl8KvPM4iPndxNmSRjQyO0ml0D422Tihin3gW98l2n%2fhI&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000292/Football1808/ENG/hdntl=exp=1787164224~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000292,Football1808,ENG~hmac=871f2decee1b24e43f44b8ad28020e5f6d6d98ea7c57bdfce53aea872c38c068/master_600.m3u8?aka_me_session_id=AAAAAAAAAABA9oVqAAAAANS7iFj+%2fJdPiTxy33+GMcI4z02H312Hl8KvPM4iPndxNmSRjQyO0ml0D422Tihin3gW98l2n%2fhI&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000292/Football1808/ENG/hdntl=exp=1787164224~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000292,Football1808,ENG~hmac=871f2decee1b24e43f44b8ad28020e5f6d6d98ea7c57bdfce53aea872c38c068/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABA9oVqAAAAANS7iFj+%2fJdPiTxy33+GMcI4z02H312Hl8KvPM4iPndxNmSRjQyO0ml0D422Tihin3gW98l2n%2fhI&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000292/Football1808/ENG/hdntl=exp=1787164224~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000292,Football1808,ENG~hmac=871f2decee1b24e43f44b8ad28020e5f6d6d98ea7c57bdfce53aea872c38c068/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABA9oVqAAAAANS7iFj+%2fJdPiTxy33+GMcI4z02H312Hl8KvPM4iPndxNmSRjQyO0ml0D422Tihin3gW98l2n%2fhI&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000292/Football1808/ENG/hdntl=exp=1787164224~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000292,Football1808,ENG~hmac=871f2decee1b24e43f44b8ad28020e5f6d6d98ea7c57bdfce53aea872c38c068/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABA9oVqAAAAANS7iFj+%2fJdPiTxy33+GMcI4z02H312Hl8KvPM4iPndxNmSRjQyO0ml0D422Tihin3gW98l2n%2fhI&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000292/Football1808/ENG/hdntl=exp=1787164224~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000292,Football1808,ENG~hmac=871f2decee1b24e43f44b8ad28020e5f6d6d98ea7c57bdfce53aea872c38c068/master_2200.m3u8?aka_me_session_id=AAAAAAAAAABA9oVqAAAAANS7iFj+%2fJdPiTxy33+GMcI4z02H312Hl8KvPM4iPndxNmSRjQyO0ml0D422Tihin3gW98l2n%2fhI&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000292/Football1808/ENG/hdntl=exp=1787164224~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000292,Football1808,ENG~hmac=871f2decee1b24e43f44b8ad28020e5f6d6d98ea7c57bdfce53aea872c38c068/master_3800.m3u8?aka_me_session_id=AAAAAAAAAABA9oVqAAAAANS7iFj+%2fJdPiTxy33+GMcI4z02H312Hl8KvPM4iPndxNmSRjQyO0ml0D422Tihin3gW98l2n%2fhI&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000292/Football1808/ENG/hdntl=exp=1787164224~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000292,Football1808,ENG~hmac=871f2decee1b24e43f44b8ad28020e5f6d6d98ea7c57bdfce53aea872c38c068/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABA9oVqAAAAANS7iFj+%2fJdPiTxy33+GMcI4z02H312Hl8KvPM4iPndxNmSRjQyO0ml0D422Tihin3gW98l2n%2fhI&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000292/Football1808/ENG/hdntl=exp=1787164224~acl=%2f*~id=65f2f44e5c3c3ca4dc9b848ae53fcb69-1787074202300~data=hdntl,20000292,Football1808,ENG~hmac=871f2decee1b24e43f44b8ad28020e5f6d6d98ea7c57bdfce53aea872c38c068/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABA9oVqAAAAANS7iFj+%2fJdPiTxy33+GMcI4z02H312Hl8KvPM4iPndxNmSRjQyO0ml0D422Tihin3gW98l2n%2fhI&aka_media_format_type=hls",
+              "Date": "Wednesday 19th of August 2026 12:00:24 AM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090539554,
