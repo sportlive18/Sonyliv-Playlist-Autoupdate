@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "20-08-2026 02:40",
+  "last_updated": "03:00:36 PM 20-08-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,107 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090539798,
+      "video_info": {
+        "title": "Pakistan Tour of England 2026",
+        "shortDescription": "England finished the opening day strongly at 112/2 in reply to Pakistan’s 171, with Joe Root (37*) and Jordan Cox (23*) steering them to within 59 runs of the lead and firmly in control of the 1st Test at Headingley. Will the hosts secure a strong lead on Day 2? Find out as we bring you all the action from Pakistan Tour of England 2026, LIVE on Sony LIV.",
+        "longDescription": "England finished the opening day strongly at 112/2 in reply to Pakistan’s 171, with Joe Root (37*) and Jordan Cox (23*) steering them to within 59 runs of the lead and firmly in control of the 1st Test at Headingley. Will the hosts secure a strong lead on Day 2? Find out as we bring you all the action from Pakistan Tour of England 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Day 2 - 1st Test - 20 Aug 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "20 Aug 2026, 03:00 PM",
+        "contractEndDate": "21 Aug 2026, 03:00 AM",
+        "originalAirDate": "20 Aug 2026, 03:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022533/1787141705907826_eng_vs_pak_live_1Test_day2_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022433/1787051381924890_England_vs_Pakistan_2026_Match_masthead_logo_V1_692x390_1stTEST_LIVE.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022497/1787126866119128_England_vs_Pakistan_2026_Match_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022425/1787047139179230_England_vs_Pakistan_2026_Match_Masthead_logo_1stTEST_Day2_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "SONY_PRO_MAX",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/20000291/England_2008/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "unavailable",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1787218230216,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "MT-SSB",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "FULL_HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_2008/ENG/hdntl=exp=1787304630~acl=%2f*~id=6d1d3e4d8fb0ea1f62dd441423f2d713-1787217001993~data=hdntl,20000291,England_2008,ENG~hmac=5a0bb9a535adb6816ee63295c73928008e27efcf0f431ece7e2f5c6437b1bdd2/master_200.m3u8?aka_me_session_id=AAAAAAAAAAC2GohqAAAAAMwovRuiz6c4qplCYOighucTtyA9Q8uYSC5VPBgCboLc5%2f6V66mciaoVbG1teP1RPKiz2JVxLM%2ff&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_2008/ENG/hdntl=exp=1787304630~acl=%2f*~id=6d1d3e4d8fb0ea1f62dd441423f2d713-1787217001993~data=hdntl,20000291,England_2008,ENG~hmac=5a0bb9a535adb6816ee63295c73928008e27efcf0f431ece7e2f5c6437b1bdd2/master_400.m3u8?aka_me_session_id=AAAAAAAAAAC2GohqAAAAAMwovRuiz6c4qplCYOighucTtyA9Q8uYSC5VPBgCboLc5%2f6V66mciaoVbG1teP1RPKiz2JVxLM%2ff&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_2008/ENG/hdntl=exp=1787304630~acl=%2f*~id=6d1d3e4d8fb0ea1f62dd441423f2d713-1787217001993~data=hdntl,20000291,England_2008,ENG~hmac=5a0bb9a535adb6816ee63295c73928008e27efcf0f431ece7e2f5c6437b1bdd2/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC2GohqAAAAAMwovRuiz6c4qplCYOighucTtyA9Q8uYSC5VPBgCboLc5%2f6V66mciaoVbG1teP1RPKiz2JVxLM%2ff&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_2008/ENG/hdntl=exp=1787304630~acl=%2f*~id=6d1d3e4d8fb0ea1f62dd441423f2d713-1787217001993~data=hdntl,20000291,England_2008,ENG~hmac=5a0bb9a535adb6816ee63295c73928008e27efcf0f431ece7e2f5c6437b1bdd2/master_600.m3u8?aka_me_session_id=AAAAAAAAAAC2GohqAAAAAMwovRuiz6c4qplCYOighucTtyA9Q8uYSC5VPBgCboLc5%2f6V66mciaoVbG1teP1RPKiz2JVxLM%2ff&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_2008/ENG/hdntl=exp=1787304630~acl=%2f*~id=6d1d3e4d8fb0ea1f62dd441423f2d713-1787217001993~data=hdntl,20000291,England_2008,ENG~hmac=5a0bb9a535adb6816ee63295c73928008e27efcf0f431ece7e2f5c6437b1bdd2/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC2GohqAAAAAMwovRuiz6c4qplCYOighucTtyA9Q8uYSC5VPBgCboLc5%2f6V66mciaoVbG1teP1RPKiz2JVxLM%2ff&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_2008/ENG/hdntl=exp=1787304630~acl=%2f*~id=6d1d3e4d8fb0ea1f62dd441423f2d713-1787217001993~data=hdntl,20000291,England_2008,ENG~hmac=5a0bb9a535adb6816ee63295c73928008e27efcf0f431ece7e2f5c6437b1bdd2/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAC2GohqAAAAAMwovRuiz6c4qplCYOighucTtyA9Q8uYSC5VPBgCboLc5%2f6V66mciaoVbG1teP1RPKiz2JVxLM%2ff&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_2008/ENG/hdntl=exp=1787304630~acl=%2f*~id=6d1d3e4d8fb0ea1f62dd441423f2d713-1787217001993~data=hdntl,20000291,England_2008,ENG~hmac=5a0bb9a535adb6816ee63295c73928008e27efcf0f431ece7e2f5c6437b1bdd2/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC2GohqAAAAAMwovRuiz6c4qplCYOighucTtyA9Q8uYSC5VPBgCboLc5%2f6V66mciaoVbG1teP1RPKiz2JVxLM%2ff&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_2008/ENG/hdntl=exp=1787304630~acl=%2f*~id=6d1d3e4d8fb0ea1f62dd441423f2d713-1787217001993~data=hdntl,20000291,England_2008,ENG~hmac=5a0bb9a535adb6816ee63295c73928008e27efcf0f431ece7e2f5c6437b1bdd2/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAC2GohqAAAAAMwovRuiz6c4qplCYOighucTtyA9Q8uYSC5VPBgCboLc5%2f6V66mciaoVbG1teP1RPKiz2JVxLM%2ff&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_2008/ENG/hdntl=exp=1787304630~acl=%2f*~id=6d1d3e4d8fb0ea1f62dd441423f2d713-1787217001993~data=hdntl,20000291,England_2008,ENG~hmac=5a0bb9a535adb6816ee63295c73928008e27efcf0f431ece7e2f5c6437b1bdd2/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAC2GohqAAAAAMwovRuiz6c4qplCYOighucTtyA9Q8uYSC5VPBgCboLc5%2f6V66mciaoVbG1teP1RPKiz2JVxLM%2ff&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_2008/ENG/hdntl=exp=1787304630~acl=%2f*~id=6d1d3e4d8fb0ea1f62dd441423f2d713-1787217001993~data=hdntl,20000291,England_2008,ENG~hmac=5a0bb9a535adb6816ee63295c73928008e27efcf0f431ece7e2f5c6437b1bdd2/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC2GohqAAAAAMwovRuiz6c4qplCYOighucTtyA9Q8uYSC5VPBgCboLc5%2f6V66mciaoVbG1teP1RPKiz2JVxLM%2ff&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_2008/ENG/hdntl=exp=1787304630~acl=%2f*~id=6d1d3e4d8fb0ea1f62dd441423f2d713-1787217001993~data=hdntl,20000291,England_2008,ENG~hmac=5a0bb9a535adb6816ee63295c73928008e27efcf0f431ece7e2f5c6437b1bdd2/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAC2GohqAAAAAMwovRuiz6c4qplCYOighucTtyA9Q8uYSC5VPBgCboLc5%2f6V66mciaoVbG1teP1RPKiz2JVxLM%2ff&aka_media_format_type=hls",
+              "Date": "Thursday 20th of August 2026 03:00:30 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090539554,
@@ -124,14 +224,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022494/178712333073937_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_Promo_DDT_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022494/178712338135837_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_Promo_DDT_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022582/1787205697177295_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_Promo_Tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022582/1787205671255295_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_Promo_Tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022458/1787063715293821_DURAND_CUP_2026_Match_masthead_mobile_v2_984x1182_Mohun_Bagan_Super_Giant_vs_Northeast_United_FC.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022458/1787063714554821_DURAND_CUP_2026_Match_Masthead_logo_Mohun_Bagan_Super_Giant_vs_Northeast_United_FC_TONIGHT.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022494/178712338135837_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_Promo_DDT_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022582/1787205671255295_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_Promo_Tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -546,68 +646,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022376/1786976877644557_Womens_Asia_Cup_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090539212,
-      "video_info": {
-        "title": "Upcoming - India Tour of Sri Lanka - Ajinkya Rahane",
-        "shortDescription": "Tune in to catch all the action from India Tour of Sri Lanka, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of Sri Lanka, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          },
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN,ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/7d86b7d1438c43348286b2c2e184464b/1786774139/baseline-std-v4/1090539212_13082026_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "13 Aug 2026, 06:30 PM",
-        "contractEndDate": "27 Aug 2026, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022170/1786640578574944_slvsind_rahane_promo_landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022170/1786640578574944_slvsind_rahane_promo_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022170/1786640578574944_slvsind_rahane_promo_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
