@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "06:20:56 PM 25-08-2026",
+  "last_updated": "09:00:28 PM 25-08-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -19,15 +19,115 @@
   },
   "data": [
     {
+      "contentId": 1090538390,
+      "video_info": {
+        "title": "Kaun Banega Crorepati",
+        "shortDescription": "Kaun Banega Crorepati Season 18 is here on Sony LIV! Join Amitabh Bachchan as India's biggest quiz show returns, championing the power of applied knowledge with the new theme, “Sochna Padega.” In a world where information is everywhere, what matters is how you apply it. Watch every episode, play along live on Sony LIV, answer questions in real time, and stand a chance to win exciting prizes.",
+        "longDescription": "Kaun Banega Crorepati Season 18 is here on Sony LIV! Join Amitabh Bachchan as India's biggest quiz show returns, championing the power of applied knowledge with the new theme, “Sochna Padega.” In a world where information is everywhere, what matters is how you apply it. Watch every episode, play along live on Sony LIV, answer questions in real time, and stand a chance to win exciting prizes.",
+        "genres": [
+          "Game show"
+        ],
+        "episodeTitle": "Kaun Banega Crorepati"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/275o2m1SSRGJAqHCQfrzbQ/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "25 Aug 2026, 08:30 PM",
+        "contractEndDate": "25 Aug 2026, 10:59 PM",
+        "originalAirDate": "25 Aug 2026, 08:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022063/1786455803745269_KBC_S18_Generic_Simulcast_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022062/1786455674318131_KBC_S18_Generic_Simulcast_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022908/1787665646701717_KBC_25th_Aug_Episode_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021751/1785756584846923_KBC_dated_3aug_Masthead_logo.png",
+        "circular_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021694/1785652805162510_KBC25_26_3_Circular_Image.jpg",
+        "image_600x900_clean": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022004/1786370266203134_KBC25_26_3_600x900_clean_Airtel_Portrait.jpg",
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022062/1786455674318131_KBC_S18_Generic_Simulcast_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "SONY_PRO_MAX",
+              "message": "success",
+              "X-Served-By": "JARVIS",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022321/kbc182508/HIN/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi"
+                }
+              ],
+              "dai_asset_key": "unavailable",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1787671816163,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "MT-SSB",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "FULL_HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182508/HIN/hdntl=exp=1787758217~acl=%2f*~id=b569645eceed7ebd8152a375beacaaa8-1787668200811~data=hdntl,2022321,kbc182508,HIN~hmac=cea7bac0aaef5a518f46cb3bb983f9a8617c7a0608d87199d2ff90b3921254a8/master_200.m3u8?aka_me_session_id=AAAAAAAAAACJBo9qAAAAAPdfGvsMrhecCsEz0+Hy69nDuCUyYHXEwgTSJvvMvzIP3bokTxruwzRzZEXmyrVOweEOuF9nG2zC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=581816,AVERAGE-BANDWIDTH=581816,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182508/HIN/hdntl=exp=1787758217~acl=%2f*~id=b569645eceed7ebd8152a375beacaaa8-1787668200811~data=hdntl,2022321,kbc182508,HIN~hmac=cea7bac0aaef5a518f46cb3bb983f9a8617c7a0608d87199d2ff90b3921254a8/master_350.m3u8?aka_me_session_id=AAAAAAAAAACJBo9qAAAAAPdfGvsMrhecCsEz0+Hy69nDuCUyYHXEwgTSJvvMvzIP3bokTxruwzRzZEXmyrVOweEOuF9nG2zC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182508/HIN/hdntl=exp=1787758217~acl=%2f*~id=b569645eceed7ebd8152a375beacaaa8-1787668200811~data=hdntl,2022321,kbc182508,HIN~hmac=cea7bac0aaef5a518f46cb3bb983f9a8617c7a0608d87199d2ff90b3921254a8/master_500.m3u8?aka_me_session_id=AAAAAAAAAACJBo9qAAAAAPdfGvsMrhecCsEz0+Hy69nDuCUyYHXEwgTSJvvMvzIP3bokTxruwzRzZEXmyrVOweEOuF9nG2zC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182508/HIN/hdntl=exp=1787758217~acl=%2f*~id=b569645eceed7ebd8152a375beacaaa8-1787668200811~data=hdntl,2022321,kbc182508,HIN~hmac=cea7bac0aaef5a518f46cb3bb983f9a8617c7a0608d87199d2ff90b3921254a8/master_700.m3u8?aka_me_session_id=AAAAAAAAAACJBo9qAAAAAPdfGvsMrhecCsEz0+Hy69nDuCUyYHXEwgTSJvvMvzIP3bokTxruwzRzZEXmyrVOweEOuF9nG2zC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182508/HIN/hdntl=exp=1787758217~acl=%2f*~id=b569645eceed7ebd8152a375beacaaa8-1787668200811~data=hdntl,2022321,kbc182508,HIN~hmac=cea7bac0aaef5a518f46cb3bb983f9a8617c7a0608d87199d2ff90b3921254a8/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACJBo9qAAAAAPdfGvsMrhecCsEz0+Hy69nDuCUyYHXEwgTSJvvMvzIP3bokTxruwzRzZEXmyrVOweEOuF9nG2zC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182508/HIN/hdntl=exp=1787758217~acl=%2f*~id=b569645eceed7ebd8152a375beacaaa8-1787668200811~data=hdntl,2022321,kbc182508,HIN~hmac=cea7bac0aaef5a518f46cb3bb983f9a8617c7a0608d87199d2ff90b3921254a8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACJBo9qAAAAAPdfGvsMrhecCsEz0+Hy69nDuCUyYHXEwgTSJvvMvzIP3bokTxruwzRzZEXmyrVOweEOuF9nG2zC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2778568,AVERAGE-BANDWIDTH=2778568,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182508/HIN/hdntl=exp=1787758217~acl=%2f*~id=b569645eceed7ebd8152a375beacaaa8-1787668200811~data=hdntl,2022321,kbc182508,HIN~hmac=cea7bac0aaef5a518f46cb3bb983f9a8617c7a0608d87199d2ff90b3921254a8/master_2500.m3u8?aka_me_session_id=AAAAAAAAAACJBo9qAAAAAPdfGvsMrhecCsEz0+Hy69nDuCUyYHXEwgTSJvvMvzIP3bokTxruwzRzZEXmyrVOweEOuF9nG2zC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182508/HIN/hdntl=exp=1787758217~acl=%2f*~id=b569645eceed7ebd8152a375beacaaa8-1787668200811~data=hdntl,2022321,kbc182508,HIN~hmac=cea7bac0aaef5a518f46cb3bb983f9a8617c7a0608d87199d2ff90b3921254a8/master_3500.m3u8?aka_me_session_id=AAAAAAAAAACJBo9qAAAAAPdfGvsMrhecCsEz0+Hy69nDuCUyYHXEwgTSJvvMvzIP3bokTxruwzRzZEXmyrVOweEOuF9nG2zC&aka_media_format_type=hls",
+              "Date": "Tuesday 25th of August 2026 09:00:17 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
       "contentId": 1090540287,
       "video_info": {
         "title": "JITO Premier League 2026",
-        "shortDescription": "Pune Peshwas and Chennai Strikers gear up for a thrilling contest as both sides look to make a strong start in the JITO Premier League 2026. Watch all the action LIVE, only on Sony LIV.",
-        "longDescription": "Pune Peshwas and Chennai Strikers gear up for a thrilling contest as both sides look to make a strong start in the JITO Premier League 2026. Watch all the action LIVE, only on Sony LIV.",
+        "shortDescription": "Royals Hyderabad and Mumbai Sobo Stars gear up for a thrilling contest as both teams look to gain early momentum in the T20 Mumbai League 2026. Watch all the action LIVE, only on Sony LIV.",
+        "longDescription": "Royals Hyderabad and Mumbai Sobo Stars gear up for a thrilling contest as both teams look to gain early momentum in the T20 Mumbai League 2026. Watch all the action LIVE, only on Sony LIV.",
         "genres": [
           "Cricket"
         ],
-        "episodeTitle": "Pune Peshwas vs Chennai Strikers - 25 Aug 2026"
+        "episodeTitle": "Royals Hyderabad vs Mumbai Sobo Stars - 25 Aug 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -62,14 +162,14 @@
         "originalAirDate": "25 Aug 2026, 09:50 AM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022863/1787640180703424_JPL26_PUNE_PESHWAS_vs_CHENNAI_STRIKERS_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022862/1787639833874927_JPL26_PUNE_PESHWAS_vs_CHENNAI_STRIKERS_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022867/1787641578203448_JPL26_ROYALS_HYDERABAD_vs_MUMBAI_SOBO_STARS_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022867/1787641635206448_JPL26_ROYALS_HYDERABAD_vs_MUMBAI_SOBO_STARS_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022862/1787640081270927_JPL26_PUNE_PESHWAS_vs_CHENNAI_STRIKERS_masthead_mobile_v2.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022867/1787640729054448_JPL26_ROYALS_HYDERABAD_vs_MUMBAI_SOBO_STARS_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022842/1787585220789539_JITO-Premier-League-2026_Match_Masthead_logo_Mumbai_Kings_vs_Chennai_Strikers_lIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022862/1787639833874927_JPL26_PUNE_PESHWAS_vs_CHENNAI_STRIKERS_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022867/1787641635206448_JPL26_ROYALS_HYDERABAD_vs_MUMBAI_SOBO_STARS_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
         {
