@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "11:00:16 PM 27-08-2026",
+  "last_updated": "28-08-2026 02:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -14,207 +14,10 @@
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "ALL_IN_ONE": "ON",
-    "SERVER_STATUS": "NORMAL",
+    "SERVER_STATUS": "CRITICAL WARNING",
     "USAGE_GUIDE": []
   },
-  "data": [
-    {
-      "contentId": 1090538390,
-      "video_info": {
-        "title": "Kaun Banega Crorepati",
-        "shortDescription": "Kaun Banega Crorepati Season 18 is here on Sony LIV! Join Amitabh Bachchan as India's biggest quiz show returns, championing the power of applied knowledge with the new theme, “Sochna Padega.” In a world where information is everywhere, what matters is how you apply it. Watch every episode, play along live on Sony LIV, answer questions in real time, and stand a chance to win exciting prizes.",
-        "longDescription": "Kaun Banega Crorepati Season 18 is here on Sony LIV! Join Amitabh Bachchan as India's biggest quiz show returns, championing the power of applied knowledge with the new theme, “Sochna Padega.” In a world where information is everywhere, what matters is how you apply it. Watch every episode, play along live on Sony LIV, answer questions in real time, and stand a chance to win exciting prizes.",
-        "genres": [
-          "Game show"
-        ],
-        "episodeTitle": "Kaun Banega Crorepati"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/275o2m1SSRGJAqHCQfrzbQ/master.m3u8",
-        "broadcast_channel": "SET",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "27 Aug 2026, 08:30 PM",
-        "contractEndDate": "27 Aug 2026, 11:10 PM",
-        "originalAirDate": "27 Aug 2026, 08:30 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022063/1786455803745269_KBC_S18_Generic_Simulcast_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022062/1786455674318131_KBC_S18_Generic_Simulcast_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023059/178784180869143_KBC_27th_Aug_Episode_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021751/1785756584846923_KBC_dated_3aug_Masthead_logo.png",
-        "circular_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021694/1785652805162510_KBC25_26_3_Circular_Image.jpg",
-        "image_600x900_clean": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022004/1786370266203134_KBC25_26_3_600x900_clean_Airtel_Portrait.jpg",
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022062/1786455674318131_KBC_S18_Generic_Simulcast_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": [
-        {
-          "language": "Hindi",
-          "lang_code": "HIN",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022321/kbc182708/HIN/master.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "HIN",
-                "audioLanguageLabel": "Hindi"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1787847006853,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182708/HIN/hdntl=exp=1787933407~acl=%2f*~id=1c7ffb2566e5e2fb033fa97c3a088d40-1787841132527~data=hdntl,2022321,kbc182708,HIN~hmac=33f2a1d3369b6ec419771327abde7c828f0795ff8325ccf5c4da35b54a02e829/master_200.m3u8?aka_me_session_id=AAAAAAAAAADfspFqAAAAALyn%2f7nSybMA3PdPWn1wd8Rvd+QY6SkIwuKj5bcj3CaBGoOr7yUa3%2fGYjZ3MR%2fX7d+SO3D+RIpuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=581816,AVERAGE-BANDWIDTH=581816,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182708/HIN/hdntl=exp=1787933407~acl=%2f*~id=1c7ffb2566e5e2fb033fa97c3a088d40-1787841132527~data=hdntl,2022321,kbc182708,HIN~hmac=33f2a1d3369b6ec419771327abde7c828f0795ff8325ccf5c4da35b54a02e829/master_350.m3u8?aka_me_session_id=AAAAAAAAAADfspFqAAAAALyn%2f7nSybMA3PdPWn1wd8Rvd+QY6SkIwuKj5bcj3CaBGoOr7yUa3%2fGYjZ3MR%2fX7d+SO3D+RIpuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182708/HIN/hdntl=exp=1787933407~acl=%2f*~id=1c7ffb2566e5e2fb033fa97c3a088d40-1787841132527~data=hdntl,2022321,kbc182708,HIN~hmac=33f2a1d3369b6ec419771327abde7c828f0795ff8325ccf5c4da35b54a02e829/master_500.m3u8?aka_me_session_id=AAAAAAAAAADfspFqAAAAALyn%2f7nSybMA3PdPWn1wd8Rvd+QY6SkIwuKj5bcj3CaBGoOr7yUa3%2fGYjZ3MR%2fX7d+SO3D+RIpuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182708/HIN/hdntl=exp=1787933407~acl=%2f*~id=1c7ffb2566e5e2fb033fa97c3a088d40-1787841132527~data=hdntl,2022321,kbc182708,HIN~hmac=33f2a1d3369b6ec419771327abde7c828f0795ff8325ccf5c4da35b54a02e829/master_700.m3u8?aka_me_session_id=AAAAAAAAAADfspFqAAAAALyn%2f7nSybMA3PdPWn1wd8Rvd+QY6SkIwuKj5bcj3CaBGoOr7yUa3%2fGYjZ3MR%2fX7d+SO3D+RIpuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182708/HIN/hdntl=exp=1787933407~acl=%2f*~id=1c7ffb2566e5e2fb033fa97c3a088d40-1787841132527~data=hdntl,2022321,kbc182708,HIN~hmac=33f2a1d3369b6ec419771327abde7c828f0795ff8325ccf5c4da35b54a02e829/master_1300.m3u8?aka_me_session_id=AAAAAAAAAADfspFqAAAAALyn%2f7nSybMA3PdPWn1wd8Rvd+QY6SkIwuKj5bcj3CaBGoOr7yUa3%2fGYjZ3MR%2fX7d+SO3D+RIpuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182708/HIN/hdntl=exp=1787933407~acl=%2f*~id=1c7ffb2566e5e2fb033fa97c3a088d40-1787841132527~data=hdntl,2022321,kbc182708,HIN~hmac=33f2a1d3369b6ec419771327abde7c828f0795ff8325ccf5c4da35b54a02e829/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADfspFqAAAAALyn%2f7nSybMA3PdPWn1wd8Rvd+QY6SkIwuKj5bcj3CaBGoOr7yUa3%2fGYjZ3MR%2fX7d+SO3D+RIpuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2778568,AVERAGE-BANDWIDTH=2778568,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182708/HIN/hdntl=exp=1787933407~acl=%2f*~id=1c7ffb2566e5e2fb033fa97c3a088d40-1787841132527~data=hdntl,2022321,kbc182708,HIN~hmac=33f2a1d3369b6ec419771327abde7c828f0795ff8325ccf5c4da35b54a02e829/master_2500.m3u8?aka_me_session_id=AAAAAAAAAADfspFqAAAAALyn%2f7nSybMA3PdPWn1wd8Rvd+QY6SkIwuKj5bcj3CaBGoOr7yUa3%2fGYjZ3MR%2fX7d+SO3D+RIpuH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc182708/HIN/hdntl=exp=1787933407~acl=%2f*~id=1c7ffb2566e5e2fb033fa97c3a088d40-1787841132527~data=hdntl,2022321,kbc182708,HIN~hmac=33f2a1d3369b6ec419771327abde7c828f0795ff8325ccf5c4da35b54a02e829/master_3500.m3u8?aka_me_session_id=AAAAAAAAAADfspFqAAAAALyn%2f7nSybMA3PdPWn1wd8Rvd+QY6SkIwuKj5bcj3CaBGoOr7yUa3%2fGYjZ3MR%2fX7d+SO3D+RIpuH&aka_media_format_type=hls",
-            "Date": "Thursday 27th of August 2026 09:40:07 PM"
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090540508,
-      "video_info": {
-        "title": "Pakistan Tour of England 2026",
-        "shortDescription": "After taking the lead in the series, England will look to strengthen their advantage, while Pakistan aim to respond with a strong performance and level the contest. Watch England and Pakistan lock horns in the 2nd Test at the iconic Lord's Cricket Ground, LIVE on Sony LIV.",
-        "longDescription": "After taking the lead in the series, England will look to strengthen their advantage, while Pakistan aim to respond with a strong performance and level the contest. Watch England and Pakistan lock horns in the 2nd Test at the iconic Lord's Cricket Ground, LIVE on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": "Day 1 - 2nd Test - 27 Aug 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/crsp3JRrRlSvHEUFEn4FPA/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "27 Aug 2026, 03:00 PM",
-        "contractEndDate": "28 Aug 2026, 03:00 AM",
-        "originalAirDate": "27 Aug 2026, 03:30 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023038/1787834668297339_eng_vs_pak_2ndtest_day1_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023039/1787835120637186_eng_vs_pak_2ndtest_day1_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023050/1787837121213787_England_vs_Pakistan_2026_Match_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022982/1787737538000824_England_vs_Pakistan_2026_Match_Masthead_logo_01_live.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023039/1787835120637186_eng_vs_pak_2ndtest_day1_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": [
-        {
-          "language": "English",
-          "lang_code": "ENG",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022317/England_2708/ENG/master.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1787825410326,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/England_2708/ENG/hdntl=exp=1787911810~acl=%2f*~id=6ce0645ec29f4196f29013307dce4e98-1787818250680~data=hdntl,2022317,England_2708,ENG~hmac=cb22e069d58ad4d57657feff0872b2420e0bcfd830020cc73e8b47e1908242c9/master_200.m3u8?aka_me_session_id=AAAAAAAAAACCXpFqAAAAAO8mIoIm6eNttXmoFo+QZgKwn9GLexSK+oQQsVFTDjTIlIuXjHH1Oke3LavzH9CjuAYv3azC+dhy&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/England_2708/ENG/hdntl=exp=1787911810~acl=%2f*~id=6ce0645ec29f4196f29013307dce4e98-1787818250680~data=hdntl,2022317,England_2708,ENG~hmac=cb22e069d58ad4d57657feff0872b2420e0bcfd830020cc73e8b47e1908242c9/master_400.m3u8?aka_me_session_id=AAAAAAAAAACCXpFqAAAAAO8mIoIm6eNttXmoFo+QZgKwn9GLexSK+oQQsVFTDjTIlIuXjHH1Oke3LavzH9CjuAYv3azC+dhy&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/England_2708/ENG/hdntl=exp=1787911810~acl=%2f*~id=6ce0645ec29f4196f29013307dce4e98-1787818250680~data=hdntl,2022317,England_2708,ENG~hmac=cb22e069d58ad4d57657feff0872b2420e0bcfd830020cc73e8b47e1908242c9/master_500.m3u8?aka_me_session_id=AAAAAAAAAACCXpFqAAAAAO8mIoIm6eNttXmoFo+QZgKwn9GLexSK+oQQsVFTDjTIlIuXjHH1Oke3LavzH9CjuAYv3azC+dhy&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/England_2708/ENG/hdntl=exp=1787911810~acl=%2f*~id=6ce0645ec29f4196f29013307dce4e98-1787818250680~data=hdntl,2022317,England_2708,ENG~hmac=cb22e069d58ad4d57657feff0872b2420e0bcfd830020cc73e8b47e1908242c9/master_600.m3u8?aka_me_session_id=AAAAAAAAAACCXpFqAAAAAO8mIoIm6eNttXmoFo+QZgKwn9GLexSK+oQQsVFTDjTIlIuXjHH1Oke3LavzH9CjuAYv3azC+dhy&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/England_2708/ENG/hdntl=exp=1787911810~acl=%2f*~id=6ce0645ec29f4196f29013307dce4e98-1787818250680~data=hdntl,2022317,England_2708,ENG~hmac=cb22e069d58ad4d57657feff0872b2420e0bcfd830020cc73e8b47e1908242c9/master_1000.m3u8?aka_me_session_id=AAAAAAAAAACCXpFqAAAAAO8mIoIm6eNttXmoFo+QZgKwn9GLexSK+oQQsVFTDjTIlIuXjHH1Oke3LavzH9CjuAYv3azC+dhy&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/England_2708/ENG/hdntl=exp=1787911810~acl=%2f*~id=6ce0645ec29f4196f29013307dce4e98-1787818250680~data=hdntl,2022317,England_2708,ENG~hmac=cb22e069d58ad4d57657feff0872b2420e0bcfd830020cc73e8b47e1908242c9/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACCXpFqAAAAAO8mIoIm6eNttXmoFo+QZgKwn9GLexSK+oQQsVFTDjTIlIuXjHH1Oke3LavzH9CjuAYv3azC+dhy&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/England_2708/ENG/hdntl=exp=1787911810~acl=%2f*~id=6ce0645ec29f4196f29013307dce4e98-1787818250680~data=hdntl,2022317,England_2708,ENG~hmac=cb22e069d58ad4d57657feff0872b2420e0bcfd830020cc73e8b47e1908242c9/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACCXpFqAAAAAO8mIoIm6eNttXmoFo+QZgKwn9GLexSK+oQQsVFTDjTIlIuXjHH1Oke3LavzH9CjuAYv3azC+dhy&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/England_2708/ENG/hdntl=exp=1787911810~acl=%2f*~id=6ce0645ec29f4196f29013307dce4e98-1787818250680~data=hdntl,2022317,England_2708,ENG~hmac=cb22e069d58ad4d57657feff0872b2420e0bcfd830020cc73e8b47e1908242c9/master_2200.m3u8?aka_me_session_id=AAAAAAAAAACCXpFqAAAAAO8mIoIm6eNttXmoFo+QZgKwn9GLexSK+oQQsVFTDjTIlIuXjHH1Oke3LavzH9CjuAYv3azC+dhy&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/England_2708/ENG/hdntl=exp=1787911810~acl=%2f*~id=6ce0645ec29f4196f29013307dce4e98-1787818250680~data=hdntl,2022317,England_2708,ENG~hmac=cb22e069d58ad4d57657feff0872b2420e0bcfd830020cc73e8b47e1908242c9/master_3800.m3u8?aka_me_session_id=AAAAAAAAAACCXpFqAAAAAO8mIoIm6eNttXmoFo+QZgKwn9GLexSK+oQQsVFTDjTIlIuXjHH1Oke3LavzH9CjuAYv3azC+dhy&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/England_2708/ENG/hdntl=exp=1787911810~acl=%2f*~id=6ce0645ec29f4196f29013307dce4e98-1787818250680~data=hdntl,2022317,England_2708,ENG~hmac=cb22e069d58ad4d57657feff0872b2420e0bcfd830020cc73e8b47e1908242c9/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACCXpFqAAAAAO8mIoIm6eNttXmoFo+QZgKwn9GLexSK+oQQsVFTDjTIlIuXjHH1Oke3LavzH9CjuAYv3azC+dhy&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/England_2708/ENG/hdntl=exp=1787911810~acl=%2f*~id=6ce0645ec29f4196f29013307dce4e98-1787818250680~data=hdntl,2022317,England_2708,ENG~hmac=cb22e069d58ad4d57657feff0872b2420e0bcfd830020cc73e8b47e1908242c9/master_3000.m3u8?aka_me_session_id=AAAAAAAAAACCXpFqAAAAAO8mIoIm6eNttXmoFo+QZgKwn9GLexSK+oQQsVFTDjTIlIuXjHH1Oke3LavzH9CjuAYv3azC+dhy&aka_media_format_type=hls",
-            "Date": "Thursday 27th of August 2026 03:40:11 PM"
-          }
-        }
-      ]
-    }
-  ],
+  "data": [],
   "upcoming": [
     {
       "contentId": 1090540517,
@@ -499,14 +302,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022418/178703190796560_asia_cup_w26_dated_rev_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022418/178704318120860_asia_cup_w26_dated_rev_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023063/1787843439037542_asia_cup_w26_tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023063/1787843485769542_asia_cup_w26_tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022390/178698244331256_Asia_Cup_Womens_2026_GOB_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022390/178698244312856_Asia_Cup_Womens_2026_GOB_Masthead_logo_Dated.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023063/1787843264141542_womens_AC26_tonight_promo_masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022418/178704318120860_asia_cup_w26_dated_rev_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023063/1787843485769542_asia_cup_w26_tonight_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
@@ -863,64 +666,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090539234,
-      "video_info": {
-        "title": "Upcoming - Team India's Cricket Tours",
-        "shortDescription": "Tune in to catch all the action from India's upcoming cricket tours, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India's upcoming cricket tours, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/1c557926548745279d1e4d557c4027ea/1786697686/baseline-std-v4/PROMO_4_MONTHS_COMBO_40_SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "14 Aug 2026, 02:00 PM",
-        "contractEndDate": "27 Aug 2026, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022185/1786698001324453_nz_Vs_ind_promo_landscape.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022185/1786698001324453_nz_Vs_ind_promo_landscape.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022185/1786698001324453_nz_Vs_ind_promo_landscape.jpg"
       },
       "multiple_audio_links": []
     },
