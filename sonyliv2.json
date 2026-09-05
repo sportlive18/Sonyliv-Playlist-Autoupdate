@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "04-09-2026 23:20",
+  "last_updated": "05-09-2026 09:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,106 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090541486,
+      "video_info": {
+        "title": "JITO Premier League 2026",
+        "shortDescription": "Bangalore Blasters take on Rajasthan Rajvansh in a thrilling JITO Premier League 2026 Qualifier 2 clash. Catch all the LIVE action, only on Sony LIV.",
+        "longDescription": "Bangalore Blasters take on Rajasthan Rajvansh in a thrilling JITO Premier League 2026 Qualifier 2 clash. Catch all the LIVE action, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Bangalore Blasters vs Rajasthan Rajvansh - Qualifier 2 - 5 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/MteJAW66RAWpiknIUUM7GQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "05 Sep 2026, 09:30 AM",
+        "contractEndDate": "05 Sep 2026, 06:15 PM",
+        "originalAirDate": "05 Sep 2026, 10:00 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023514/1788552168417987_JPL_Qualifier2_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023514/1788552191862987_JPL_Qualifier2_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023514/1788552191862987_JPL_Qualifier2_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/Criclive0509/ENG/master.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1788581408356,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Criclive0509/ENG/hdntl=exp=1788667814~acl=%2f*~id=9bc9394b13a537ecb0943097d5cbbdc7-1788581402314~data=hdntl,2018457,Criclive0509,ENG~hmac=b59e2ce6272c4ba5f2189577975e52cc6d56554c5264284ea7a183610940badc/master_200.m3u8?aka_me_session_id=AAAAAAAAAACm55xqAAAAAOXDSbCakPUPYaNJ5%2f2OkjG1kFRl9TaQvgjxzKDY3IC8JQ%2fDK6X7Z1nQBm91CsJXGpj4QPpc%2fCAl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Criclive0509/ENG/hdntl=exp=1788667814~acl=%2f*~id=9bc9394b13a537ecb0943097d5cbbdc7-1788581402314~data=hdntl,2018457,Criclive0509,ENG~hmac=b59e2ce6272c4ba5f2189577975e52cc6d56554c5264284ea7a183610940badc/master_400.m3u8?aka_me_session_id=AAAAAAAAAACm55xqAAAAAOXDSbCakPUPYaNJ5%2f2OkjG1kFRl9TaQvgjxzKDY3IC8JQ%2fDK6X7Z1nQBm91CsJXGpj4QPpc%2fCAl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Criclive0509/ENG/hdntl=exp=1788667814~acl=%2f*~id=9bc9394b13a537ecb0943097d5cbbdc7-1788581402314~data=hdntl,2018457,Criclive0509,ENG~hmac=b59e2ce6272c4ba5f2189577975e52cc6d56554c5264284ea7a183610940badc/master_500.m3u8?aka_me_session_id=AAAAAAAAAACm55xqAAAAAOXDSbCakPUPYaNJ5%2f2OkjG1kFRl9TaQvgjxzKDY3IC8JQ%2fDK6X7Z1nQBm91CsJXGpj4QPpc%2fCAl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Criclive0509/ENG/hdntl=exp=1788667814~acl=%2f*~id=9bc9394b13a537ecb0943097d5cbbdc7-1788581402314~data=hdntl,2018457,Criclive0509,ENG~hmac=b59e2ce6272c4ba5f2189577975e52cc6d56554c5264284ea7a183610940badc/master_600.m3u8?aka_me_session_id=AAAAAAAAAACm55xqAAAAAOXDSbCakPUPYaNJ5%2f2OkjG1kFRl9TaQvgjxzKDY3IC8JQ%2fDK6X7Z1nQBm91CsJXGpj4QPpc%2fCAl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Criclive0509/ENG/hdntl=exp=1788667814~acl=%2f*~id=9bc9394b13a537ecb0943097d5cbbdc7-1788581402314~data=hdntl,2018457,Criclive0509,ENG~hmac=b59e2ce6272c4ba5f2189577975e52cc6d56554c5264284ea7a183610940badc/master_1000.m3u8?aka_me_session_id=AAAAAAAAAACm55xqAAAAAOXDSbCakPUPYaNJ5%2f2OkjG1kFRl9TaQvgjxzKDY3IC8JQ%2fDK6X7Z1nQBm91CsJXGpj4QPpc%2fCAl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Criclive0509/ENG/hdntl=exp=1788667814~acl=%2f*~id=9bc9394b13a537ecb0943097d5cbbdc7-1788581402314~data=hdntl,2018457,Criclive0509,ENG~hmac=b59e2ce6272c4ba5f2189577975e52cc6d56554c5264284ea7a183610940badc/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACm55xqAAAAAOXDSbCakPUPYaNJ5%2f2OkjG1kFRl9TaQvgjxzKDY3IC8JQ%2fDK6X7Z1nQBm91CsJXGpj4QPpc%2fCAl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Criclive0509/ENG/hdntl=exp=1788667814~acl=%2f*~id=9bc9394b13a537ecb0943097d5cbbdc7-1788581402314~data=hdntl,2018457,Criclive0509,ENG~hmac=b59e2ce6272c4ba5f2189577975e52cc6d56554c5264284ea7a183610940badc/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACm55xqAAAAAOXDSbCakPUPYaNJ5%2f2OkjG1kFRl9TaQvgjxzKDY3IC8JQ%2fDK6X7Z1nQBm91CsJXGpj4QPpc%2fCAl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Criclive0509/ENG/hdntl=exp=1788667814~acl=%2f*~id=9bc9394b13a537ecb0943097d5cbbdc7-1788581402314~data=hdntl,2018457,Criclive0509,ENG~hmac=b59e2ce6272c4ba5f2189577975e52cc6d56554c5264284ea7a183610940badc/master_2200.m3u8?aka_me_session_id=AAAAAAAAAACm55xqAAAAAOXDSbCakPUPYaNJ5%2f2OkjG1kFRl9TaQvgjxzKDY3IC8JQ%2fDK6X7Z1nQBm91CsJXGpj4QPpc%2fCAl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Criclive0509/ENG/hdntl=exp=1788667814~acl=%2f*~id=9bc9394b13a537ecb0943097d5cbbdc7-1788581402314~data=hdntl,2018457,Criclive0509,ENG~hmac=b59e2ce6272c4ba5f2189577975e52cc6d56554c5264284ea7a183610940badc/master_3800.m3u8?aka_me_session_id=AAAAAAAAAACm55xqAAAAAOXDSbCakPUPYaNJ5%2f2OkjG1kFRl9TaQvgjxzKDY3IC8JQ%2fDK6X7Z1nQBm91CsJXGpj4QPpc%2fCAl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Criclive0509/ENG/hdntl=exp=1788667814~acl=%2f*~id=9bc9394b13a537ecb0943097d5cbbdc7-1788581402314~data=hdntl,2018457,Criclive0509,ENG~hmac=b59e2ce6272c4ba5f2189577975e52cc6d56554c5264284ea7a183610940badc/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACm55xqAAAAAOXDSbCakPUPYaNJ5%2f2OkjG1kFRl9TaQvgjxzKDY3IC8JQ%2fDK6X7Z1nQBm91CsJXGpj4QPpc%2fCAl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Criclive0509/ENG/hdntl=exp=1788667814~acl=%2f*~id=9bc9394b13a537ecb0943097d5cbbdc7-1788581402314~data=hdntl,2018457,Criclive0509,ENG~hmac=b59e2ce6272c4ba5f2189577975e52cc6d56554c5264284ea7a183610940badc/master_3000.m3u8?aka_me_session_id=AAAAAAAAAACm55xqAAAAAOXDSbCakPUPYaNJ5%2f2OkjG1kFRl9TaQvgjxzKDY3IC8JQ%2fDK6X7Z1nQBm91CsJXGpj4QPpc%2fCAl&aka_media_format_type=hls",
+            "Date": "Saturday 5th of September 2026 09:40:14 AM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090540064,
@@ -66,14 +165,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023499/1788537465793978_ACC_indvspak_promo_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023104/1787914224074953_womens_AsiaCup26_india_vs_pakistan_dated_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023508/1788547938909646_ACC_indvspak_promo_tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023104/1787914218797953_womens_AsiaCup26_india_vs_pakistan_tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023503/1788540424869447_AWC26_IND_vs_PAK_with_text_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023456/1788458058227962_Asia_Cup_Womens_2026_Match_Masthead_logo_India_vs_Pakistan_DATED.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023456/1788458058259962_Asia_Cup_Womens_2026_Match_Masthead_logo_India_vs_Pakistan_TONIGHT.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023104/1787914224074953_womens_AsiaCup26_india_vs_pakistan_dated_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023104/1787914218797953_womens_AsiaCup26_india_vs_pakistan_tonight_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
