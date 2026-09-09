@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "09-09-2026 02:40",
+  "last_updated": "09-09-2026 15:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,8 +17,317 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090541741,
+      "video_info": {
+        "title": "Pakistan Tour of England 2026",
+        "shortDescription": "England head to Edgbaston with a ruthless 3-0 whitewash in their sights, while a wounded Pakistan side fights for redemption after a turbulent tour that saw seven players sent home. Can Babar Azam inspire a revival against the might of Joe Root, Harry Brook and others? Tune in to catch all the action, LIVE on Sony LIV.",
+        "longDescription": "England head to Edgbaston with a ruthless 3-0 whitewash in their sights, while a wounded Pakistan side fights for redemption after a turbulent tour that saw seven players sent home. Can Babar Azam inspire a revival against the might of Joe Root, Harry Brook and others? Tune in to catch all the action, LIVE on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Day 1 - 3rd Test - 9 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/dZXK4LmTSZiTJ-1FmJtFRg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "09 Sep 2026, 03:00 PM",
+        "contractEndDate": "10 Sep 2026, 03:00 AM",
+        "originalAirDate": "09 Sep 2026, 03:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434424647794_eng_vs_pak_3test_D1_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023050/1787837121213787_England_vs_Pakistan_2026_Match_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023669/1788881384168346_England_vs_Pakistan_2026_Match_Masthead_logo_3rdTest_Day1_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037142/Criclive0909/ENG/master.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1788946207341,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/Criclive0909/ENG/hdntl=exp=1789032609~acl=%2f*~id=ee3f3a69a2f970e6819b01d50e5d9593-1788941404937~data=hdntl,2037142,Criclive0909,ENG~hmac=2ea0748f201235cd8604b5bc20578f1e2eee21bba1c6b7ed40ddae01cba2adcf/master_200.m3u8?aka_me_session_id=AAAAAAAAAACheKJqAAAAAPcPzCv29xYVgqBrwtGw7o2TjATiqSO4SeolqjLh0UE4mImCFJCVivBrsjsAhKrrzej6wj7EO9KG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/Criclive0909/ENG/hdntl=exp=1789032609~acl=%2f*~id=ee3f3a69a2f970e6819b01d50e5d9593-1788941404937~data=hdntl,2037142,Criclive0909,ENG~hmac=2ea0748f201235cd8604b5bc20578f1e2eee21bba1c6b7ed40ddae01cba2adcf/master_400.m3u8?aka_me_session_id=AAAAAAAAAACheKJqAAAAAPcPzCv29xYVgqBrwtGw7o2TjATiqSO4SeolqjLh0UE4mImCFJCVivBrsjsAhKrrzej6wj7EO9KG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/Criclive0909/ENG/hdntl=exp=1789032609~acl=%2f*~id=ee3f3a69a2f970e6819b01d50e5d9593-1788941404937~data=hdntl,2037142,Criclive0909,ENG~hmac=2ea0748f201235cd8604b5bc20578f1e2eee21bba1c6b7ed40ddae01cba2adcf/master_500.m3u8?aka_me_session_id=AAAAAAAAAACheKJqAAAAAPcPzCv29xYVgqBrwtGw7o2TjATiqSO4SeolqjLh0UE4mImCFJCVivBrsjsAhKrrzej6wj7EO9KG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/Criclive0909/ENG/hdntl=exp=1789032609~acl=%2f*~id=ee3f3a69a2f970e6819b01d50e5d9593-1788941404937~data=hdntl,2037142,Criclive0909,ENG~hmac=2ea0748f201235cd8604b5bc20578f1e2eee21bba1c6b7ed40ddae01cba2adcf/master_600.m3u8?aka_me_session_id=AAAAAAAAAACheKJqAAAAAPcPzCv29xYVgqBrwtGw7o2TjATiqSO4SeolqjLh0UE4mImCFJCVivBrsjsAhKrrzej6wj7EO9KG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/Criclive0909/ENG/hdntl=exp=1789032609~acl=%2f*~id=ee3f3a69a2f970e6819b01d50e5d9593-1788941404937~data=hdntl,2037142,Criclive0909,ENG~hmac=2ea0748f201235cd8604b5bc20578f1e2eee21bba1c6b7ed40ddae01cba2adcf/master_1000.m3u8?aka_me_session_id=AAAAAAAAAACheKJqAAAAAPcPzCv29xYVgqBrwtGw7o2TjATiqSO4SeolqjLh0UE4mImCFJCVivBrsjsAhKrrzej6wj7EO9KG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/Criclive0909/ENG/hdntl=exp=1789032609~acl=%2f*~id=ee3f3a69a2f970e6819b01d50e5d9593-1788941404937~data=hdntl,2037142,Criclive0909,ENG~hmac=2ea0748f201235cd8604b5bc20578f1e2eee21bba1c6b7ed40ddae01cba2adcf/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACheKJqAAAAAPcPzCv29xYVgqBrwtGw7o2TjATiqSO4SeolqjLh0UE4mImCFJCVivBrsjsAhKrrzej6wj7EO9KG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/Criclive0909/ENG/hdntl=exp=1789032609~acl=%2f*~id=ee3f3a69a2f970e6819b01d50e5d9593-1788941404937~data=hdntl,2037142,Criclive0909,ENG~hmac=2ea0748f201235cd8604b5bc20578f1e2eee21bba1c6b7ed40ddae01cba2adcf/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACheKJqAAAAAPcPzCv29xYVgqBrwtGw7o2TjATiqSO4SeolqjLh0UE4mImCFJCVivBrsjsAhKrrzej6wj7EO9KG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/Criclive0909/ENG/hdntl=exp=1789032609~acl=%2f*~id=ee3f3a69a2f970e6819b01d50e5d9593-1788941404937~data=hdntl,2037142,Criclive0909,ENG~hmac=2ea0748f201235cd8604b5bc20578f1e2eee21bba1c6b7ed40ddae01cba2adcf/master_2200.m3u8?aka_me_session_id=AAAAAAAAAACheKJqAAAAAPcPzCv29xYVgqBrwtGw7o2TjATiqSO4SeolqjLh0UE4mImCFJCVivBrsjsAhKrrzej6wj7EO9KG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/Criclive0909/ENG/hdntl=exp=1789032609~acl=%2f*~id=ee3f3a69a2f970e6819b01d50e5d9593-1788941404937~data=hdntl,2037142,Criclive0909,ENG~hmac=2ea0748f201235cd8604b5bc20578f1e2eee21bba1c6b7ed40ddae01cba2adcf/master_3800.m3u8?aka_me_session_id=AAAAAAAAAACheKJqAAAAAPcPzCv29xYVgqBrwtGw7o2TjATiqSO4SeolqjLh0UE4mImCFJCVivBrsjsAhKrrzej6wj7EO9KG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/Criclive0909/ENG/hdntl=exp=1789032609~acl=%2f*~id=ee3f3a69a2f970e6819b01d50e5d9593-1788941404937~data=hdntl,2037142,Criclive0909,ENG~hmac=2ea0748f201235cd8604b5bc20578f1e2eee21bba1c6b7ed40ddae01cba2adcf/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACheKJqAAAAAPcPzCv29xYVgqBrwtGw7o2TjATiqSO4SeolqjLh0UE4mImCFJCVivBrsjsAhKrrzej6wj7EO9KG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/Criclive0909/ENG/hdntl=exp=1789032609~acl=%2f*~id=ee3f3a69a2f970e6819b01d50e5d9593-1788941404937~data=hdntl,2037142,Criclive0909,ENG~hmac=2ea0748f201235cd8604b5bc20578f1e2eee21bba1c6b7ed40ddae01cba2adcf/master_3000.m3u8?aka_me_session_id=AAAAAAAAAACheKJqAAAAAPcPzCv29xYVgqBrwtGw7o2TjATiqSO4SeolqjLh0UE4mImCFJCVivBrsjsAhKrrzej6wj7EO9KG&aka_media_format_type=hls",
+            "Date": "Wednesday 9th of September 2026 03:00:09 PM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090541733,
+      "video_info": {
+        "title": "Sher-E-Punjab T20 League",
+        "shortDescription": "Ludhiana Lions take on Fazilka Falcons in an exciting Sher-E-Punjab T20 League clash. Catch all the action, LIVE only on Sony LIV.",
+        "longDescription": "Ludhiana Lions take on Fazilka Falcons in an exciting Sher-E-Punjab T20 League clash. Catch all the action, LIVE only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/HhloUHqYTTysVJ6-K-Qmjg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "PAN",
+            "lang_label": "Punjabi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN,PAN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "09 Sep 2026, 12:00 PM",
+        "contractEndDate": "10 Sep 2026, 03:15 AM",
+        "originalAirDate": "09 Sep 2026, 12:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765405682395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023673/1788883144511928_Punjab_T20_League_2026_Match_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023673/1788883144432928_Punjab_T20_League_2026_Match_Masthead_logo_Ludhiana_Lions_vs_Fazilka_Falcons_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "Hindi",
+          "lang_code": "HIN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/HIN/master.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "PAN",
+                "audioLanguageLabel": "Punjabi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1788935412960,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/HIN/hdntl=exp=1789021814~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,HIN~hmac=211f82e09ea2da2f37b51f49d9e3d2b99a56a4c093dfa193c1edc181a7f86ce4/master_200.m3u8?aka_me_session_id=AAAAAAAAAAB2TqJqAAAAAJKsVMjO2cNfmNhm+H43+XdxMokF6F%2ftKCM6Hsdbulum+3RFJkIL8Bcj7ipW%2f8EnQvs8z%2f29Ljla&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/HIN/hdntl=exp=1789021814~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,HIN~hmac=211f82e09ea2da2f37b51f49d9e3d2b99a56a4c093dfa193c1edc181a7f86ce4/master_400.m3u8?aka_me_session_id=AAAAAAAAAAB2TqJqAAAAAJKsVMjO2cNfmNhm+H43+XdxMokF6F%2ftKCM6Hsdbulum+3RFJkIL8Bcj7ipW%2f8EnQvs8z%2f29Ljla&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/HIN/hdntl=exp=1789021814~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,HIN~hmac=211f82e09ea2da2f37b51f49d9e3d2b99a56a4c093dfa193c1edc181a7f86ce4/master_500.m3u8?aka_me_session_id=AAAAAAAAAAB2TqJqAAAAAJKsVMjO2cNfmNhm+H43+XdxMokF6F%2ftKCM6Hsdbulum+3RFJkIL8Bcj7ipW%2f8EnQvs8z%2f29Ljla&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/HIN/hdntl=exp=1789021814~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,HIN~hmac=211f82e09ea2da2f37b51f49d9e3d2b99a56a4c093dfa193c1edc181a7f86ce4/master_600.m3u8?aka_me_session_id=AAAAAAAAAAB2TqJqAAAAAJKsVMjO2cNfmNhm+H43+XdxMokF6F%2ftKCM6Hsdbulum+3RFJkIL8Bcj7ipW%2f8EnQvs8z%2f29Ljla&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/HIN/hdntl=exp=1789021814~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,HIN~hmac=211f82e09ea2da2f37b51f49d9e3d2b99a56a4c093dfa193c1edc181a7f86ce4/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAB2TqJqAAAAAJKsVMjO2cNfmNhm+H43+XdxMokF6F%2ftKCM6Hsdbulum+3RFJkIL8Bcj7ipW%2f8EnQvs8z%2f29Ljla&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/HIN/hdntl=exp=1789021814~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,HIN~hmac=211f82e09ea2da2f37b51f49d9e3d2b99a56a4c093dfa193c1edc181a7f86ce4/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAB2TqJqAAAAAJKsVMjO2cNfmNhm+H43+XdxMokF6F%2ftKCM6Hsdbulum+3RFJkIL8Bcj7ipW%2f8EnQvs8z%2f29Ljla&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/HIN/hdntl=exp=1789021814~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,HIN~hmac=211f82e09ea2da2f37b51f49d9e3d2b99a56a4c093dfa193c1edc181a7f86ce4/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAB2TqJqAAAAAJKsVMjO2cNfmNhm+H43+XdxMokF6F%2ftKCM6Hsdbulum+3RFJkIL8Bcj7ipW%2f8EnQvs8z%2f29Ljla&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/HIN/hdntl=exp=1789021814~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,HIN~hmac=211f82e09ea2da2f37b51f49d9e3d2b99a56a4c093dfa193c1edc181a7f86ce4/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAB2TqJqAAAAAJKsVMjO2cNfmNhm+H43+XdxMokF6F%2ftKCM6Hsdbulum+3RFJkIL8Bcj7ipW%2f8EnQvs8z%2f29Ljla&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/HIN/hdntl=exp=1789021814~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,HIN~hmac=211f82e09ea2da2f37b51f49d9e3d2b99a56a4c093dfa193c1edc181a7f86ce4/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAB2TqJqAAAAAJKsVMjO2cNfmNhm+H43+XdxMokF6F%2ftKCM6Hsdbulum+3RFJkIL8Bcj7ipW%2f8EnQvs8z%2f29Ljla&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/HIN/hdntl=exp=1789021814~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,HIN~hmac=211f82e09ea2da2f37b51f49d9e3d2b99a56a4c093dfa193c1edc181a7f86ce4/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAB2TqJqAAAAAJKsVMjO2cNfmNhm+H43+XdxMokF6F%2ftKCM6Hsdbulum+3RFJkIL8Bcj7ipW%2f8EnQvs8z%2f29Ljla&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/HIN/hdntl=exp=1789021814~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,HIN~hmac=211f82e09ea2da2f37b51f49d9e3d2b99a56a4c093dfa193c1edc181a7f86ce4/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAB2TqJqAAAAAJKsVMjO2cNfmNhm+H43+XdxMokF6F%2ftKCM6Hsdbulum+3RFJkIL8Bcj7ipW%2f8EnQvs8z%2f29Ljla&aka_media_format_type=hls",
+            "Date": "Wednesday 9th of September 2026 12:00:15 PM"
+          }
+        },
+        {
+          "language": "Punjabi",
+          "lang_code": "PAN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/PAN/master.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "PAN",
+                "audioLanguageLabel": "Punjabi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1788935417312,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/PAN/hdntl=exp=1789021819~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,none~hmac=af809f625a5c4fcffe835eecc2f05fa78b00b22535cdf3fd32db88d61086433c/master_200.m3u8?aka_me_session_id=AAAAAAAAAAB7TqJqAAAAAORxrE9+EvQnBnLA+pKfXtY5OoJDdexvdDbiFbhQ7xOvSbQfM4lIgzSuflT5k5vL29tCSZzuX6NB&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/PAN/hdntl=exp=1789021819~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,none~hmac=af809f625a5c4fcffe835eecc2f05fa78b00b22535cdf3fd32db88d61086433c/master_400.m3u8?aka_me_session_id=AAAAAAAAAAB7TqJqAAAAAORxrE9+EvQnBnLA+pKfXtY5OoJDdexvdDbiFbhQ7xOvSbQfM4lIgzSuflT5k5vL29tCSZzuX6NB&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/PAN/hdntl=exp=1789021819~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,none~hmac=af809f625a5c4fcffe835eecc2f05fa78b00b22535cdf3fd32db88d61086433c/master_500.m3u8?aka_me_session_id=AAAAAAAAAAB7TqJqAAAAAORxrE9+EvQnBnLA+pKfXtY5OoJDdexvdDbiFbhQ7xOvSbQfM4lIgzSuflT5k5vL29tCSZzuX6NB&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/PAN/hdntl=exp=1789021819~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,none~hmac=af809f625a5c4fcffe835eecc2f05fa78b00b22535cdf3fd32db88d61086433c/master_600.m3u8?aka_me_session_id=AAAAAAAAAAB7TqJqAAAAAORxrE9+EvQnBnLA+pKfXtY5OoJDdexvdDbiFbhQ7xOvSbQfM4lIgzSuflT5k5vL29tCSZzuX6NB&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/PAN/hdntl=exp=1789021819~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,none~hmac=af809f625a5c4fcffe835eecc2f05fa78b00b22535cdf3fd32db88d61086433c/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAB7TqJqAAAAAORxrE9+EvQnBnLA+pKfXtY5OoJDdexvdDbiFbhQ7xOvSbQfM4lIgzSuflT5k5vL29tCSZzuX6NB&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/PAN/hdntl=exp=1789021819~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,none~hmac=af809f625a5c4fcffe835eecc2f05fa78b00b22535cdf3fd32db88d61086433c/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAB7TqJqAAAAAORxrE9+EvQnBnLA+pKfXtY5OoJDdexvdDbiFbhQ7xOvSbQfM4lIgzSuflT5k5vL29tCSZzuX6NB&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/PAN/hdntl=exp=1789021819~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,none~hmac=af809f625a5c4fcffe835eecc2f05fa78b00b22535cdf3fd32db88d61086433c/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAB7TqJqAAAAAORxrE9+EvQnBnLA+pKfXtY5OoJDdexvdDbiFbhQ7xOvSbQfM4lIgzSuflT5k5vL29tCSZzuX6NB&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/PAN/hdntl=exp=1789021819~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,none~hmac=af809f625a5c4fcffe835eecc2f05fa78b00b22535cdf3fd32db88d61086433c/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAB7TqJqAAAAAORxrE9+EvQnBnLA+pKfXtY5OoJDdexvdDbiFbhQ7xOvSbQfM4lIgzSuflT5k5vL29tCSZzuX6NB&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/PAN/hdntl=exp=1789021819~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,none~hmac=af809f625a5c4fcffe835eecc2f05fa78b00b22535cdf3fd32db88d61086433c/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAB7TqJqAAAAAORxrE9+EvQnBnLA+pKfXtY5OoJDdexvdDbiFbhQ7xOvSbQfM4lIgzSuflT5k5vL29tCSZzuX6NB&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/PAN/hdntl=exp=1789021819~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,none~hmac=af809f625a5c4fcffe835eecc2f05fa78b00b22535cdf3fd32db88d61086433c/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAB7TqJqAAAAAORxrE9+EvQnBnLA+pKfXtY5OoJDdexvdDbiFbhQ7xOvSbQfM4lIgzSuflT5k5vL29tCSZzuX6NB&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/criclive0909/PAN/hdntl=exp=1789021819~acl=%2f*~id=8e9fcfd153cc0247237018ffc7435d7f-1788933004166~data=hdntl,2037141,criclive0909,none~hmac=af809f625a5c4fcffe835eecc2f05fa78b00b22535cdf3fd32db88d61086433c/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAB7TqJqAAAAAORxrE9+EvQnBnLA+pKfXtY5OoJDdexvdDbiFbhQ7xOvSbQfM4lIgzSuflT5k5vL29tCSZzuX6NB&aka_media_format_type=hls",
+            "Date": "Wednesday 9th of September 2026 12:00:19 PM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
+    {
+      "contentId": 1090540064,
+      "video_info": {
+        "title": "Upcoming - DP World Women's Asia Cup 2026",
+        "shortDescription": "Experience the finest moments of the ACC Women's Asia Cup, streaming exclusively on Sony LIV.",
+        "longDescription": "Experience the finest moments of the ACC Women's Asia Cup, streaming exclusively on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/72f8236e0d21453b878d93c3f3179865/1787375065/baseline-std-v4/WOMENS_ASIA_CUP_SHERNI_45_SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "22 Aug 2026, 10:00 AM",
+        "contractEndDate": "13 Sep 2026, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023694/1788931010845487_WAC26_SF_India_vs_Bangladesh_dated_promo_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023694/1788931296116486_WAC26_SF_India_vs_Bangladesh_dated_promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023696/1788933407077966_WAC26_SF_India_vs_Bangladesh_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023694/1788931296116486_WAC26_SF_India_vs_Bangladesh_dated_promo_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
     {
       "contentId": 1090539554,
       "video_info": {
@@ -194,64 +503,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090540064,
-      "video_info": {
-        "title": "Upcoming - DP World Women's Asia Cup 2026",
-        "shortDescription": "Experience the finest moments of the ACC Women's Asia Cup, streaming exclusively on Sony LIV.",
-        "longDescription": "Experience the finest moments of the ACC Women's Asia Cup, streaming exclusively on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/72f8236e0d21453b878d93c3f3179865/1787375065/baseline-std-v4/WOMENS_ASIA_CUP_SHERNI_45_SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "22 Aug 2026, 10:00 AM",
-        "contractEndDate": "13 Sep 2026, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023508/1788547938909646_ACC_indvspak_promo_tonight_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022390/178698244305456_Asia_Cup_Womens_2026_GOB_Landscape_Thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023503/1788540424869447_AWC26_IND_vs_PAK_with_text_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023456/1788458058259962_Asia_Cup_Womens_2026_Match_Masthead_logo_India_vs_Pakistan_TONIGHT.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022390/178698244305456_Asia_Cup_Womens_2026_GOB_Landscape_Thumb.jpg"
       },
       "multiple_audio_links": []
     },
@@ -712,14 +963,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788687530137563_UCL2627_MD1_Barcelona_vs_Feyenoord_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788687725995563_UCL2627_MD1_Barcelona_vs_Feyenoord_dated_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788687626376563_UCL2627_MD1_Barcelona_vs_Feyenoord_tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788688066368563_UCL2627_MD1_Barcelona_vs_Feyenoord_tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023613/1788777620872306_UCL27_barcelona_and_liverpool_dated_combo_masthead_mobile_v2.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023681/1788897885309209_UCL27_barcelona_and_liverpool_tonight_combo_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023578/1788692903792359_UCL2627_masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788687725995563_UCL2627_MD1_Barcelona_vs_Feyenoord_dated_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788688066368563_UCL2627_MD1_Barcelona_vs_Feyenoord_tonight_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
@@ -770,14 +1021,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023519/178859216797774_UCL_26_Liverpool-vs-Atletico_promo_DDT_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023577/1788698153784480_UCL2627_MD1_liverpool_vs_atletico_dated_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023519/178859218528474_UCL_26_Liverpool-vs-Atletico_promo_Tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023577/1788698125388480_UCL2627_MD1_liverpool_vs_atletico_tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023655/178886339862586_UCL26_27_Match_masthead_mobile_v2_984x1182_Liverpool_vs_Atletico_Madrid.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023655/178886339766486_UCL26_27_Match_Masthead_logo_Liverpool_vs_Atletico_Madrid_DATED.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023529/1788612293671108_UCL_26_Liverpool-vs-Atletico_promo_Tonight_Masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023577/1788698153784480_UCL2627_MD1_liverpool_vs_atletico_dated_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023577/1788698125388480_UCL2627_MD1_liverpool_vs_atletico_tonight_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
