@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "13-10-2026 19:40",
+  "last_updated": "13-10-2026 21:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -19,15 +19,211 @@
   },
   "data": [
     {
+      "contentId": 1090547482,
+      "video_info": {
+        "title": "Kon Honaar Crorepati",
+        "shortDescription": "Hosted by Madhuri Dixit, Kon Honar Crorepati is a thrilling Marathi quiz show where knowledge, courage and smart decisions can change lives. Contestants take on challenging questions for a chance to win a life-changing prize, while the new season raises the stakes with a fresh energy and one promise: Aata Khel Badalnar!",
+        "longDescription": "Hosted by Madhuri Dixit, Kon Honar Crorepati is a thrilling Marathi quiz show where knowledge, courage and smart decisions can change lives. Contestants take on challenging questions for a chance to win a life-changing prize, while the new season raises the stakes with a fresh energy and one promise: Aata Khel Badalnar!",
+        "genres": [
+          "Game show"
+        ],
+        "episodeTitle": "Kon Honaar Crorepati"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/ZiLnmNmURBWzPj5OpP8cIQ/master.m3u8",
+        "broadcast_channel": "Sony Marathi",
+        "audio_language_list": [
+          {
+            "lang_code": "MAR",
+            "lang_label": "Marathi"
+          }
+        ],
+        "emfAttributes__audio_languages": "MAR",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "MAR",
+              "isPreferred": true,
+              "audioLanguageLabel": "Marathi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "13 Oct 2026, 08:30 PM",
+        "contractEndDate": "14 Oct 2026, 12:00 AM",
+        "originalAirDate": "13 Oct 2026, 08:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810134665132_KHC_promo_portrait_thumb_simulcast.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810253859132_KHC_promo_landscape_thumb_simulcast.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026075/179155410116345_KHC_promo_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025996/1791381398795492_KHC_India_Masthead_Logo_newshow.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810253859132_KHC_promo_landscape_thumb_simulcast.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "Marathi",
+          "lang_code": "MAR",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E2_11310/MAR/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "MAR",
+                "audioLanguageLabel": "Marathi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1791905415867,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E2_11310/MAR/hdntl=exp=1791991816~acl=%2f*~id=80833861588108440878435364309951~data=hdntl,2022315,KHC_E2_11310,none~hmac=6a8e2d6ee9a6a4ad302c65a9923c238acaf785c7f4e02277f547b8177beaf6a9/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAIoM9qAAAAAG5raX3+WQ1CRrdETxvcriU73%2fcC2G3hDylYvUENEGycNc8zs6Ln133M8oMHLeLysQe2yO53RGqq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E2_11310/MAR/hdntl=exp=1791991816~acl=%2f*~id=80833861588108440878435364309951~data=hdntl,2022315,KHC_E2_11310,none~hmac=6a8e2d6ee9a6a4ad302c65a9923c238acaf785c7f4e02277f547b8177beaf6a9/master_700.m3u8?aka_me_session_id=AAAAAAAAAAAIoM9qAAAAAG5raX3+WQ1CRrdETxvcriU73%2fcC2G3hDylYvUENEGycNc8zs6Ln133M8oMHLeLysQe2yO53RGqq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E2_11310/MAR/hdntl=exp=1791991816~acl=%2f*~id=80833861588108440878435364309951~data=hdntl,2022315,KHC_E2_11310,none~hmac=6a8e2d6ee9a6a4ad302c65a9923c238acaf785c7f4e02277f547b8177beaf6a9/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAIoM9qAAAAAG5raX3+WQ1CRrdETxvcriU73%2fcC2G3hDylYvUENEGycNc8zs6Ln133M8oMHLeLysQe2yO53RGqq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E2_11310/MAR/hdntl=exp=1791991816~acl=%2f*~id=80833861588108440878435364309951~data=hdntl,2022315,KHC_E2_11310,none~hmac=6a8e2d6ee9a6a4ad302c65a9923c238acaf785c7f4e02277f547b8177beaf6a9/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAIoM9qAAAAAG5raX3+WQ1CRrdETxvcriU73%2fcC2G3hDylYvUENEGycNc8zs6Ln133M8oMHLeLysQe2yO53RGqq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E2_11310/MAR/hdntl=exp=1791991816~acl=%2f*~id=80833861588108440878435364309951~data=hdntl,2022315,KHC_E2_11310,none~hmac=6a8e2d6ee9a6a4ad302c65a9923c238acaf785c7f4e02277f547b8177beaf6a9/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAAIoM9qAAAAAG5raX3+WQ1CRrdETxvcriU73%2fcC2G3hDylYvUENEGycNc8zs6Ln133M8oMHLeLysQe2yO53RGqq&aka_media_format_type=hls",
+            "Date": "Tuesday 13th of October 2026 09:00:16 PM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090538390,
+      "video_info": {
+        "title": "Kaun Banega Crorepati",
+        "shortDescription": "Kaun Banega Crorepati Season 18 is here on Sony LIV! Join Amitabh Bachchan as India's biggest quiz show returns, championing the power of applied knowledge with the new theme, “Sochna Padega.” In a world where information is everywhere, what matters is how you apply it. Watch every episode, play along live on Sony LIV, answer questions in real time, and stand a chance to win exciting prizes.",
+        "longDescription": "Kaun Banega Crorepati Season 18 is here on Sony LIV! Join Amitabh Bachchan as India's biggest quiz show returns, championing the power of applied knowledge with the new theme, “Sochna Padega.” In a world where information is everywhere, what matters is how you apply it. Watch every episode, play along live on Sony LIV, answer questions in real time, and stand a chance to win exciting prizes.",
+        "genres": [
+          "Game show"
+        ],
+        "episodeTitle": "Kaun Banega Crorepati"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/275o2m1SSRGJAqHCQfrzbQ/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "13 Oct 2026, 08:30 PM",
+        "contractEndDate": "13 Oct 2026, 11:13 PM",
+        "originalAirDate": "13 Oct 2026, 08:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023823/1789110779517380_KBC_S18_simulcast_11sep_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023823/1789112795931380_KBC_S18_simulcast_11sep_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026236/179188916330781_KBC_13th_Oct_EP47_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023833/1789128836326288_KBC25_26_3_Masthead_Logo.png",
+        "circular_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021694/1785652805162510_KBC25_26_3_Circular_Image.jpg",
+        "image_600x900_clean": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022004/1786370266203134_KBC25_26_3_600x900_clean_Airtel_Portrait.jpg",
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023823/1789112795931380_KBC_S18_simulcast_11sep_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "Hindi",
+          "lang_code": "HIN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022321/kbc181310/HIN/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1791905416622,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc181310/HIN/hdntl=exp=1791991816~acl=%2f*~id=80833861588108440878435364309951~data=hdntl,2022321,kbc181310,HIN~hmac=e8dfb1fc000340b77f1b70359336e43cb54a2af839307b121ea43eb602ded185/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAIoM9qAAAAAN6UdMJgC49bgOtGH0cFPBF41MeqPIM0RE4zxb+SRdlckbLG9F%2fHfIF8EKLVAV+P0wrS9o9FDlFx&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc181310/HIN/hdntl=exp=1791991816~acl=%2f*~id=80833861588108440878435364309951~data=hdntl,2022321,kbc181310,HIN~hmac=e8dfb1fc000340b77f1b70359336e43cb54a2af839307b121ea43eb602ded185/master_700.m3u8?aka_me_session_id=AAAAAAAAAAAIoM9qAAAAAN6UdMJgC49bgOtGH0cFPBF41MeqPIM0RE4zxb+SRdlckbLG9F%2fHfIF8EKLVAV+P0wrS9o9FDlFx&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc181310/HIN/hdntl=exp=1791991816~acl=%2f*~id=80833861588108440878435364309951~data=hdntl,2022321,kbc181310,HIN~hmac=e8dfb1fc000340b77f1b70359336e43cb54a2af839307b121ea43eb602ded185/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAIoM9qAAAAAN6UdMJgC49bgOtGH0cFPBF41MeqPIM0RE4zxb+SRdlckbLG9F%2fHfIF8EKLVAV+P0wrS9o9FDlFx&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc181310/HIN/hdntl=exp=1791991816~acl=%2f*~id=80833861588108440878435364309951~data=hdntl,2022321,kbc181310,HIN~hmac=e8dfb1fc000340b77f1b70359336e43cb54a2af839307b121ea43eb602ded185/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAIoM9qAAAAAN6UdMJgC49bgOtGH0cFPBF41MeqPIM0RE4zxb+SRdlckbLG9F%2fHfIF8EKLVAV+P0wrS9o9FDlFx&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/kbc181310/HIN/hdntl=exp=1791991816~acl=%2f*~id=80833861588108440878435364309951~data=hdntl,2022321,kbc181310,HIN~hmac=e8dfb1fc000340b77f1b70359336e43cb54a2af839307b121ea43eb602ded185/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAAIoM9qAAAAAN6UdMJgC49bgOtGH0cFPBF41MeqPIM0RE4zxb+SRdlckbLG9F%2fHfIF8EKLVAV+P0wrS9o9FDlFx&aka_media_format_type=hls",
+            "Date": "Tuesday 13th of October 2026 09:00:17 PM"
+          }
+        }
+      ]
+    },
+    {
       "contentId": 1090547794,
       "video_info": {
         "title": "Volleyball Championship League 2026 ",
-        "shortDescription": "Watch all the action from the Volleyball Championship League 2026 as Garvi Gujjus take on Rajasthan Spikers, LIVE on Sony LIV.",
-        "longDescription": "Watch all the action from the Volleyball Championship League 2026 as Garvi Gujjus take on Rajasthan Spikers, LIVE on Sony LIV.",
+        "shortDescription": "Watch all the action from the Volleyball Championship League 2026 as Namma Bengaluru Smashers take on Delhi Dynamites, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from the Volleyball Championship League 2026 as Namma Bengaluru Smashers take on Delhi Dynamites, LIVE on Sony LIV.",
         "genres": [
           "Volleyball"
         ],
-        "episodeTitle": "Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026"
+        "episodeTitle": "Namma Bengaluru Smashers vs Delhi Dynamites - 13 Oct 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -66,14 +262,14 @@
         "originalAirDate": "13 Oct 2026, 06:30 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665129146503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665480981503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665683051503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026180/1791800666667784_Volleyball_Champions_League_Match_masthead_mobile_v2_984x1182_Garvi_Gujjus_vs_Rajasthan_Spikers.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026180/1791800665150785_Volleyball_Champions_League_Match_Masthead_logo_Garvi_Gujjus_vs_Rajasthan_Spikers_LIVE.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026180/1791800666733784_Volleyball_Champions_League_Match_masthead_mobile_v2_984x1182_Namma_Bengaluru_Smashers_vs_Delhi_Dynamites.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026180/1791800665327785_Volleyball_Champions_League_Match_Masthead_logo_Namma_Bengaluru_Smashers_vs_Delhi_Dynamites_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665683051503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_landscape_thumb.jpg"
       },
       "multiple_audio_links": [
         {
@@ -174,12 +370,12 @@
       "contentId": 1090547796,
       "video_info": {
         "title": "Archery Premier League 2026",
-        "shortDescription": "Chero Archers and Rajputana Royals go head-to-head in Archery Premier League 2026. Don't miss the LIVE action on Sony LIV.",
-        "longDescription": "Chero Archers and Rajputana Royals go head-to-head in Archery Premier League 2026. Don't miss the LIVE action on Sony LIV.",
+        "shortDescription": "Chola Chiefs and Kakatiya Knights go head-to-head in Archery Premier League 2026. Don't miss the LIVE action on Sony LIV.",
+        "longDescription": "Chola Chiefs and Kakatiya Knights go head-to-head in Archery Premier League 2026. Don't miss the LIVE action on Sony LIV.",
         "genres": [
           "Archery"
         ],
-        "episodeTitle": "Chero Archers vs Rajputana Royals - 13 Oct 2026"
+        "episodeTitle": "Chola Chiefs vs Kakatiya Knights - 13 Oct 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -214,14 +410,14 @@
         "originalAirDate": "13 Oct 2026, 07:30 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026134/1791662103660703_APL26_Chero_Archers_vs_Rajputana_Royals_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026134/1791662124550703_APL26_Chero_Archers_vs_Rajputana_Royals_live_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026134/1791662515806703_APL26_Chola_Chiefs_vs_Kakatiya_Knights_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026134/1791662536266703_APL26_Chola_Chiefs_vs_Kakatiya_Knights_live_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026134/1791662124550703_APL26_Chero_Archers_vs_Rajputana_Royals_live_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026134/1791662536266703_APL26_Chola_Chiefs_vs_Kakatiya_Knights_live_landscape_thumb.jpg"
       },
       "multiple_audio_links": [
         {
