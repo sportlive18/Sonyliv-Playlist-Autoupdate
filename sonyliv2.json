@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "14-10-2026 07:00",
+  "last_updated": "14-10-2026 17:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,106 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090547981,
+      "video_info": {
+        "title": "UEFA Youth League 2026-27",
+        "shortDescription": "A thrilling Matchday 2 contest awaits as Roma host Real Madrid in the UEFA Champions League 2026-27. Catch the action LIVE, only on Sony LIV.",
+        "longDescription": "A thrilling Matchday 2 contest awaits as Roma host Real Madrid in the UEFA Champions League 2026-27. Catch the action LIVE, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Roma vs Real Madrid - MD 2 - 14 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/KSMY1K5hQpWa0YJPis6sbQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "14 Oct 2026, 05:00 PM",
+        "contractEndDate": "14 Oct 2026, 10:00 PM",
+        "originalAirDate": "14 Oct 2026, 05:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025828/1791091304639672_UYL26_Roma_vs_Real_Madrid_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025828/1791091406768672_UYL26_Roma_vs_Real_Madrid_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025828/1791091406768672_UYL26_Roma_vs_Real_Madrid_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1791977420849,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1410/ENG/hdntl=exp=1792063821~acl=%2f*~id=e475f0a041edeff871f43c79b39d9b21-1791957001750~data=hdntl,2120304,Footlive1410,ENG~hmac=3d0cd744ee85f1934eb23285691ef765ca969ffe6016ad7986e948337324f602/master_500.m3u8?aka_me_session_id=AAAAAAAAAABNudBqAAAAAB5Q99vP++aF%2fQXPvCbhzWVxogrAgX8KuYr8PV%2fYTmsuNcPwWx5pyNb2bvHV0f5vxwcaznPsH0CY&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1410/ENG/hdntl=exp=1792063821~acl=%2f*~id=e475f0a041edeff871f43c79b39d9b21-1791957001750~data=hdntl,2120304,Footlive1410,ENG~hmac=3d0cd744ee85f1934eb23285691ef765ca969ffe6016ad7986e948337324f602/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABNudBqAAAAAB5Q99vP++aF%2fQXPvCbhzWVxogrAgX8KuYr8PV%2fYTmsuNcPwWx5pyNb2bvHV0f5vxwcaznPsH0CY&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1410/ENG/hdntl=exp=1792063821~acl=%2f*~id=e475f0a041edeff871f43c79b39d9b21-1791957001750~data=hdntl,2120304,Footlive1410,ENG~hmac=3d0cd744ee85f1934eb23285691ef765ca969ffe6016ad7986e948337324f602/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABNudBqAAAAAB5Q99vP++aF%2fQXPvCbhzWVxogrAgX8KuYr8PV%2fYTmsuNcPwWx5pyNb2bvHV0f5vxwcaznPsH0CY&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1410/ENG/hdntl=exp=1792063821~acl=%2f*~id=e475f0a041edeff871f43c79b39d9b21-1791957001750~data=hdntl,2120304,Footlive1410,ENG~hmac=3d0cd744ee85f1934eb23285691ef765ca969ffe6016ad7986e948337324f602/master_3800.m3u8?aka_me_session_id=AAAAAAAAAABNudBqAAAAAB5Q99vP++aF%2fQXPvCbhzWVxogrAgX8KuYr8PV%2fYTmsuNcPwWx5pyNb2bvHV0f5vxwcaznPsH0CY&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1410/ENG/hdntl=exp=1792063821~acl=%2f*~id=e475f0a041edeff871f43c79b39d9b21-1791957001750~data=hdntl,2120304,Footlive1410,ENG~hmac=3d0cd744ee85f1934eb23285691ef765ca969ffe6016ad7986e948337324f602/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABNudBqAAAAAB5Q99vP++aF%2fQXPvCbhzWVxogrAgX8KuYr8PV%2fYTmsuNcPwWx5pyNb2bvHV0f5vxwcaznPsH0CY&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1410/ENG/hdntl=exp=1792063821~acl=%2f*~id=e475f0a041edeff871f43c79b39d9b21-1791957001750~data=hdntl,2120304,Footlive1410,ENG~hmac=3d0cd744ee85f1934eb23285691ef765ca969ffe6016ad7986e948337324f602/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABNudBqAAAAAB5Q99vP++aF%2fQXPvCbhzWVxogrAgX8KuYr8PV%2fYTmsuNcPwWx5pyNb2bvHV0f5vxwcaznPsH0CY&aka_media_format_type=hls",
+            "Date": "Wednesday 14th of October 2026 05:00:21 PM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090547508,
@@ -66,14 +165,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026211/1791826753335142_ISL26_Punjab_FC_vs_Odisha_FC_dated_promo_Portrait_Thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026211/1791827627278142_ISL26_Punjab_FC_vs_Odisha_FC_promo_dated_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026211/1791826765519142_ISL26_Punjab_FC_vs_Odisha_FC_tonight_promo_Portrait_Thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026211/1791827634062142_ISL26_Punjab_FC_vs_Odisha_FC_tonight_promo_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026170/1791794580208199_ISL_NorthEast_FC_Mohun_Bagan_SG_masthead_mobile_v2.jpg",
+        "masthead_mobile_v2": null,
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025984/1791377897057508_Indian_Super_League_2026_GOB_Masthead_logo_Dated.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026211/1791827627278142_ISL26_Punjab_FC_vs_Odisha_FC_promo_dated_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026211/1791827634062142_ISL26_Punjab_FC_vs_Odisha_FC_tonight_promo_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
@@ -240,14 +339,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026017/1791450836916369_UCL26_MAN-CITY_vs_PSG_promo_portrait_thumb_ddt.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026017/1791450952659369_UCL26_MAN-CITY_vs_PSG_promo_landscape_thumb_ddt.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026017/1791450243717369_UCL26_MAN-CITY_vs_PSG_promo_portrait_thumb_tonight.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026017/1791450432688369_UCL26_MAN-CITY_vs_PSG_promo_landscape_thumb_tonight.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026199/179179428800073_UCL26_27_Match_masthead_mobile_v2_984x1182_Man_City_vs_PSG.jpg",
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026017/1791450952659369_UCL26_MAN-CITY_vs_PSG_promo_landscape_thumb_ddt.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026017/1791450432688369_UCL26_MAN-CITY_vs_PSG_promo_landscape_thumb_tonight.jpg"
       },
       "multiple_audio_links": []
     },
@@ -298,14 +397,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026019/1791451411769457_UCL26_ROMA_vs_Real-Madrid_promo_portrait_thumb_ddt.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026019/1791451533051457_UCL26_ROMA_vs_Real-Madrid_promo_landscape_thumb_ddt.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026019/1791451426385457_UCL26_ROMA_vs_Real-Madrid_promo_portrait_thumb_tonight.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026019/1791451548448457_UCL26_ROMA_vs_Real-Madrid_promo_landscape_thumb_tonight.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026199/179179428800073_UCL26_27_Match_masthead_mobile_v2_984x1182_Roma_vs_Real_Madrid.jpg",
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026019/1791451533051457_UCL26_ROMA_vs_Real-Madrid_promo_landscape_thumb_ddt.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026019/1791451548448457_UCL26_ROMA_vs_Real-Madrid_promo_landscape_thumb_tonight.jpg"
       },
       "multiple_audio_links": []
     },
