@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "15-10-2026 02:40",
+  "last_updated": "15-10-2026 10:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,8 +17,263 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090548063,
+      "video_info": {
+        "title": "DP World Tour",
+        "shortDescription": "Watch all the action from DP World India Championship Day 1, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from DP World India Championship Day 1, LIVE on Sony LIV.",
+        "genres": [
+          "Golf"
+        ],
+        "episodeTitle": "DP World India Championship - Day 1 - 15 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/LdAF3qixR7m1e_v000QMHA/master.m3u8",
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "15 Oct 2026, 10:30 AM",
+        "contractEndDate": "15 Oct 2026, 10:30 PM",
+        "originalAirDate": "15 Oct 2026, 11:00 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965724945842_DP-World-India-Championship---Day-1_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792041018062,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/hdntl=exp=1792127418~acl=%2f*~id=35485174765682570897037341417802~data=hdntl,2022320,Golf_DPW1510,ENG~hmac=e2f953c4a5ce901c979e7b562d3f8f7e6689a0c1eff620101c4d1a2a4320245d/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC6sdFqAAAAAPG9cj8VaXmw%2fexnlxQn1ZyByrrT6eulUXmExjPFglQoN2euM3WnDX6skEmatDOA+Ow6JyJwxdPK&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/hdntl=exp=1792127418~acl=%2f*~id=35485174765682570897037341417802~data=hdntl,2022320,Golf_DPW1510,ENG~hmac=e2f953c4a5ce901c979e7b562d3f8f7e6689a0c1eff620101c4d1a2a4320245d/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC6sdFqAAAAAPG9cj8VaXmw%2fexnlxQn1ZyByrrT6eulUXmExjPFglQoN2euM3WnDX6skEmatDOA+Ow6JyJwxdPK&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/hdntl=exp=1792127418~acl=%2f*~id=35485174765682570897037341417802~data=hdntl,2022320,Golf_DPW1510,ENG~hmac=e2f953c4a5ce901c979e7b562d3f8f7e6689a0c1eff620101c4d1a2a4320245d/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC6sdFqAAAAAPG9cj8VaXmw%2fexnlxQn1ZyByrrT6eulUXmExjPFglQoN2euM3WnDX6skEmatDOA+Ow6JyJwxdPK&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/hdntl=exp=1792127418~acl=%2f*~id=35485174765682570897037341417802~data=hdntl,2022320,Golf_DPW1510,ENG~hmac=e2f953c4a5ce901c979e7b562d3f8f7e6689a0c1eff620101c4d1a2a4320245d/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAC6sdFqAAAAAPG9cj8VaXmw%2fexnlxQn1ZyByrrT6eulUXmExjPFglQoN2euM3WnDX6skEmatDOA+Ow6JyJwxdPK&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/hdntl=exp=1792127418~acl=%2f*~id=35485174765682570897037341417802~data=hdntl,2022320,Golf_DPW1510,ENG~hmac=e2f953c4a5ce901c979e7b562d3f8f7e6689a0c1eff620101c4d1a2a4320245d/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC6sdFqAAAAAPG9cj8VaXmw%2fexnlxQn1ZyByrrT6eulUXmExjPFglQoN2euM3WnDX6skEmatDOA+Ow6JyJwxdPK&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/hdntl=exp=1792127418~acl=%2f*~id=35485174765682570897037341417802~data=hdntl,2022320,Golf_DPW1510,ENG~hmac=e2f953c4a5ce901c979e7b562d3f8f7e6689a0c1eff620101c4d1a2a4320245d/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAC6sdFqAAAAAPG9cj8VaXmw%2fexnlxQn1ZyByrrT6eulUXmExjPFglQoN2euM3WnDX6skEmatDOA+Ow6JyJwxdPK&aka_media_format_type=hls",
+            "Date": "Thursday 15th of October 2026 10:40:18 AM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090548210,
+      "video_info": {
+        "title": "Asian Tour 2026",
+        "shortDescription": "Catch all the action from the Day 1 of SJM Macao Open, LIVE on Sony LIV.",
+        "longDescription": "Catch all the action from the Day 1 of SJM Macao Open, LIVE on Sony LIV.",
+        "genres": [
+          "Golf"
+        ],
+        "episodeTitle": "SJM Macao Open - Day 1 - 15 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/UrB7nkCkQD62TzENyeShOw/master.m3u8",
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "15 Oct 2026, 10:30 AM",
+        "contractEndDate": "15 Oct 2026, 07:30 PM",
+        "originalAirDate": "15 Oct 2026, 11:00 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026388/1792037756180149_Asian_TOur_SJM_Macao_Open_Day1_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026388/1792037774484149_Asian_TOur_SJM_Macao_Open_Day1_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026388/1792037774484149_Asian_TOur_SJM_Macao_Open_Day1_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792041019063,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/hdntl=exp=1792127419~acl=%2f*~id=35485174765682570897037341417802~data=hdntl,2120304,Golf_SJM1510,ENG~hmac=34f9b512e342133875d52582898ce49fda9de4c32ffe2b25069ad1c4ee31dea3/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC7sdFqAAAAALMrpHl7QHxmHTFHAiCaQDZNbMd6DynI5go+AExBC7Kcc8F32rtGRbfczGRdp7drPwcS2Z2jGyRw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/hdntl=exp=1792127419~acl=%2f*~id=35485174765682570897037341417802~data=hdntl,2120304,Golf_SJM1510,ENG~hmac=34f9b512e342133875d52582898ce49fda9de4c32ffe2b25069ad1c4ee31dea3/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC7sdFqAAAAALMrpHl7QHxmHTFHAiCaQDZNbMd6DynI5go+AExBC7Kcc8F32rtGRbfczGRdp7drPwcS2Z2jGyRw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/hdntl=exp=1792127419~acl=%2f*~id=35485174765682570897037341417802~data=hdntl,2120304,Golf_SJM1510,ENG~hmac=34f9b512e342133875d52582898ce49fda9de4c32ffe2b25069ad1c4ee31dea3/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC7sdFqAAAAALMrpHl7QHxmHTFHAiCaQDZNbMd6DynI5go+AExBC7Kcc8F32rtGRbfczGRdp7drPwcS2Z2jGyRw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/hdntl=exp=1792127419~acl=%2f*~id=35485174765682570897037341417802~data=hdntl,2120304,Golf_SJM1510,ENG~hmac=34f9b512e342133875d52582898ce49fda9de4c32ffe2b25069ad1c4ee31dea3/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAC7sdFqAAAAALMrpHl7QHxmHTFHAiCaQDZNbMd6DynI5go+AExBC7Kcc8F32rtGRbfczGRdp7drPwcS2Z2jGyRw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/hdntl=exp=1792127419~acl=%2f*~id=35485174765682570897037341417802~data=hdntl,2120304,Golf_SJM1510,ENG~hmac=34f9b512e342133875d52582898ce49fda9de4c32ffe2b25069ad1c4ee31dea3/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC7sdFqAAAAALMrpHl7QHxmHTFHAiCaQDZNbMd6DynI5go+AExBC7Kcc8F32rtGRbfczGRdp7drPwcS2Z2jGyRw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/hdntl=exp=1792127419~acl=%2f*~id=35485174765682570897037341417802~data=hdntl,2120304,Golf_SJM1510,ENG~hmac=34f9b512e342133875d52582898ce49fda9de4c32ffe2b25069ad1c4ee31dea3/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAC7sdFqAAAAALMrpHl7QHxmHTFHAiCaQDZNbMd6DynI5go+AExBC7Kcc8F32rtGRbfczGRdp7drPwcS2Z2jGyRw&aka_media_format_type=hls",
+            "Date": "Thursday 15th of October 2026 10:40:19 AM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
+    {
+      "contentId": 1090548357,
+      "video_info": {
+        "title": "Upcoming - Matchday 2 - UEFA Europa League 2026-27",
+        "shortDescription": "Watch all the action from the UEFA Europa League 2026/27 live, only on Sony LIV.",
+        "longDescription": "Watch all the action from the UEFA Europa League 2026/27 live, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/10985e2529c24f31bdeb25598673d6a4/1792001646/baseline-std-v4/UEL_MD_2_PROMO_2_30_SEC_HOR_WOBUG_DATED_APP_IND_14102026_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "14 Oct 2026, 11:30 PM",
+        "contractEndDate": "16 Oct 2026, 12:15 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026346/1791987404579180_UEL_Lyon_vs_Crystal_Palace_dated_Portrait_Thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026379/1792020538186152_UEL_Lyon_vs_Crystal_Palace_dated_rev_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026379/1792020538186152_UEL_Lyon_vs_Crystal_Palace_dated_rev_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
     {
       "contentId": 1090547508,
       "video_info": {
@@ -136,11 +391,11 @@
       "multiple_audio_links": []
     },
     {
-      "contentId": 1090547565,
+      "contentId": 1090548356,
       "video_info": {
-        "title": "Upcoming - Matchday 2 - UEFA Champions League 2026-27",
-        "shortDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
-        "longDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
+        "title": "Upcoming - Matchday 2 - UEFA Europa League 2026-27",
+        "shortDescription": "Watch all the action from the UEFA Europa League 2026/27 live, only on Sony LIV.",
+        "longDescription": "Watch all the action from the UEFA Europa League 2026/27 live, only on Sony LIV.",
         "genres": [
           "Football"
         ],
@@ -149,7 +404,7 @@
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
         "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
+        "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
             "lang_code": "ENG",
@@ -172,24 +427,24 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/82fecee3bd0f4c019f1423ae1d34107b/1791446904/baseline-std-v4/UCL_MD_2_Promos_Generic_40_SEC_HOR_DATED_APP_08102026_eng_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/410cb9e7030647bc9b88922268195773/1792001233/baseline-std-v4/UEL_MD_2_PROMO_1_30_SEC_HOR_WOBUG_DATED_APP_IND_14102026_eng_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
       "air_dates": {
-        "contractStartDate": "08 Oct 2026, 01:00 PM",
-        "contractEndDate": "15 Oct 2026, 11:59 PM",
+        "contractStartDate": "14 Oct 2026, 11:30 PM",
+        "contractEndDate": "16 Oct 2026, 12:15 AM",
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026011/1791447970798949_UCL_MD2_landscape.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026011/1791447970798949_UCL_MD2_landscape.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026360/1792003020481677_UEL26_MD2_promo_landscape_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026360/1792003020481677_UEL26_MD2_promo_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026011/1791447970798949_UCL_MD2_landscape.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026360/1792003020481677_UEL26_MD2_promo_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
