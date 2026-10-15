@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "15-10-2026 18:20",
+  "last_updated": "15-10-2026 19:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,6 +18,104 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090548076,
+      "video_info": {
+        "title": "Archery Premier League 2026",
+        "shortDescription": "Prithviraj Yodhas face Chola Chiefs in the Archery Premier League as both teams aim to win in Hyderabad. Watch all the action LIVE, only on Sony LIV.",
+        "longDescription": "Prithviraj Yodhas face Chola Chiefs in the Archery Premier League as both teams aim to win in Hyderabad. Watch all the action LIVE, only on Sony LIV.",
+        "genres": [
+          "Archery"
+        ],
+        "episodeTitle": "Prithviraj Yodhas vs Chola Chiefs - 15 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/162wyLG_TQuGamliLvCUEw/master.m3u8",
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "15 Oct 2026, 07:00 PM",
+        "contractEndDate": "16 Oct 2026, 01:29 AM",
+        "originalAirDate": "15 Oct 2026, 07:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791663747157476_APL26_Prithviraj_Yodhas_vs_Chola_Chiefs_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791663767818476_APL26_Prithviraj_Yodhas_vs_Chola_Chiefs_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791663767818476_APL26_Prithviraj_Yodhas_vs_Chola_Chiefs_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792071020050,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/Archery_1510/ENG/hdntl=exp=1792157420~acl=%2f*~id=4a954a126bcec0d395af7569675b55db-1792043405078~data=hdntl,2037139,Archery_1510,ENG~hmac=f8fb4b2a0acf969074f12101552254921cc1ea20408a0e7ebac531804626a0d7/master_500.m3u8?aka_me_session_id=AAAAAAAAAADsJtJqAAAAAGBqxrxd03aOj1g6FZ3gmJcFc67MM%2fBFCRM1CoMUixcsP7jEE+3LqU9jm9om4fkzvEr0JguacY2i&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/Archery_1510/ENG/hdntl=exp=1792157420~acl=%2f*~id=4a954a126bcec0d395af7569675b55db-1792043405078~data=hdntl,2037139,Archery_1510,ENG~hmac=f8fb4b2a0acf969074f12101552254921cc1ea20408a0e7ebac531804626a0d7/master_1000.m3u8?aka_me_session_id=AAAAAAAAAADsJtJqAAAAAGBqxrxd03aOj1g6FZ3gmJcFc67MM%2fBFCRM1CoMUixcsP7jEE+3LqU9jm9om4fkzvEr0JguacY2i&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/Archery_1510/ENG/hdntl=exp=1792157420~acl=%2f*~id=4a954a126bcec0d395af7569675b55db-1792043405078~data=hdntl,2037139,Archery_1510,ENG~hmac=f8fb4b2a0acf969074f12101552254921cc1ea20408a0e7ebac531804626a0d7/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADsJtJqAAAAAGBqxrxd03aOj1g6FZ3gmJcFc67MM%2fBFCRM1CoMUixcsP7jEE+3LqU9jm9om4fkzvEr0JguacY2i&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/Archery_1510/ENG/hdntl=exp=1792157420~acl=%2f*~id=4a954a126bcec0d395af7569675b55db-1792043405078~data=hdntl,2037139,Archery_1510,ENG~hmac=f8fb4b2a0acf969074f12101552254921cc1ea20408a0e7ebac531804626a0d7/master_3800.m3u8?aka_me_session_id=AAAAAAAAAADsJtJqAAAAAGBqxrxd03aOj1g6FZ3gmJcFc67MM%2fBFCRM1CoMUixcsP7jEE+3LqU9jm9om4fkzvEr0JguacY2i&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/Archery_1510/ENG/hdntl=exp=1792157420~acl=%2f*~id=4a954a126bcec0d395af7569675b55db-1792043405078~data=hdntl,2037139,Archery_1510,ENG~hmac=f8fb4b2a0acf969074f12101552254921cc1ea20408a0e7ebac531804626a0d7/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADsJtJqAAAAAGBqxrxd03aOj1g6FZ3gmJcFc67MM%2fBFCRM1CoMUixcsP7jEE+3LqU9jm9om4fkzvEr0JguacY2i&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/Archery_1510/ENG/hdntl=exp=1792157420~acl=%2f*~id=4a954a126bcec0d395af7569675b55db-1792043405078~data=hdntl,2037139,Archery_1510,ENG~hmac=f8fb4b2a0acf969074f12101552254921cc1ea20408a0e7ebac531804626a0d7/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADsJtJqAAAAAGBqxrxd03aOj1g6FZ3gmJcFc67MM%2fBFCRM1CoMUixcsP7jEE+3LqU9jm9om4fkzvEr0JguacY2i&aka_media_format_type=hls",
+            "Date": "Thursday 15th of October 2026 07:00:20 PM"
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090548068,
       "video_info": {
