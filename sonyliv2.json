@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "17-10-2026 19:20",
+  "last_updated": "17-10-2026 21:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,6 +18,104 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090547482,
+      "video_info": {
+        "title": "Kon Honaar Crorepati",
+        "shortDescription": "Hosted by Madhuri Dixit, Kon Honar Crorepati is a thrilling Marathi quiz show where knowledge, courage and smart decisions can change lives. Contestants take on challenging questions for a chance to win a life-changing prize, while the new season raises the stakes with a fresh energy and one promise: Aata Khel Badalnar!",
+        "longDescription": "Hosted by Madhuri Dixit, Kon Honar Crorepati is a thrilling Marathi quiz show where knowledge, courage and smart decisions can change lives. Contestants take on challenging questions for a chance to win a life-changing prize, while the new season raises the stakes with a fresh energy and one promise: Aata Khel Badalnar!",
+        "genres": [
+          "Game show"
+        ],
+        "episodeTitle": "Kon Honaar Crorepati"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+        "broadcast_channel": "Sony Marathi",
+        "audio_language_list": [
+          {
+            "lang_code": "MAR",
+            "lang_label": "Marathi"
+          }
+        ],
+        "emfAttributes__audio_languages": "MAR",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "MAR",
+              "isPreferred": true,
+              "audioLanguageLabel": "Marathi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "17 Oct 2026, 08:30 PM",
+        "contractEndDate": "18 Oct 2026, 12:00 AM",
+        "originalAirDate": "17 Oct 2026, 08:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810134665132_KHC_promo_portrait_thumb_simulcast.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810253859132_KHC_promo_landscape_thumb_simulcast.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026568/1792239554391275_KHC_17th_Oct_Ep6_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025996/1791381398795492_KHC_India_Masthead_Logo_newshow.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810253859132_KHC_promo_landscape_thumb_simulcast.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "Marathi",
+          "lang_code": "MAR",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E6_11710/MAR/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "MAR",
+                "audioLanguageLabel": "Marathi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792251012835,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E6_11710/MAR/hdntl=exp=1792337413~acl=%2f*~id=34156451039611487106849197601284~data=hdntl,2022315,KHC_E6_11710,none~hmac=97f5acc9f09d2768dabe0ff9643c9c6da67450518dbf515501030ecbebb8baf7/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAF5tRqAAAAAPxTuKwAsJW5K892URuZO5IisEXoI9KWF5vbCwEvv1btMP0Fs3CjXX14iBNT9uybo5QE2RRlHOr+&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E6_11710/MAR/hdntl=exp=1792337413~acl=%2f*~id=34156451039611487106849197601284~data=hdntl,2022315,KHC_E6_11710,none~hmac=97f5acc9f09d2768dabe0ff9643c9c6da67450518dbf515501030ecbebb8baf7/master_700.m3u8?aka_me_session_id=AAAAAAAAAAAF5tRqAAAAAPxTuKwAsJW5K892URuZO5IisEXoI9KWF5vbCwEvv1btMP0Fs3CjXX14iBNT9uybo5QE2RRlHOr+&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E6_11710/MAR/hdntl=exp=1792337413~acl=%2f*~id=34156451039611487106849197601284~data=hdntl,2022315,KHC_E6_11710,none~hmac=97f5acc9f09d2768dabe0ff9643c9c6da67450518dbf515501030ecbebb8baf7/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAF5tRqAAAAAPxTuKwAsJW5K892URuZO5IisEXoI9KWF5vbCwEvv1btMP0Fs3CjXX14iBNT9uybo5QE2RRlHOr+&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E6_11710/MAR/hdntl=exp=1792337413~acl=%2f*~id=34156451039611487106849197601284~data=hdntl,2022315,KHC_E6_11710,none~hmac=97f5acc9f09d2768dabe0ff9643c9c6da67450518dbf515501030ecbebb8baf7/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAF5tRqAAAAAPxTuKwAsJW5K892URuZO5IisEXoI9KWF5vbCwEvv1btMP0Fs3CjXX14iBNT9uybo5QE2RRlHOr+&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E6_11710/MAR/hdntl=exp=1792337413~acl=%2f*~id=34156451039611487106849197601284~data=hdntl,2022315,KHC_E6_11710,none~hmac=97f5acc9f09d2768dabe0ff9643c9c6da67450518dbf515501030ecbebb8baf7/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAAF5tRqAAAAAPxTuKwAsJW5K892URuZO5IisEXoI9KWF5vbCwEvv1btMP0Fs3CjXX14iBNT9uybo5QE2RRlHOr+&aka_media_format_type=hls",
+            "Date": "Saturday 17th of October 2026 09:00:13 PM"
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090548712,
       "video_info": {
@@ -236,12 +334,12 @@
       "contentId": 1090548711,
       "video_info": {
         "title": "Volleyball Championship League 2026 ",
-        "shortDescription": "Watch all the action from the Volleyball Championship League 2026 as Haryana Hurricanes take on Emperia Marathas, LIVE on Sony LIV.",
-        "longDescription": "Watch all the action from the Volleyball Championship League 2026 as Haryana Hurricanes take on Emperia Marathas, LIVE on Sony LIV.",
+        "shortDescription": "Watch all the action from the Volleyball Championship League 2026 as Ayodhya Garjan take on Delhi Dynamites, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from the Volleyball Championship League 2026 as Ayodhya Garjan take on Delhi Dynamites, LIVE on Sony LIV.",
         "genres": [
           "Volleyball"
         ],
-        "episodeTitle": "Haryana Hurricanes vs Emperia Marathas - Super 6 - 17 Oct 2026"
+        "episodeTitle": "Ayodhya Garjan vs Delhi Dynamites - Super 6 - 17 Oct 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -280,14 +378,14 @@
         "originalAirDate": "17 Oct 2026, 06:30 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130152157133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130457458133_VCL26_Ayodhya-Garjan-vs-Delhi-Dynamites_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130499544133_VCL26_Ayodhya-Garjan-vs-Delhi-Dynamites_live_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026504/1792160410278476_Volleyball_Champions_League_Match_masthead_mobile_v2_984x1182_Haryana_Hurricanes_vs_Emperia_Marathas.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026504/1792160409462476_Volleyball_Champions_League_Match_Masthead_logo_Haryana_Hurricanes_vs_Emperia_Marathas_LIVE.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026504/1792160410190476_Volleyball_Champions_League_Match_masthead_mobile_v2_984x1182_Ayodhya_Garjan_vs_Delhi_Dynamites.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026504/1792160409228476_Volleyball_Champions_League_Match_Masthead_logo_Ayodhya_Garjan_vs_Delhi_Dynamites_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130499544133_VCL26_Ayodhya-Garjan-vs-Delhi-Dynamites_live_landscape_thumb.jpg"
       },
       "multiple_audio_links": [
         {
@@ -388,12 +486,12 @@
       "contentId": 1090548715,
       "video_info": {
         "title": "Archery Premier League 2026",
-        "shortDescription": "Mighty Marathas take on Kakatiya Knights in an exciting clash as both teams aim for victory. Watch all the action LIVE, only on Sony LIV.",
-        "longDescription": "Mighty Marathas take on Kakatiya Knights in an exciting clash as both teams aim for victory. Watch all the action LIVE, only on Sony LIV.",
+        "shortDescription": "Prithviraj Yodhas take on Rajputana Royals in an exciting clash as both teams aim for victory. Watch all the action LIVE, only on Sony LIV.",
+        "longDescription": "Prithviraj Yodhas take on Rajputana Royals in an exciting clash as both teams aim for victory. Watch all the action LIVE, only on Sony LIV.",
         "genres": [
           "Archery"
         ],
-        "episodeTitle": "Mighty Marathas vs Kakatiya Knights - 17 Oct 2026"
+        "episodeTitle": "Prithviraj Yodhas vs Rajputana Royals - 17 Oct 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -428,14 +526,14 @@
         "originalAirDate": "17 Oct 2026, 07:30 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959525427578_APL26_Mighty-Marathas-vs-Kakatiya-Knights_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959546572578_APL26_Mighty-Marathas-vs-Kakatiya-Knights_live_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959750516578_APL26_Prithviraj-Yodhas-vs-Rajputana-Royals_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959774061578_APL26_Prithviraj-Yodhas-vs-Rajputana-Royals_live_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959546572578_APL26_Mighty-Marathas-vs-Kakatiya-Knights_live_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959774061578_APL26_Prithviraj-Yodhas-vs-Rajputana-Royals_live_landscape_thumb.jpg"
       },
       "multiple_audio_links": [
         {
@@ -650,7 +748,7 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026444/1792082540617251_ind_vs_nz_1st_t20i_dated_promo_Portrait_Thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026551/1792220136269169_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026527/1792216778869573_IND_vs_NZ_masthead_mobile_v2.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026592/1792247269443551_INDvsNZ_bhuvi_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026266/1791913873262399_IND_vs_NZ_2026_masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
