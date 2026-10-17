@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "16-10-2026 23:20",
+  "last_updated": "17-10-2026 09:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,106 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090548709,
+      "video_info": {
+        "title": "Asian Tour 2026",
+        "shortDescription": "Catch all the action from the Day 3 of SJM Macao Open, LIVE on Sony LIV.",
+        "longDescription": "Catch all the action from the Day 3 of SJM Macao Open, LIVE on Sony LIV.",
+        "genres": [
+          "Golf"
+        ],
+        "episodeTitle": "SJM Macao Open - Day 3 - 17 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "17 Oct 2026, 09:00 AM",
+        "contractEndDate": "17 Oct 2026, 06:00 PM",
+        "originalAirDate": "17 Oct 2026, 09:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045194473492_Asian_TOur_SJM_Macao_Open_Day3_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045218534492_Asian_TOur_SJM_Macao_Open_Day3_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045218534492_Asian_TOur_SJM_Macao_Open_Day3_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792207819504,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/hdntl=exp=1792294219~acl=%2f*~id=83561293543375330720404841798436~data=hdntl,2120299,Golf_SJM1710,ENG~hmac=35f6400c52f497d2a5d4eb68ea4c6de3946ef78814a4c6d4de2ca5b935ae48d3/master_500.m3u8?aka_me_session_id=AAAAAAAAAABLPdRqAAAAAMgRPJ2ZXEoz0UtoPy3wlUEYnHp0vZxe0CG7XXxZ1Qk37oXQo6EV0ic3GnhJs6QdzbgGerdj+kgW&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/hdntl=exp=1792294219~acl=%2f*~id=83561293543375330720404841798436~data=hdntl,2120299,Golf_SJM1710,ENG~hmac=35f6400c52f497d2a5d4eb68ea4c6de3946ef78814a4c6d4de2ca5b935ae48d3/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABLPdRqAAAAAMgRPJ2ZXEoz0UtoPy3wlUEYnHp0vZxe0CG7XXxZ1Qk37oXQo6EV0ic3GnhJs6QdzbgGerdj+kgW&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/hdntl=exp=1792294219~acl=%2f*~id=83561293543375330720404841798436~data=hdntl,2120299,Golf_SJM1710,ENG~hmac=35f6400c52f497d2a5d4eb68ea4c6de3946ef78814a4c6d4de2ca5b935ae48d3/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABLPdRqAAAAAMgRPJ2ZXEoz0UtoPy3wlUEYnHp0vZxe0CG7XXxZ1Qk37oXQo6EV0ic3GnhJs6QdzbgGerdj+kgW&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/hdntl=exp=1792294219~acl=%2f*~id=83561293543375330720404841798436~data=hdntl,2120299,Golf_SJM1710,ENG~hmac=35f6400c52f497d2a5d4eb68ea4c6de3946ef78814a4c6d4de2ca5b935ae48d3/master_3800.m3u8?aka_me_session_id=AAAAAAAAAABLPdRqAAAAAMgRPJ2ZXEoz0UtoPy3wlUEYnHp0vZxe0CG7XXxZ1Qk37oXQo6EV0ic3GnhJs6QdzbgGerdj+kgW&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/hdntl=exp=1792294219~acl=%2f*~id=83561293543375330720404841798436~data=hdntl,2120299,Golf_SJM1710,ENG~hmac=35f6400c52f497d2a5d4eb68ea4c6de3946ef78814a4c6d4de2ca5b935ae48d3/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABLPdRqAAAAAMgRPJ2ZXEoz0UtoPy3wlUEYnHp0vZxe0CG7XXxZ1Qk37oXQo6EV0ic3GnhJs6QdzbgGerdj+kgW&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/hdntl=exp=1792294219~acl=%2f*~id=83561293543375330720404841798436~data=hdntl,2120299,Golf_SJM1710,ENG~hmac=35f6400c52f497d2a5d4eb68ea4c6de3946ef78814a4c6d4de2ca5b935ae48d3/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABLPdRqAAAAAMgRPJ2ZXEoz0UtoPy3wlUEYnHp0vZxe0CG7XXxZ1Qk37oXQo6EV0ic3GnhJs6QdzbgGerdj+kgW&aka_media_format_type=hls",
+            "Date": "Saturday 17th of October 2026 09:00:19 AM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090548747,
@@ -124,14 +223,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973952286868_ISL_Bengaluru_FC_vs_Chennaiyin_FC_promo_portrait_thumb_dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973979294868_ISL_Bengaluru_FC_vs_Chennaiyin_FC_promo_landscape_thumb_dated.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973958644868_ISL_Bengaluru_FC_vs_Chennaiyin_FC_promo_portrait_thumb_tonight.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973984915868_ISL_Bengaluru_FC_vs_Chennaiyin_FC_promo_landscape_thumb_tonight.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973979294868_ISL_Bengaluru_FC_vs_Chennaiyin_FC_promo_landscape_thumb_dated.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973984915868_ISL_Bengaluru_FC_vs_Chennaiyin_FC_promo_landscape_thumb_tonight.jpg"
       },
       "multiple_audio_links": []
     },
