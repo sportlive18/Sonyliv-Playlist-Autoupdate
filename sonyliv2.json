@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "19-10-2026 19:00",
+  "last_updated": "19-10-2026 20:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,6 +18,105 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090548891,
+      "video_info": {
+        "title": "Celebrity Master Chef - Tamil",
+        "shortDescription": "12 celebrities with distinct personalities come together to compete in a series of exciting cooking challenges.With unexpected twists, drama, emotions and entertainment, they battle it out to become the ultimate Celebrity MasterChef.",
+        "longDescription": "12 celebrities with distinct personalities come together to compete in a series of exciting cooking challenges.With unexpected twists, drama, emotions and entertainment, they battle it out to become the ultimate Celebrity MasterChef.",
+        "genres": [
+          "Reality",
+          "Cookery"
+        ],
+        "episodeTitle": "Celebrity Master Chef - Tamil"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/ny2x3upqT0C3ZqW7UEQLsQ/master.m3u8",
+        "broadcast_channel": "Sony Vizha",
+        "audio_language_list": [
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          }
+        ],
+        "emfAttributes__audio_languages": "TAM",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "TAM",
+              "isPreferred": true,
+              "audioLanguageLabel": "Tamil"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "19 Oct 2026, 07:20 PM",
+        "contractEndDate": "19 Oct 2026, 11:00 PM",
+        "originalAirDate": "19 Oct 2026, 08:00 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026712/1792415489833399_MasterChef_Portrait_Thumb_simulcast.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026712/1792415500150399_MasterChef_Landscape_Thumb_simulcast.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026476/1792143125255668_CMC_Grand_Launch_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026476/1792121508000668_MasterCHef_Masthead_Logo_NewMovie_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026712/1792415500150399_MasterChef_Landscape_Thumb_simulcast.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "Tamil",
+          "lang_code": "TAM",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022319/CMCtamil1910/TAM/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792421414177,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/CMCtamil1910/TAM/hdntl=exp=1792507814~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2022319,CMCtamil1910,TAM,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=a320a8cf32b085bbfd6f121579391237bc00ea1f93968fcc4e4ee6369a859fd1/master_500.m3u8?aka_me_session_id=AAAAAAAAAACmf9dqAAAAAIe1ic9kvCuj5r6f2I3LiZytAmib%2fw9cVf6RYR27GK+m5p+Q4HC3J28YSfqDyJarU9CLu2bCgDjh&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/CMCtamil1910/TAM/hdntl=exp=1792507814~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2022319,CMCtamil1910,TAM,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=a320a8cf32b085bbfd6f121579391237bc00ea1f93968fcc4e4ee6369a859fd1/master_700.m3u8?aka_me_session_id=AAAAAAAAAACmf9dqAAAAAIe1ic9kvCuj5r6f2I3LiZytAmib%2fw9cVf6RYR27GK+m5p+Q4HC3J28YSfqDyJarU9CLu2bCgDjh&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/CMCtamil1910/TAM/hdntl=exp=1792507814~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2022319,CMCtamil1910,TAM,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=a320a8cf32b085bbfd6f121579391237bc00ea1f93968fcc4e4ee6369a859fd1/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACmf9dqAAAAAIe1ic9kvCuj5r6f2I3LiZytAmib%2fw9cVf6RYR27GK+m5p+Q4HC3J28YSfqDyJarU9CLu2bCgDjh&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/CMCtamil1910/TAM/hdntl=exp=1792507814~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2022319,CMCtamil1910,TAM,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=a320a8cf32b085bbfd6f121579391237bc00ea1f93968fcc4e4ee6369a859fd1/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACmf9dqAAAAAIe1ic9kvCuj5r6f2I3LiZytAmib%2fw9cVf6RYR27GK+m5p+Q4HC3J28YSfqDyJarU9CLu2bCgDjh&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/CMCtamil1910/TAM/hdntl=exp=1792507814~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2022319,CMCtamil1910,TAM,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=a320a8cf32b085bbfd6f121579391237bc00ea1f93968fcc4e4ee6369a859fd1/master_3500.m3u8?aka_me_session_id=AAAAAAAAAACmf9dqAAAAAIe1ic9kvCuj5r6f2I3LiZytAmib%2fw9cVf6RYR27GK+m5p+Q4HC3J28YSfqDyJarU9CLu2bCgDjh&aka_media_format_type=hls",
+            "Date": "Monday 19th of October 2026 08:20:13 PM"
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090549233,
       "video_info": {
@@ -358,13 +457,13 @@
       },
       "image_cdn": {
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026444/1792082540617251_ind_vs_nz_1st_t20i_dated_promo_Portrait_Thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026551/1792220136269169_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026527/1792216778869573_IND_vs_NZ_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026550/1792229472578996_IND_vs_NZ_masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026551/1792220136269169_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg"
       },
       "multiple_audio_links": []
     },
@@ -880,13 +979,13 @@
       },
       "image_cdn": {
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026444/1792082540617251_ind_vs_nz_1st_t20i_dated_promo_Portrait_Thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026551/1792220136269169_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026527/1792216778869573_IND_vs_NZ_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026550/1792229472578996_IND_vs_NZ_masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026551/1792220136269169_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg"
       },
       "multiple_audio_links": []
     },
