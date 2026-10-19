@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "19-10-2026 18:20",
+  "last_updated": "19-10-2026 19:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,6 +18,158 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090549233,
+      "video_info": {
+        "title": "MG Indian Super League 2026-27",
+        "shortDescription": "Punjab FC take on Mumbai City FC in a crucial clash as both sides look to build momentum. Watch all the action LIVE only on Sony LIV.",
+        "longDescription": "Punjab FC take on Mumbai City FC in a crucial clash as both sides look to build momentum. Watch all the action LIVE only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Punjab FC vs Mumbai City FC - 19 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "19 Oct 2026, 06:30 PM",
+        "contractEndDate": "19 Oct 2026, 11:30 PM",
+        "originalAirDate": "19 Oct 2026, 07:00 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026609/1792269831012510_ISL26_PunjabFC_vs_MumbaiCityFC_live_Portrait_Thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026609/1792269685499510_ISL26_PunjabFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026435/1792072932104928_Indian_Super_League_2026_Match_masthead_mobile_v2_984x1182_Punjab_FC_vs_Mumbai_City_FC.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026435/1792072930407929_Indian_Super_League_2026_Match_Masthead_logo_Punjab_FC_vs_Mumbai_City_FC_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026609/1792269685499510_ISL26_PunjabFC_vs_MumbaiCityFC_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1910/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792416619229,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1910/ENG/hdntl=exp=1792503019~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2120300,Footlive1910,ENG,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=1c9ccbbcb4537c05dbca3f5887f0a3c5c731f3ae4ebf1dbb3fb0473077463e71/master_500.m3u8?aka_me_session_id=AAAAAAAAAADrbNdqAAAAANEjZKwwqBrBLmb2vLFVWrLRVmV93ueZWkNUC2bU3i317ujY4swzu4WVd8NZ+KS5+3CgM0GO8tiS&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1910/ENG/hdntl=exp=1792503019~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2120300,Footlive1910,ENG,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=1c9ccbbcb4537c05dbca3f5887f0a3c5c731f3ae4ebf1dbb3fb0473077463e71/master_1000.m3u8?aka_me_session_id=AAAAAAAAAADrbNdqAAAAANEjZKwwqBrBLmb2vLFVWrLRVmV93ueZWkNUC2bU3i317ujY4swzu4WVd8NZ+KS5+3CgM0GO8tiS&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1910/ENG/hdntl=exp=1792503019~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2120300,Footlive1910,ENG,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=1c9ccbbcb4537c05dbca3f5887f0a3c5c731f3ae4ebf1dbb3fb0473077463e71/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADrbNdqAAAAANEjZKwwqBrBLmb2vLFVWrLRVmV93ueZWkNUC2bU3i317ujY4swzu4WVd8NZ+KS5+3CgM0GO8tiS&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1910/ENG/hdntl=exp=1792503019~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2120300,Footlive1910,ENG,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=1c9ccbbcb4537c05dbca3f5887f0a3c5c731f3ae4ebf1dbb3fb0473077463e71/master_3800.m3u8?aka_me_session_id=AAAAAAAAAADrbNdqAAAAANEjZKwwqBrBLmb2vLFVWrLRVmV93ueZWkNUC2bU3i317ujY4swzu4WVd8NZ+KS5+3CgM0GO8tiS&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1910/ENG/hdntl=exp=1792503019~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2120300,Footlive1910,ENG,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=1c9ccbbcb4537c05dbca3f5887f0a3c5c731f3ae4ebf1dbb3fb0473077463e71/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADrbNdqAAAAANEjZKwwqBrBLmb2vLFVWrLRVmV93ueZWkNUC2bU3i317ujY4swzu4WVd8NZ+KS5+3CgM0GO8tiS&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1910/ENG/hdntl=exp=1792503019~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2120300,Footlive1910,ENG,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=1c9ccbbcb4537c05dbca3f5887f0a3c5c731f3ae4ebf1dbb3fb0473077463e71/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADrbNdqAAAAANEjZKwwqBrBLmb2vLFVWrLRVmV93ueZWkNUC2bU3i317ujY4swzu4WVd8NZ+KS5+3CgM0GO8tiS&aka_media_format_type=hls",
+            "Date": "Monday 19th of October 2026 07:00:19 PM"
+          }
+        },
+        {
+          "language": "Hindi",
+          "lang_code": "HIN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1910/HIN/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792416620169,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1910/HIN/hdntl=exp=1792503020~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2120302,Footlive1910,HIN,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=2fb093c83da7db5f362fce27ab7692fa7e459359daf5f051515d954f48c115ca/master_500.m3u8?aka_me_session_id=AAAAAAAAAADsbNdqAAAAAOm7R1QCKyJEa7nQyF3+%2fMQjh4oTfIVfEaEbuPyCao7YA2ndtyN7lRt54DoOy36FLnNaVkR59tWm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1910/HIN/hdntl=exp=1792503020~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2120302,Footlive1910,HIN,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=2fb093c83da7db5f362fce27ab7692fa7e459359daf5f051515d954f48c115ca/master_1000.m3u8?aka_me_session_id=AAAAAAAAAADsbNdqAAAAAOm7R1QCKyJEa7nQyF3+%2fMQjh4oTfIVfEaEbuPyCao7YA2ndtyN7lRt54DoOy36FLnNaVkR59tWm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1910/HIN/hdntl=exp=1792503020~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2120302,Footlive1910,HIN,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=2fb093c83da7db5f362fce27ab7692fa7e459359daf5f051515d954f48c115ca/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADsbNdqAAAAAOm7R1QCKyJEa7nQyF3+%2fMQjh4oTfIVfEaEbuPyCao7YA2ndtyN7lRt54DoOy36FLnNaVkR59tWm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1910/HIN/hdntl=exp=1792503020~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2120302,Footlive1910,HIN,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=2fb093c83da7db5f362fce27ab7692fa7e459359daf5f051515d954f48c115ca/master_3800.m3u8?aka_me_session_id=AAAAAAAAAADsbNdqAAAAAOm7R1QCKyJEa7nQyF3+%2fMQjh4oTfIVfEaEbuPyCao7YA2ndtyN7lRt54DoOy36FLnNaVkR59tWm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1910/HIN/hdntl=exp=1792503020~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2120302,Footlive1910,HIN,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=2fb093c83da7db5f362fce27ab7692fa7e459359daf5f051515d954f48c115ca/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADsbNdqAAAAAOm7R1QCKyJEa7nQyF3+%2fMQjh4oTfIVfEaEbuPyCao7YA2ndtyN7lRt54DoOy36FLnNaVkR59tWm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1910/HIN/hdntl=exp=1792503020~acl=%2f*~id=21335690130892556580766117607924~data=hdntl,2120302,Footlive1910,HIN,441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89~hmac=2fb093c83da7db5f362fce27ab7692fa7e459359daf5f051515d954f48c115ca/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADsbNdqAAAAAOm7R1QCKyJEa7nQyF3+%2fMQjh4oTfIVfEaEbuPyCao7YA2ndtyN7lRt54DoOy36FLnNaVkR59tWm&aka_media_format_type=hls",
+            "Date": "Monday 19th of October 2026 07:00:19 PM"
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090549234,
       "video_info": {
@@ -496,13 +648,13 @@
       },
       "image_cdn": {
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026607/1792263633593477_ISL26_PunjabFC_vs_MumbaiCityFC_tonight_promo_Portrait_Thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026607/1792263924403477_ISL26_PunjabFC_vs_MumbaiCityFC_tonight_promo_landscape_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026531/1792220168107930_Indian_Super_League_Football_Landscape_Thumb_Dated.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026607/1792263924403477_ISL26_PunjabFC_vs_MumbaiCityFC_tonight_promo_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026531/1792220168107930_Indian_Super_League_Football_Landscape_Thumb_Dated.jpg"
       },
       "multiple_audio_links": []
     },
