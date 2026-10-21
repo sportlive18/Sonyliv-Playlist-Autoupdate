@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "21-10-2026 17:06",
+  "last_updated": "21-10-2026 17:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -77,48 +77,6 @@
       },
       "multiple_audio_links": [
         {
-          "language": "Hindi",
-          "lang_code": "HIN",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1792582111420,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=798160,AVERAGE-BANDWIDTH=717200,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792668514~acl=%2f*~id=7b8586d1-ea1b-4bd0-bcc7-ee02671ac42d~data=hdntl,20000094,cricodi12110,ENG~hmac=1c6d408f577d97b88552652ab1be16b3affcae2ba5b6f599d6d311f21cb10ea2/std_lrh-800300010_360_460000.m3u8?hdnea=st=1792582113~exp=1792582413~acl=*~id=7b8586d1-ea1b-4bd0-bcc7-ee02671ac42d~hmac=5504a5b925cc85b8c69fbdc0849db5abee2d8d46e7493352291f9ae6a2125d29\n#EXT-X-STREAM-INF:BANDWIDTH=1385120,AVERAGE-BANDWIDTH=1223200,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792668514~acl=%2f*~id=7b8586d1-ea1b-4bd0-bcc7-ee02671ac42d~data=hdntl,20000094,cricodi12110,ENG~hmac=1c6d408f577d97b88552652ab1be16b3affcae2ba5b6f599d6d311f21cb10ea2/std_lrh-800300010_540_920000.m3u8?hdnea=st=1792582113~exp=1792582413~acl=*~id=7b8586d1-ea1b-4bd0-bcc7-ee02671ac42d~hmac=5504a5b925cc85b8c69fbdc0849db5abee2d8d46e7493352291f9ae6a2125d29\n#EXT-X-STREAM-INF:BANDWIDTH=2559040,AVERAGE-BANDWIDTH=2235200,CODECS=\"avc1.640020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792668514~acl=%2f*~id=7b8586d1-ea1b-4bd0-bcc7-ee02671ac42d~data=hdntl,20000094,cricodi12110,ENG~hmac=1c6d408f577d97b88552652ab1be16b3affcae2ba5b6f599d6d311f21cb10ea2/std_lrh-800300010_720_1840000.m3u8?hdnea=st=1792582113~exp=1792582413~acl=*~id=7b8586d1-ea1b-4bd0-bcc7-ee02671ac42d~hmac=5504a5b925cc85b8c69fbdc0849db5abee2d8d46e7493352291f9ae6a2125d29\n#EXT-X-STREAM-INF:BANDWIDTH=5493840,AVERAGE-BANDWIDTH=4765200,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792668514~acl=%2f*~id=7b8586d1-ea1b-4bd0-bcc7-ee02671ac42d~data=hdntl,20000094,cricodi12110,ENG~hmac=1c6d408f577d97b88552652ab1be16b3affcae2ba5b6f599d6d311f21cb10ea2/std_lrh-800300010_1080_4140000.m3u8?hdnea=st=1792582113~exp=1792582413~acl=*~id=7b8586d1-ea1b-4bd0-bcc7-ee02671ac42d~hmac=5504a5b925cc85b8c69fbdc0849db5abee2d8d46e7493352291f9ae6a2125d29\n#EXT-X-STREAM-INF:BANDWIDTH=3967744,AVERAGE-BANDWIDTH=3449600,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792668514~acl=%2f*~id=7b8586d1-ea1b-4bd0-bcc7-ee02671ac42d~data=hdntl,20000094,cricodi12110,ENG~hmac=1c6d408f577d97b88552652ab1be16b3affcae2ba5b6f599d6d311f21cb10ea2/std_lrh-800300010_1080_2944000.m3u8?hdnea=st=1792582113~exp=1792582413~acl=*~id=7b8586d1-ea1b-4bd0-bcc7-ee02671ac42d~hmac=5504a5b925cc85b8c69fbdc0849db5abee2d8d46e7493352291f9ae6a2125d29",
-            "Date": "Wednesday 21st of October 2026 04:58:34 PM"
-          }
-        },
-        {
           "language": "English",
           "lang_code": "ENG",
           "data": {
@@ -138,7 +96,7 @@
             "Maximum_Video_Quality": "SDR",
             "Maximum_Resolution": "FULL_HD",
             "trailer_url": "",
-            "systemTime": 1792582115296,
+            "systemTime": 1792584185463,
             "additionalDataJson": {
               "adServer": "GAM",
               "ad_stack": "MT-SSB",
@@ -156,8 +114,8 @@
             },
             "Status_code": 200,
             "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=798160,AVERAGE-BANDWIDTH=717200,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792668518~acl=%2f*~id=9178f380-b5c0-4833-a3f8-295cb1fb05c5~data=hdntl,20000094,cricodi12110,ENG~hmac=c65d4ec89b3508e332dbfd70f1a6e87894261815dc18b8624e3b3ae4fa028d15/std_lrh-800300010_360_460000.m3u8?hdnea=st=1792582117~exp=1792582417~acl=*~id=9178f380-b5c0-4833-a3f8-295cb1fb05c5~hmac=5c2d2b545a3905d828d109efc55bfd8c105f729b3c3f974f01c677c8b099a3c6\n#EXT-X-STREAM-INF:BANDWIDTH=1385120,AVERAGE-BANDWIDTH=1223200,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792668518~acl=%2f*~id=9178f380-b5c0-4833-a3f8-295cb1fb05c5~data=hdntl,20000094,cricodi12110,ENG~hmac=c65d4ec89b3508e332dbfd70f1a6e87894261815dc18b8624e3b3ae4fa028d15/std_lrh-800300010_540_920000.m3u8?hdnea=st=1792582117~exp=1792582417~acl=*~id=9178f380-b5c0-4833-a3f8-295cb1fb05c5~hmac=5c2d2b545a3905d828d109efc55bfd8c105f729b3c3f974f01c677c8b099a3c6\n#EXT-X-STREAM-INF:BANDWIDTH=2559040,AVERAGE-BANDWIDTH=2235200,CODECS=\"avc1.640020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792668518~acl=%2f*~id=9178f380-b5c0-4833-a3f8-295cb1fb05c5~data=hdntl,20000094,cricodi12110,ENG~hmac=c65d4ec89b3508e332dbfd70f1a6e87894261815dc18b8624e3b3ae4fa028d15/std_lrh-800300010_720_1840000.m3u8?hdnea=st=1792582117~exp=1792582417~acl=*~id=9178f380-b5c0-4833-a3f8-295cb1fb05c5~hmac=5c2d2b545a3905d828d109efc55bfd8c105f729b3c3f974f01c677c8b099a3c6\n#EXT-X-STREAM-INF:BANDWIDTH=5493840,AVERAGE-BANDWIDTH=4765200,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792668518~acl=%2f*~id=9178f380-b5c0-4833-a3f8-295cb1fb05c5~data=hdntl,20000094,cricodi12110,ENG~hmac=c65d4ec89b3508e332dbfd70f1a6e87894261815dc18b8624e3b3ae4fa028d15/std_lrh-800300010_1080_4140000.m3u8?hdnea=st=1792582117~exp=1792582417~acl=*~id=9178f380-b5c0-4833-a3f8-295cb1fb05c5~hmac=5c2d2b545a3905d828d109efc55bfd8c105f729b3c3f974f01c677c8b099a3c6\n#EXT-X-STREAM-INF:BANDWIDTH=3967744,AVERAGE-BANDWIDTH=3449600,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792668518~acl=%2f*~id=9178f380-b5c0-4833-a3f8-295cb1fb05c5~data=hdntl,20000094,cricodi12110,ENG~hmac=c65d4ec89b3508e332dbfd70f1a6e87894261815dc18b8624e3b3ae4fa028d15/std_lrh-800300010_1080_2944000.m3u8?hdnea=st=1792582117~exp=1792582417~acl=*~id=9178f380-b5c0-4833-a3f8-295cb1fb05c5~hmac=5c2d2b545a3905d828d109efc55bfd8c105f729b3c3f974f01c677c8b099a3c6",
-            "Date": "Wednesday 21st of October 2026 04:58:37 PM"
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=798160,AVERAGE-BANDWIDTH=717200,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792670587~acl=%2f*~id=ff4b7616-043a-498e-9095-1c5453fd4f5d~data=hdntl,20000094,cricodi12110,ENG~hmac=f1a0e68530fcaf8a1d857c8fd88588ee17dcdfcdbde5666a55ef26fdd65b0f6e/std_lrh-800300010_360_460000.m3u8?hdnea=st=1792584186~exp=1792584486~acl=*~id=ff4b7616-043a-498e-9095-1c5453fd4f5d~hmac=c2417ae75faa4c4f798afcf5c46bc540ffbf760338a08b3bd74c464566f432f8\n#EXT-X-STREAM-INF:BANDWIDTH=1385120,AVERAGE-BANDWIDTH=1223200,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792670587~acl=%2f*~id=ff4b7616-043a-498e-9095-1c5453fd4f5d~data=hdntl,20000094,cricodi12110,ENG~hmac=f1a0e68530fcaf8a1d857c8fd88588ee17dcdfcdbde5666a55ef26fdd65b0f6e/std_lrh-800300010_540_920000.m3u8?hdnea=st=1792584186~exp=1792584486~acl=*~id=ff4b7616-043a-498e-9095-1c5453fd4f5d~hmac=c2417ae75faa4c4f798afcf5c46bc540ffbf760338a08b3bd74c464566f432f8\n#EXT-X-STREAM-INF:BANDWIDTH=2559040,AVERAGE-BANDWIDTH=2235200,CODECS=\"avc1.640020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792670587~acl=%2f*~id=ff4b7616-043a-498e-9095-1c5453fd4f5d~data=hdntl,20000094,cricodi12110,ENG~hmac=f1a0e68530fcaf8a1d857c8fd88588ee17dcdfcdbde5666a55ef26fdd65b0f6e/std_lrh-800300010_720_1840000.m3u8?hdnea=st=1792584186~exp=1792584486~acl=*~id=ff4b7616-043a-498e-9095-1c5453fd4f5d~hmac=c2417ae75faa4c4f798afcf5c46bc540ffbf760338a08b3bd74c464566f432f8\n#EXT-X-STREAM-INF:BANDWIDTH=5493840,AVERAGE-BANDWIDTH=4765200,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792670587~acl=%2f*~id=ff4b7616-043a-498e-9095-1c5453fd4f5d~data=hdntl,20000094,cricodi12110,ENG~hmac=f1a0e68530fcaf8a1d857c8fd88588ee17dcdfcdbde5666a55ef26fdd65b0f6e/std_lrh-800300010_1080_4140000.m3u8?hdnea=st=1792584186~exp=1792584486~acl=*~id=ff4b7616-043a-498e-9095-1c5453fd4f5d~hmac=c2417ae75faa4c4f798afcf5c46bc540ffbf760338a08b3bd74c464566f432f8\n#EXT-X-STREAM-INF:BANDWIDTH=3967744,AVERAGE-BANDWIDTH=3449600,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792670587~acl=%2f*~id=ff4b7616-043a-498e-9095-1c5453fd4f5d~data=hdntl,20000094,cricodi12110,ENG~hmac=f1a0e68530fcaf8a1d857c8fd88588ee17dcdfcdbde5666a55ef26fdd65b0f6e/std_lrh-800300010_1080_2944000.m3u8?hdnea=st=1792584186~exp=1792584486~acl=*~id=ff4b7616-043a-498e-9095-1c5453fd4f5d~hmac=c2417ae75faa4c4f798afcf5c46bc540ffbf760338a08b3bd74c464566f432f8",
+            "Date": "Wednesday 21st of October 2026 05:33:07 PM"
           }
         }
       ]
