@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "21-10-2026 18:00",
+  "last_updated": "21-10-2026 18:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -10,7 +10,7 @@
     "Debugging": "OFF",
     "SUB_TYPE": "PREMIUM",
     "RECIVER": "OFF",
-    "REALTIME": "ON",
+    "REALTIME": "OFF",
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "ALL_IN_ONE": "OFF",
@@ -18,6 +18,112 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090549331,
+      "video_info": {
+        "title": "Volleyball Champions League 2026",
+        "shortDescription": "Watch Haryana Hurricanes battle Emperia Marathas in a high-stakes Semi-Final encounter in the Volleyball Champions League 2026, LIVE on Sony LIV.",
+        "longDescription": "Watch Haryana Hurricanes battle Emperia Marathas in a high-stakes Semi-Final encounter in the Volleyball Champions League 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Volleyball"
+        ],
+        "episodeTitle": "Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/Vrn2Itc7TFm6YzQYNzhDzg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 1",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_SD",
+          "videoType": "SD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "21 Oct 2026, 06:00 PM",
+        "contractEndDate": "22 Oct 2026, 12:45 AM",
+        "originalAirDate": "21 Oct 2026, 06:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234712177325_VCL26_SF_Haryana_Hurricanes_vs_Emperia_Marathas_live_Portrait_Thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234691409325_VCL26_SF_Haryana_Hurricanes_vs_Emperia_Marathas_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026692/1792404175360903_Volleyball_Champions_League_Match_masthead_mobile_v2_984x1182_Haryana_Hurricanes_vs_Emperia_Marathas.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026692/1792404174998903_Volleyball_Champions_League_Match_Masthead_logo_Haryana_Hurricanes_vs_Emperia_Marathas_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234691409325_VCL26_SF_Haryana_Hurricanes_vs_Emperia_Marathas_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "LITE",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8947/cricodi_2110-eng-2-ts-hls/std-lrl-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              }
+            ],
+            "dai_asset_key": "https://dai.google.com/ssai/event/Vrn2Itc7TFm6YzQYNzhDzg/master.m3u8",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792586473237,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "DAI-IMA",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 25,
+              "isDaiKey": true,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8947/cricodi_2110-eng-2-ts-hls/pristine-std-lrl-800300010_1.m3u8?hdntl=exp=1792629675~acl=/*~hmac=3eac6f185927920f9e52e807da99deaba6de9eed0df4b733d39fbfe7ce9169af\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8947/cricodi_2110-eng-2-ts-hls/pristine-std-lrl-800300010_2.m3u8?hdntl=exp=1792629675~acl=/*~hmac=3eac6f185927920f9e52e807da99deaba6de9eed0df4b733d39fbfe7ce9169af\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8947/cricodi_2110-eng-2-ts-hls/pristine-std-lrl-800300010_3.m3u8?hdntl=exp=1792629675~acl=/*~hmac=3eac6f185927920f9e52e807da99deaba6de9eed0df4b733d39fbfe7ce9169af\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8947/cricodi_2110-eng-2-ts-hls/pristine-std-lrl-800300010_4.m3u8?hdntl=exp=1792629675~acl=/*~hmac=3eac6f185927920f9e52e807da99deaba6de9eed0df4b733d39fbfe7ce9169af",
+            "date": "Wednesday 21st of October 2026 06:11:15 PM"
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090549320,
       "video_info": {
@@ -75,7 +181,50 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417147157732_STCL_Rajasthan-Frontiers-vs-Haryana-Lions_live_landscape_thumb.jpg"
       },
-      "multiple_audio_links": []
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "LITE",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrl-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "https://dai.google.com/ssai/event/QfiqxfvARmir2UcPtjNHuQ/master.m3u8",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792586476831,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "DAI-IMA",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 25,
+              "isDaiKey": true,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=798160,AVERAGE-BANDWIDTH=717200,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792672878~acl=%2f*~id=f29cd3d3-5d5c-47fb-845c-38b107f86bb1~data=hdntl,20000094,cricodi12110,ENG~hmac=983b049d9ff8cc2839ca6d236519cbafb641a9342f76d907aeeda5c67ab2865a/std_lrl-800300010_360_460000.m3u8?hdnea=st=1792586478~exp=1792586778~acl=*~id=f29cd3d3-5d5c-47fb-845c-38b107f86bb1~hmac=73da1908d3dfe98ee72f8defed91eeab162e28b16dbccc40a8c9433f50ce70df\n#EXT-X-STREAM-INF:BANDWIDTH=1385120,AVERAGE-BANDWIDTH=1223200,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792672878~acl=%2f*~id=f29cd3d3-5d5c-47fb-845c-38b107f86bb1~data=hdntl,20000094,cricodi12110,ENG~hmac=983b049d9ff8cc2839ca6d236519cbafb641a9342f76d907aeeda5c67ab2865a/std_lrl-800300010_540_920000.m3u8?hdnea=st=1792586478~exp=1792586778~acl=*~id=f29cd3d3-5d5c-47fb-845c-38b107f86bb1~hmac=73da1908d3dfe98ee72f8defed91eeab162e28b16dbccc40a8c9433f50ce70df\n#EXT-X-STREAM-INF:BANDWIDTH=2559040,AVERAGE-BANDWIDTH=2235200,CODECS=\"avc1.640020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792672878~acl=%2f*~id=f29cd3d3-5d5c-47fb-845c-38b107f86bb1~data=hdntl,20000094,cricodi12110,ENG~hmac=983b049d9ff8cc2839ca6d236519cbafb641a9342f76d907aeeda5c67ab2865a/std_lrl-800300010_720_1840000.m3u8?hdnea=st=1792586478~exp=1792586778~acl=*~id=f29cd3d3-5d5c-47fb-845c-38b107f86bb1~hmac=73da1908d3dfe98ee72f8defed91eeab162e28b16dbccc40a8c9433f50ce70df\n#EXT-X-STREAM-INF:BANDWIDTH=3967744,AVERAGE-BANDWIDTH=3449600,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792672878~acl=%2f*~id=f29cd3d3-5d5c-47fb-845c-38b107f86bb1~data=hdntl,20000094,cricodi12110,ENG~hmac=983b049d9ff8cc2839ca6d236519cbafb641a9342f76d907aeeda5c67ab2865a/std_lrl-800300010_1080_2944000.m3u8?hdnea=st=1792586478~exp=1792586778~acl=*~id=f29cd3d3-5d5c-47fb-845c-38b107f86bb1~hmac=73da1908d3dfe98ee72f8defed91eeab162e28b16dbccc40a8c9433f50ce70df",
+            "date": "Wednesday 21st of October 2026 06:11:19 PM"
+          }
+        }
+      ]
     },
     {
       "contentId": 1090549301,
@@ -130,7 +279,50 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025834/1791099270661478_UYL26_LOSC_Lille_vs_Galatasaray_live_landscape_thumb.jpg"
       },
-      "multiple_audio_links": []
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "LITE",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://liveakdai.slivcdn.com/hls/live/20000094/cricodi22110/ENG/std_lrl-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "https://dai.google.com/ssai/event/OmHoNcoVR064pZ1gWNFs_Q/master.m3u8",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792586480064,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "DAI-IMA",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 25,
+              "isDaiKey": true,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=798160,AVERAGE-BANDWIDTH=717200,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi22110/ENG/hdntl=exp=1792672882~acl=%2f*~id=764aa5f3-9511-4766-a621-6b70abc91fea~data=hdntl,20000094,cricodi22110,ENG~hmac=b79ec97ea17ed0df7f50b17d766c527888b5055d9117935a4f45fe8f8af36656/std_lrl-800300010_360_460000.m3u8?hdnea=st=1792586481~exp=1792586781~acl=*~id=764aa5f3-9511-4766-a621-6b70abc91fea~hmac=3b46a04f9f5f7442bfea77eb258e3107f7555223ff3eebe37149f46e4ee5aab1\n#EXT-X-STREAM-INF:BANDWIDTH=1385120,AVERAGE-BANDWIDTH=1223200,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi22110/ENG/hdntl=exp=1792672882~acl=%2f*~id=764aa5f3-9511-4766-a621-6b70abc91fea~data=hdntl,20000094,cricodi22110,ENG~hmac=b79ec97ea17ed0df7f50b17d766c527888b5055d9117935a4f45fe8f8af36656/std_lrl-800300010_540_920000.m3u8?hdnea=st=1792586481~exp=1792586781~acl=*~id=764aa5f3-9511-4766-a621-6b70abc91fea~hmac=3b46a04f9f5f7442bfea77eb258e3107f7555223ff3eebe37149f46e4ee5aab1\n#EXT-X-STREAM-INF:BANDWIDTH=2559040,AVERAGE-BANDWIDTH=2235200,CODECS=\"avc1.640020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi22110/ENG/hdntl=exp=1792672882~acl=%2f*~id=764aa5f3-9511-4766-a621-6b70abc91fea~data=hdntl,20000094,cricodi22110,ENG~hmac=b79ec97ea17ed0df7f50b17d766c527888b5055d9117935a4f45fe8f8af36656/std_lrl-800300010_720_1840000.m3u8?hdnea=st=1792586481~exp=1792586781~acl=*~id=764aa5f3-9511-4766-a621-6b70abc91fea~hmac=3b46a04f9f5f7442bfea77eb258e3107f7555223ff3eebe37149f46e4ee5aab1\n#EXT-X-STREAM-INF:BANDWIDTH=3967744,AVERAGE-BANDWIDTH=3449600,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi22110/ENG/hdntl=exp=1792672882~acl=%2f*~id=764aa5f3-9511-4766-a621-6b70abc91fea~data=hdntl,20000094,cricodi22110,ENG~hmac=b79ec97ea17ed0df7f50b17d766c527888b5055d9117935a4f45fe8f8af36656/std_lrl-800300010_1080_2944000.m3u8?hdnea=st=1792586481~exp=1792586781~acl=*~id=764aa5f3-9511-4766-a621-6b70abc91fea~hmac=3b46a04f9f5f7442bfea77eb258e3107f7555223ff3eebe37149f46e4ee5aab1",
+            "date": "Wednesday 21st of October 2026 06:11:22 PM"
+          }
+        }
+      ]
     }
   ],
   "upcoming": [
