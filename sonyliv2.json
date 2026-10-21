@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "21-10-2026 14:00",
+  "last_updated": "21-10-2026 16:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -10,7 +10,7 @@
     "Debugging": "OFF",
     "SUB_TYPE": "PREMIUM",
     "RECIVER": "OFF",
-    "REALTIME": "OFF",
+    "REALTIME": "ON",
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "ALL_IN_ONE": "OFF",
@@ -71,7 +71,65 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417147157732_STCL_Rajasthan-Frontiers-vs-Haryana-Lions_live_landscape_thumb.jpg"
       },
-      "multiple_audio_links": []
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://liveakmt-m-lr.slivcdn.com/out/v1/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792579807337,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=798160,AVERAGE-BANDWIDTH=717200,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792666208~acl=%2f*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~data=hdntl,20000094,cricodi12110,ENG~hmac=3cc8d02d7f541b3723671d3de59eb8cb6e50618b30863a3df9c28e4a60c11d3e/std_lrh-800300010_360_460000.m3u8?hdnea=st=1792579808~exp=1792580108~acl=*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~hmac=a84817344ba32d722dbe920dd767f3f151a2cbcb9de0c24841a6aa11e2573662\n#EXT-X-STREAM-INF:BANDWIDTH=1385120,AVERAGE-BANDWIDTH=1223200,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792666208~acl=%2f*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~data=hdntl,20000094,cricodi12110,ENG~hmac=3cc8d02d7f541b3723671d3de59eb8cb6e50618b30863a3df9c28e4a60c11d3e/std_lrh-800300010_540_920000.m3u8?hdnea=st=1792579808~exp=1792580108~acl=*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~hmac=a84817344ba32d722dbe920dd767f3f151a2cbcb9de0c24841a6aa11e2573662\n#EXT-X-STREAM-INF:BANDWIDTH=2559040,AVERAGE-BANDWIDTH=2235200,CODECS=\"avc1.640020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792666208~acl=%2f*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~data=hdntl,20000094,cricodi12110,ENG~hmac=3cc8d02d7f541b3723671d3de59eb8cb6e50618b30863a3df9c28e4a60c11d3e/std_lrh-800300010_720_1840000.m3u8?hdnea=st=1792579808~exp=1792580108~acl=*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~hmac=a84817344ba32d722dbe920dd767f3f151a2cbcb9de0c24841a6aa11e2573662\n#EXT-X-STREAM-INF:BANDWIDTH=5493840,AVERAGE-BANDWIDTH=4765200,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792666208~acl=%2f*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~data=hdntl,20000094,cricodi12110,ENG~hmac=3cc8d02d7f541b3723671d3de59eb8cb6e50618b30863a3df9c28e4a60c11d3e/std_lrh-800300010_1080_4140000.m3u8?hdnea=st=1792579808~exp=1792580108~acl=*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~hmac=a84817344ba32d722dbe920dd767f3f151a2cbcb9de0c24841a6aa11e2573662\n#EXT-X-STREAM-INF:BANDWIDTH=3967744,AVERAGE-BANDWIDTH=3449600,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792666208~acl=%2f*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~data=hdntl,20000094,cricodi12110,ENG~hmac=3cc8d02d7f541b3723671d3de59eb8cb6e50618b30863a3df9c28e4a60c11d3e/std_lrh-800300010_1080_2944000.m3u8?hdnea=st=1792579808~exp=1792580108~acl=*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~hmac=a84817344ba32d722dbe920dd767f3f151a2cbcb9de0c24841a6aa11e2573662",
+            "Date": "Wednesday 21st of October 2026 04:20:08 PM",
+            "extra_data": {
+              "directory_created": "success",
+              "data": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=798160,AVERAGE-BANDWIDTH=717200,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792666208~acl=%2f*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~data=hdntl,20000094,cricodi12110,ENG~hmac=3cc8d02d7f541b3723671d3de59eb8cb6e50618b30863a3df9c28e4a60c11d3e/std_lrh-800300010_360_460000.m3u8?hdnea=st=1792579808~exp=1792580108~acl=*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~hmac=a84817344ba32d722dbe920dd767f3f151a2cbcb9de0c24841a6aa11e2573662\n#EXT-X-STREAM-INF:BANDWIDTH=1385120,AVERAGE-BANDWIDTH=1223200,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792666208~acl=%2f*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~data=hdntl,20000094,cricodi12110,ENG~hmac=3cc8d02d7f541b3723671d3de59eb8cb6e50618b30863a3df9c28e4a60c11d3e/std_lrh-800300010_540_920000.m3u8?hdnea=st=1792579808~exp=1792580108~acl=*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~hmac=a84817344ba32d722dbe920dd767f3f151a2cbcb9de0c24841a6aa11e2573662\n#EXT-X-STREAM-INF:BANDWIDTH=2559040,AVERAGE-BANDWIDTH=2235200,CODECS=\"avc1.640020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792666208~acl=%2f*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~data=hdntl,20000094,cricodi12110,ENG~hmac=3cc8d02d7f541b3723671d3de59eb8cb6e50618b30863a3df9c28e4a60c11d3e/std_lrh-800300010_720_1840000.m3u8?hdnea=st=1792579808~exp=1792580108~acl=*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~hmac=a84817344ba32d722dbe920dd767f3f151a2cbcb9de0c24841a6aa11e2573662\n#EXT-X-STREAM-INF:BANDWIDTH=5493840,AVERAGE-BANDWIDTH=4765200,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792666208~acl=%2f*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~data=hdntl,20000094,cricodi12110,ENG~hmac=3cc8d02d7f541b3723671d3de59eb8cb6e50618b30863a3df9c28e4a60c11d3e/std_lrh-800300010_1080_4140000.m3u8?hdnea=st=1792579808~exp=1792580108~acl=*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~hmac=a84817344ba32d722dbe920dd767f3f151a2cbcb9de0c24841a6aa11e2573662\n#EXT-X-STREAM-INF:BANDWIDTH=3967744,AVERAGE-BANDWIDTH=3449600,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792666208~acl=%2f*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~data=hdntl,20000094,cricodi12110,ENG~hmac=3cc8d02d7f541b3723671d3de59eb8cb6e50618b30863a3df9c28e4a60c11d3e/std_lrh-800300010_1080_2944000.m3u8?hdnea=st=1792579808~exp=1792580108~acl=*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~hmac=a84817344ba32d722dbe920dd767f3f151a2cbcb9de0c24841a6aa11e2573662",
+              "playback": "https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=st=1792579808~exp=1792580108~acl=*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~hmac=a84817344ba32d722dbe920dd767f3f151a2cbcb9de0c24841a6aa11e2573662",
+              "file_saved": "success",
+              "Status_code": 200,
+              "file_path": "UPLOAD/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8",
+              "Passed_params": [
+                "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?adServer=GAM&adstack=MT-SSB&ads.app_ver=6.12.99&ads.gId=1_25_1090549320_1792579806000&ads.Idtype=adid&ads.Is_lat=0&ads.ppid=a1ac90f1c70289ab4d2c2dcfc7c50090&ads.rdid=35b4a901-222c-4045-a8ce-4b37d9877ae2&aws.sessionId=18ca0e03-081f-400d-b218-d46ca571018b&hdnea=exp=1792601407~acl=/*~id=5ab3a6b8615985df-2409170053022553652~hmac=20e5d7365753f683e4ea30b093917a556cccf5ed8c19fa4b3f6d94e05e0623ee",
+                "https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=st=1792579808~exp=1792580108~acl=*~id=3864efe0-5249-4d6e-a5e2-fc0b8d1bedaf~hmac=a84817344ba32d722dbe920dd767f3f151a2cbcb9de0c24841a6aa11e2573662",
+                "?adServer=GAM&adstack=MT-SSB&ads.app_ver=6.12.99&ads.gId=1_25_1090549320_1792579806000&ads.Idtype=adid&ads.Is_lat=0&ads.ppid=a1ac90f1c70289ab4d2c2dcfc7c50090&ads.rdid=35b4a901-222c-4045-a8ce-4b37d9877ae2&aws.sessionId=18ca0e03-081f-400d-b218-d46ca571018b&hdnea=exp=1792601407~acl=/*~id=5ab3a6b8615985df-2409170053022553652~hmac=20e5d7365753f683e4ea30b093917a556cccf5ed8c19fa4b3f6d94e05e0623ee",
+                "hdnea=exp=1792601407~acl=/*~id=5ab3a6b8615985df-2409170053022553652~hmac=20e5d7365753f683e4ea30b093917a556cccf5ed8c19fa4b3f6d94e05e0623ee",
+                "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8"
+              ]
+            }
+          }
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -123,13 +181,13 @@
       },
       "image_cdn": {
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026444/1792082540617251_ind_vs_nz_1st_t20i_dated_promo_Portrait_Thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026847/1792566439432595_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409908984715_INDvsNZ_bhuvi_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026550/1792229472578996_IND_vs_NZ_masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026847/1792566439432595_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg"
       },
       "multiple_audio_links": []
     },
@@ -589,8 +647,8 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026444/1792082540617251_ind_vs_nz_1st_t20i_dated_promo_Portrait_Thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026604/1792259527608635_ind_vs_nz_promo_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026527/1792216778869573_IND_vs_NZ_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026550/1792229472578996_IND_vs_NZ_masthead_logo.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026846/1792565109704410_NZ_vs_IND_extra_inning_ashwin_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026703/1792403752109121_NZ_vs_IND_extra_inning_ashwin_Masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026604/1792259527608635_ind_vs_nz_promo_landscape_thumb.jpg"
