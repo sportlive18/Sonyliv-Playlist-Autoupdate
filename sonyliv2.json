@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "21-10-2026 21:28",
+  "last_updated": "21-10-2026 21:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -10,7 +10,7 @@
     "Debugging": "OFF",
     "SUB_TYPE": "PREMIUM",
     "RECIVER": "OFF",
-    "REALTIME": "ON",
+    "REALTIME": "OFF",
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "ALL_IN_ONE": "OFF",
@@ -215,6 +215,202 @@
       ]
     },
     {
+      "contentId": 1090549217,
+      "video_info": {
+        "title": "UEFA Champions League 2026-27",
+        "shortDescription": "Watch Como welcome Manchester United on Matchday 3 of the UEFA Champions League. With both sides looking to strengthen their position in the league phase, a blockbuster encounter awaits on the shores of Lake Como.",
+        "longDescription": "Watch Como welcome Manchester United on Matchday 3 of the UEFA Champions League. With both sides looking to strengthen their position in the league phase, a blockbuster encounter awaits on the shores of Lake Como.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Como vs Man United - 21 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/RNfSA2xBTbWJik-KTpFUIA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "21 Oct 2026, 09:40 PM",
+        "contractEndDate": "22 Oct 2026, 02:40 AM",
+        "originalAirDate": "21 Oct 2026, 10:10 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125202968319_UCL2627_MD3_Como_vs_Man_United_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125207661519_UCL2627_MD3_Como_vs_Man_United_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026742/1792438277089639_UCL26_27_Match_masthead_mobile_v2_984x1182_Como_vs_Man_United.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026742/1792438276499639_UCL26_27_Match_Masthead_logo_Como_vs_Man_United_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125207661519_UCL2627_MD3_Como_vs_Man_United_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792599013968,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018458/Footlive2110/ENG/hdntl=exp=1792685414~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,2018458,Footlive2110,ENG~hmac=5fff2e8d6909fe8113a20f52585d14022bbcb64a14f43d631f90059bd204ee4a/master_500.m3u8?aka_me_session_id=AAAAAAAAAABmNdpqAAAAAN0an%2fOhVk8WsYN7YGLr8sNppfIHpTXfMlgLVVLZe+qLne%2fLmMPYj3lbChoq4mPvE7yHsukrpnkp&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018458/Footlive2110/ENG/hdntl=exp=1792685414~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,2018458,Footlive2110,ENG~hmac=5fff2e8d6909fe8113a20f52585d14022bbcb64a14f43d631f90059bd204ee4a/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABmNdpqAAAAAN0an%2fOhVk8WsYN7YGLr8sNppfIHpTXfMlgLVVLZe+qLne%2fLmMPYj3lbChoq4mPvE7yHsukrpnkp&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018458/Footlive2110/ENG/hdntl=exp=1792685414~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,2018458,Footlive2110,ENG~hmac=5fff2e8d6909fe8113a20f52585d14022bbcb64a14f43d631f90059bd204ee4a/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABmNdpqAAAAAN0an%2fOhVk8WsYN7YGLr8sNppfIHpTXfMlgLVVLZe+qLne%2fLmMPYj3lbChoq4mPvE7yHsukrpnkp&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018458/Footlive2110/ENG/hdntl=exp=1792685414~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,2018458,Footlive2110,ENG~hmac=5fff2e8d6909fe8113a20f52585d14022bbcb64a14f43d631f90059bd204ee4a/master_3800.m3u8?aka_me_session_id=AAAAAAAAAABmNdpqAAAAAN0an%2fOhVk8WsYN7YGLr8sNppfIHpTXfMlgLVVLZe+qLne%2fLmMPYj3lbChoq4mPvE7yHsukrpnkp&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018458/Footlive2110/ENG/hdntl=exp=1792685414~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,2018458,Footlive2110,ENG~hmac=5fff2e8d6909fe8113a20f52585d14022bbcb64a14f43d631f90059bd204ee4a/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABmNdpqAAAAAN0an%2fOhVk8WsYN7YGLr8sNppfIHpTXfMlgLVVLZe+qLne%2fLmMPYj3lbChoq4mPvE7yHsukrpnkp&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018458/Footlive2110/ENG/hdntl=exp=1792685414~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,2018458,Footlive2110,ENG~hmac=5fff2e8d6909fe8113a20f52585d14022bbcb64a14f43d631f90059bd204ee4a/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABmNdpqAAAAAN0an%2fOhVk8WsYN7YGLr8sNppfIHpTXfMlgLVVLZe+qLne%2fLmMPYj3lbChoq4mPvE7yHsukrpnkp&aka_media_format_type=hls",
+            "Date": "Wednesday 21st of October 2026 09:40:14 PM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090549216,
+      "video_info": {
+        "title": "UEFA Champions League 2026-27",
+        "shortDescription": "Watch Lille take on Galatasaray on Matchday 3 of the UEFA Champions League. With both sides still searching for their first points of the league phase, a crucial showdown awaits as they look to kick-start their European campaigns.",
+        "longDescription": "Watch Lille take on Galatasaray on Matchday 3 of the UEFA Champions League. With both sides still searching for their first points of the league phase, a crucial showdown awaits as they look to kick-start their European campaigns.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Lille vs Galatasaray - 21 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/WqHI_eGQTkaZAC_47YC6OA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "21 Oct 2026, 09:40 PM",
+        "contractEndDate": "22 Oct 2026, 02:40 AM",
+        "originalAirDate": "21 Oct 2026, 10:10 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125180055519_UCL2627_MD3_Lille_vs_Galatasaray_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125185673619_UCL2627_MD3_Lille_vs_Galatasaray_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125185673619_UCL2627_MD3_Lille_vs_Galatasaray_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792599014853,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/Footlive2110/ENG/hdntl=exp=1792685415~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,2120301,Footlive2110,ENG~hmac=5cf92e4c4e6b8682b51fec98227bc6f5c111def874cf51bba659c8d1d24ddf30/master_500.m3u8?aka_me_session_id=AAAAAAAAAABnNdpqAAAAAMoTbsbsIq%2ftrToqBO3V4iseqcTVEj%2fR5O%2f6sVMw+azgCU7S0v7Nt3Y3lSIVu2EJKISyWuuKvqmP&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/Footlive2110/ENG/hdntl=exp=1792685415~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,2120301,Footlive2110,ENG~hmac=5cf92e4c4e6b8682b51fec98227bc6f5c111def874cf51bba659c8d1d24ddf30/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABnNdpqAAAAAMoTbsbsIq%2ftrToqBO3V4iseqcTVEj%2fR5O%2f6sVMw+azgCU7S0v7Nt3Y3lSIVu2EJKISyWuuKvqmP&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/Footlive2110/ENG/hdntl=exp=1792685415~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,2120301,Footlive2110,ENG~hmac=5cf92e4c4e6b8682b51fec98227bc6f5c111def874cf51bba659c8d1d24ddf30/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABnNdpqAAAAAMoTbsbsIq%2ftrToqBO3V4iseqcTVEj%2fR5O%2f6sVMw+azgCU7S0v7Nt3Y3lSIVu2EJKISyWuuKvqmP&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/Footlive2110/ENG/hdntl=exp=1792685415~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,2120301,Footlive2110,ENG~hmac=5cf92e4c4e6b8682b51fec98227bc6f5c111def874cf51bba659c8d1d24ddf30/master_3800.m3u8?aka_me_session_id=AAAAAAAAAABnNdpqAAAAAMoTbsbsIq%2ftrToqBO3V4iseqcTVEj%2fR5O%2f6sVMw+azgCU7S0v7Nt3Y3lSIVu2EJKISyWuuKvqmP&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/Footlive2110/ENG/hdntl=exp=1792685415~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,2120301,Footlive2110,ENG~hmac=5cf92e4c4e6b8682b51fec98227bc6f5c111def874cf51bba659c8d1d24ddf30/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABnNdpqAAAAAMoTbsbsIq%2ftrToqBO3V4iseqcTVEj%2fR5O%2f6sVMw+azgCU7S0v7Nt3Y3lSIVu2EJKISyWuuKvqmP&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/Footlive2110/ENG/hdntl=exp=1792685415~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,2120301,Footlive2110,ENG~hmac=5cf92e4c4e6b8682b51fec98227bc6f5c111def874cf51bba659c8d1d24ddf30/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABnNdpqAAAAAMoTbsbsIq%2ftrToqBO3V4iseqcTVEj%2fR5O%2f6sVMw+azgCU7S0v7Nt3Y3lSIVu2EJKISyWuuKvqmP&aka_media_format_type=hls",
+            "Date": "Wednesday 21st of October 2026 09:40:15 PM"
+          }
+        }
+      ]
+    },
+    {
       "contentId": 1090549320,
       "video_info": {
         "title": "Salute Tiranga Cricket League (STCL) 2026",
@@ -312,90 +508,6 @@
             "content_type": "application/json; charset=utf-8",
             "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=798160,AVERAGE-BANDWIDTH=717200,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792684719~acl=%2f*~id=508df03f-f6f4-4407-8e79-30b6f2a964b3~data=hdntl,20000094,cricodi12110,ENG~hmac=cd479a80830bcf46cc9ba3f06d4781f9b6857b3ff9de228fea265382aaef0dc2/std_lrh-800300010_360_460000.m3u8?hdnea=st=1792598318~exp=1792598618~acl=*~id=508df03f-f6f4-4407-8e79-30b6f2a964b3~hmac=7bb5625072b8d15d7b5608047e6d6b417085efd302950e95b4929199054b1e46\n#EXT-X-STREAM-INF:BANDWIDTH=1385120,AVERAGE-BANDWIDTH=1223200,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792684719~acl=%2f*~id=508df03f-f6f4-4407-8e79-30b6f2a964b3~data=hdntl,20000094,cricodi12110,ENG~hmac=cd479a80830bcf46cc9ba3f06d4781f9b6857b3ff9de228fea265382aaef0dc2/std_lrh-800300010_540_920000.m3u8?hdnea=st=1792598318~exp=1792598618~acl=*~id=508df03f-f6f4-4407-8e79-30b6f2a964b3~hmac=7bb5625072b8d15d7b5608047e6d6b417085efd302950e95b4929199054b1e46\n#EXT-X-STREAM-INF:BANDWIDTH=2559040,AVERAGE-BANDWIDTH=2235200,CODECS=\"avc1.640020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792684719~acl=%2f*~id=508df03f-f6f4-4407-8e79-30b6f2a964b3~data=hdntl,20000094,cricodi12110,ENG~hmac=cd479a80830bcf46cc9ba3f06d4781f9b6857b3ff9de228fea265382aaef0dc2/std_lrh-800300010_720_1840000.m3u8?hdnea=st=1792598318~exp=1792598618~acl=*~id=508df03f-f6f4-4407-8e79-30b6f2a964b3~hmac=7bb5625072b8d15d7b5608047e6d6b417085efd302950e95b4929199054b1e46\n#EXT-X-STREAM-INF:BANDWIDTH=5493840,AVERAGE-BANDWIDTH=4765200,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792684719~acl=%2f*~id=508df03f-f6f4-4407-8e79-30b6f2a964b3~data=hdntl,20000094,cricodi12110,ENG~hmac=cd479a80830bcf46cc9ba3f06d4781f9b6857b3ff9de228fea265382aaef0dc2/std_lrh-800300010_1080_4140000.m3u8?hdnea=st=1792598318~exp=1792598618~acl=*~id=508df03f-f6f4-4407-8e79-30b6f2a964b3~hmac=7bb5625072b8d15d7b5608047e6d6b417085efd302950e95b4929199054b1e46\n#EXT-X-STREAM-INF:BANDWIDTH=3967744,AVERAGE-BANDWIDTH=3449600,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792684719~acl=%2f*~id=508df03f-f6f4-4407-8e79-30b6f2a964b3~data=hdntl,20000094,cricodi12110,ENG~hmac=cd479a80830bcf46cc9ba3f06d4781f9b6857b3ff9de228fea265382aaef0dc2/std_lrh-800300010_1080_2944000.m3u8?hdnea=st=1792598318~exp=1792598618~acl=*~id=508df03f-f6f4-4407-8e79-30b6f2a964b3~hmac=7bb5625072b8d15d7b5608047e6d6b417085efd302950e95b4929199054b1e46",
             "Date": "Wednesday 21st of October 2026 09:28:39 PM"
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090549302,
-      "video_info": {
-        "title": "UEFA Youth League 2026-27",
-        "shortDescription": "Watch Inter Milan take on Shakhtar Donetsk in Matchday 3 of the UEFA Youth League 2026-27 as both sides look to strengthen their position in the group, LIVE on Sony LIV.",
-        "longDescription": "Watch Inter Milan take on Shakhtar Donetsk in Matchday 3 of the UEFA Youth League 2026-27 as both sides look to strengthen their position in the group, LIVE on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": "Inter Milan vs Shakhtar Donetsk - MD3 - 21 Oct 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "unavailable",
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_SD",
-          "videoType": "SD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "21 Oct 2026, 07:00 PM",
-        "contractEndDate": "22 Oct 2026, 12:00 AM",
-        "originalAirDate": "21 Oct 2026, 07:30 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025835/1791100368682105_UYL26_Inter_Milan_vs_Shakhter_Donetsk_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025835/1791100501247105_UYL26_Inter_Milan_vs_Shakhter_Donetsk_live_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025835/1791100501247105_UYL26_Inter_Milan_vs_Shakhter_Donetsk_live_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": [
-        {
-          "language": "English",
-          "lang_code": "ENG",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://liveakmt-p-lr.slivcdn.com/hls/live/20000094/cricodi32110/ENG/std_lrd-700300010.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1792598320191,
-            "additionalDataJson": [],
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=798160,AVERAGE-BANDWIDTH=717200,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://liveakmt-p-lr.slivcdn.com/hls/live/20000094/cricodi32110/ENG/hdntl=exp=1792684720~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,20000094,cricodi32110,ENG~hmac=72bd31235b4875234010d69b00a2754b982fc02aa33cb1bdd45dbd70e33192ad/std_lrd-700300010_360_460000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1385120,AVERAGE-BANDWIDTH=1223200,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://liveakmt-p-lr.slivcdn.com/hls/live/20000094/cricodi32110/ENG/hdntl=exp=1792684720~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,20000094,cricodi32110,ENG~hmac=72bd31235b4875234010d69b00a2754b982fc02aa33cb1bdd45dbd70e33192ad/std_lrd-700300010_540_920000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2559040,AVERAGE-BANDWIDTH=2235200,CODECS=\"avc1.640020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://liveakmt-p-lr.slivcdn.com/hls/live/20000094/cricodi32110/ENG/hdntl=exp=1792684720~acl=%2f*~id=10c3c025f9698a20a71257e796673609-1792578602265~data=hdntl,20000094,cricodi32110,ENG~hmac=72bd31235b4875234010d69b00a2754b982fc02aa33cb1bdd45dbd70e33192ad/std_lrd-700300010_720_1840000.m3u8",
-            "Date": "Wednesday 21st of October 2026 09:28:40 PM"
           }
         }
       ]
@@ -921,6 +1033,122 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026604/1792259527608635_ind_vs_nz_promo_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090549555,
+      "video_info": {
+        "title": "Upcoming - India Tour Of New Zealand 2026",
+        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/d5102921cd244dbdbbd1547c342038cc/1792577799/baseline-std-v4/IND_NZ_PHILIPS_ASHWIN_WHITEWASH_60_SEC_HOR_DATED_APP_IND_WITH_TAG_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "21 Oct 2026, 04:00 PM",
+        "contractEndDate": "01 Dec 2026, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026879/1792581296779860_Promo-Thumbs_ashwin_landscape.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026879/1792581296779860_Promo-Thumbs_ashwin_landscape.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026879/1792581296779860_Promo-Thumbs_ashwin_landscape.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090549556,
+      "video_info": {
+        "title": "Upcoming - India Tour Of New Zealand 2026",
+        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/66327b9b6cb44fc48638319e1a0b18d6/1792577777/baseline-std-v4/NZ_VS_IND_DHURANDHAR_1st_T20_25_SEC_REV_HOR_DATED_APP_WITH_TAG_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "21 Oct 2026, 04:00 PM",
+        "contractEndDate": "01 Dec 2026, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026879/1792581347905860_Promo-Thumbs_NZ_vs_IND_landscape.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026879/1792581347905860_Promo-Thumbs_NZ_vs_IND_landscape.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026879/1792581347905860_Promo-Thumbs_NZ_vs_IND_landscape.jpg"
       },
       "multiple_audio_links": []
     }
