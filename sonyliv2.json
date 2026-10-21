@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "21-10-2026 16:40",
+  "last_updated": "21-10-2026 16:48",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -10,7 +10,7 @@
     "Debugging": "OFF",
     "SUB_TYPE": "PREMIUM",
     "RECIVER": "OFF",
-    "REALTIME": "ON",
+    "REALTIME": "OFF",
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "ALL_IN_ONE": "OFF",
@@ -35,11 +35,15 @@
         "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
             "lang_code": "ENG",
             "lang_label": "English"
           }
         ],
-        "emfAttributes__audio_languages": "ENG",
+        "emfAttributes__audio_languages": "HIN,ENG",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_SD",
@@ -73,14 +77,13 @@
       },
       "multiple_audio_links": [
         {
-          "language": "English",
-          "lang_code": "ENG",
+          "language": "Hindi",
+          "lang_code": "HIN",
           "data": {
             "Device_Type": "SONY_PRO_MAX",
             "message": "success",
             "X-Served-By": "JARVIS",
-            "Playback_cookie": null,
-            "Playback_videoURL": "https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=st=1792581011~exp=1792581311~acl=*~id=39d5727d-1d59-467e-a250-433e35f9a79f~hmac=55a3c97b5915bca6e69587483c02f3287a146acad2264c09027b41a1d0fc3b9a",
+            "Playback_videoURL": "https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=st=1792581488~exp=1792581788~acl=*~id=1f190009-d090-447f-b839-e546d675a8bb~hmac=3ed22448a7fcd0865baaa7f35a4cfceccdc89f02dc51af984b72b5a624d1a9b9",
             "WIDEVINE": null,
             "STREAMING_TYPE": true,
             "audioLanguages": [
@@ -93,7 +96,7 @@
             "Maximum_Video_Quality": "SDR",
             "Maximum_Resolution": "FULL_HD",
             "trailer_url": "",
-            "systemTime": 1792581008803,
+            "systemTime": 1792581486813,
             "additionalDataJson": {
               "adServer": "GAM",
               "ad_stack": "MT-SSB",
@@ -111,8 +114,51 @@
             },
             "Status_code": 200,
             "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=798160,AVERAGE-BANDWIDTH=717200,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667412~acl=%2f*~id=39d5727d-1d59-467e-a250-433e35f9a79f~data=hdntl,20000094,cricodi12110,ENG~hmac=efe3ca8f83514f31e36807bc16672ff59e6591de0f9d2b2b69fe5bfa1d6a86e6/std_lrh-800300010_360_460000.m3u8?hdnea=st=1792581011~exp=1792581311~acl=*~id=39d5727d-1d59-467e-a250-433e35f9a79f~hmac=55a3c97b5915bca6e69587483c02f3287a146acad2264c09027b41a1d0fc3b9a\n#EXT-X-STREAM-INF:BANDWIDTH=1385120,AVERAGE-BANDWIDTH=1223200,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667412~acl=%2f*~id=39d5727d-1d59-467e-a250-433e35f9a79f~data=hdntl,20000094,cricodi12110,ENG~hmac=efe3ca8f83514f31e36807bc16672ff59e6591de0f9d2b2b69fe5bfa1d6a86e6/std_lrh-800300010_540_920000.m3u8?hdnea=st=1792581011~exp=1792581311~acl=*~id=39d5727d-1d59-467e-a250-433e35f9a79f~hmac=55a3c97b5915bca6e69587483c02f3287a146acad2264c09027b41a1d0fc3b9a\n#EXT-X-STREAM-INF:BANDWIDTH=2559040,AVERAGE-BANDWIDTH=2235200,CODECS=\"avc1.640020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667412~acl=%2f*~id=39d5727d-1d59-467e-a250-433e35f9a79f~data=hdntl,20000094,cricodi12110,ENG~hmac=efe3ca8f83514f31e36807bc16672ff59e6591de0f9d2b2b69fe5bfa1d6a86e6/std_lrh-800300010_720_1840000.m3u8?hdnea=st=1792581011~exp=1792581311~acl=*~id=39d5727d-1d59-467e-a250-433e35f9a79f~hmac=55a3c97b5915bca6e69587483c02f3287a146acad2264c09027b41a1d0fc3b9a\n#EXT-X-STREAM-INF:BANDWIDTH=5493840,AVERAGE-BANDWIDTH=4765200,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667412~acl=%2f*~id=39d5727d-1d59-467e-a250-433e35f9a79f~data=hdntl,20000094,cricodi12110,ENG~hmac=efe3ca8f83514f31e36807bc16672ff59e6591de0f9d2b2b69fe5bfa1d6a86e6/std_lrh-800300010_1080_4140000.m3u8?hdnea=st=1792581011~exp=1792581311~acl=*~id=39d5727d-1d59-467e-a250-433e35f9a79f~hmac=55a3c97b5915bca6e69587483c02f3287a146acad2264c09027b41a1d0fc3b9a\n#EXT-X-STREAM-INF:BANDWIDTH=3967744,AVERAGE-BANDWIDTH=3449600,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667412~acl=%2f*~id=39d5727d-1d59-467e-a250-433e35f9a79f~data=hdntl,20000094,cricodi12110,ENG~hmac=efe3ca8f83514f31e36807bc16672ff59e6591de0f9d2b2b69fe5bfa1d6a86e6/std_lrh-800300010_1080_2944000.m3u8?hdnea=st=1792581011~exp=1792581311~acl=*~id=39d5727d-1d59-467e-a250-433e35f9a79f~hmac=55a3c97b5915bca6e69587483c02f3287a146acad2264c09027b41a1d0fc3b9a",
-            "Date": "Wednesday 21st of October 2026 04:40:12 PM"
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=798160,AVERAGE-BANDWIDTH=717200,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667889~acl=%2f*~id=1f190009-d090-447f-b839-e546d675a8bb~data=hdntl,20000094,cricodi12110,ENG~hmac=7021d49081d621950243aa009a7e0c4aa3296a09b21ed837473f943233d26541/std_lrh-800300010_360_460000.m3u8?hdnea=st=1792581488~exp=1792581788~acl=*~id=1f190009-d090-447f-b839-e546d675a8bb~hmac=3ed22448a7fcd0865baaa7f35a4cfceccdc89f02dc51af984b72b5a624d1a9b9\n#EXT-X-STREAM-INF:BANDWIDTH=1385120,AVERAGE-BANDWIDTH=1223200,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667889~acl=%2f*~id=1f190009-d090-447f-b839-e546d675a8bb~data=hdntl,20000094,cricodi12110,ENG~hmac=7021d49081d621950243aa009a7e0c4aa3296a09b21ed837473f943233d26541/std_lrh-800300010_540_920000.m3u8?hdnea=st=1792581488~exp=1792581788~acl=*~id=1f190009-d090-447f-b839-e546d675a8bb~hmac=3ed22448a7fcd0865baaa7f35a4cfceccdc89f02dc51af984b72b5a624d1a9b9\n#EXT-X-STREAM-INF:BANDWIDTH=2559040,AVERAGE-BANDWIDTH=2235200,CODECS=\"avc1.640020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667889~acl=%2f*~id=1f190009-d090-447f-b839-e546d675a8bb~data=hdntl,20000094,cricodi12110,ENG~hmac=7021d49081d621950243aa009a7e0c4aa3296a09b21ed837473f943233d26541/std_lrh-800300010_720_1840000.m3u8?hdnea=st=1792581488~exp=1792581788~acl=*~id=1f190009-d090-447f-b839-e546d675a8bb~hmac=3ed22448a7fcd0865baaa7f35a4cfceccdc89f02dc51af984b72b5a624d1a9b9\n#EXT-X-STREAM-INF:BANDWIDTH=5493840,AVERAGE-BANDWIDTH=4765200,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667889~acl=%2f*~id=1f190009-d090-447f-b839-e546d675a8bb~data=hdntl,20000094,cricodi12110,ENG~hmac=7021d49081d621950243aa009a7e0c4aa3296a09b21ed837473f943233d26541/std_lrh-800300010_1080_4140000.m3u8?hdnea=st=1792581488~exp=1792581788~acl=*~id=1f190009-d090-447f-b839-e546d675a8bb~hmac=3ed22448a7fcd0865baaa7f35a4cfceccdc89f02dc51af984b72b5a624d1a9b9\n#EXT-X-STREAM-INF:BANDWIDTH=3967744,AVERAGE-BANDWIDTH=3449600,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667889~acl=%2f*~id=1f190009-d090-447f-b839-e546d675a8bb~data=hdntl,20000094,cricodi12110,ENG~hmac=7021d49081d621950243aa009a7e0c4aa3296a09b21ed837473f943233d26541/std_lrh-800300010_1080_2944000.m3u8?hdnea=st=1792581488~exp=1792581788~acl=*~id=1f190009-d090-447f-b839-e546d675a8bb~hmac=3ed22448a7fcd0865baaa7f35a4cfceccdc89f02dc51af984b72b5a624d1a9b9",
+            "Date": "Wednesday 21st of October 2026 04:48:09 PM"
+          }
+        },
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_cookie": null,
+            "Playback_videoURL": "https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=st=1792581020~exp=1792581320~acl=*~id=ee08c59a-4ecd-4b8a-bf14-9dd462e22b63~hmac=e3161afad4c3cc696fe927184684abbf42d3cd8c86274e6520f35c2dcaea8d9f",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792581018922,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=798160,AVERAGE-BANDWIDTH=717200,CODECS=\"avc1.77.30,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667420~acl=%2f*~id=ee08c59a-4ecd-4b8a-bf14-9dd462e22b63~data=hdntl,20000094,cricodi12110,ENG~hmac=5027a0aef1ba2c261147629cda4f81ccd8dd4471fba70e69d1c63631c21cdda5/std_lrh-800300010_360_460000.m3u8?hdnea=st=1792581020~exp=1792581320~acl=*~id=ee08c59a-4ecd-4b8a-bf14-9dd462e22b63~hmac=e3161afad4c3cc696fe927184684abbf42d3cd8c86274e6520f35c2dcaea8d9f\n#EXT-X-STREAM-INF:BANDWIDTH=1385120,AVERAGE-BANDWIDTH=1223200,CODECS=\"avc1.64001f,mp4a.40.2\",RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667420~acl=%2f*~id=ee08c59a-4ecd-4b8a-bf14-9dd462e22b63~data=hdntl,20000094,cricodi12110,ENG~hmac=5027a0aef1ba2c261147629cda4f81ccd8dd4471fba70e69d1c63631c21cdda5/std_lrh-800300010_540_920000.m3u8?hdnea=st=1792581020~exp=1792581320~acl=*~id=ee08c59a-4ecd-4b8a-bf14-9dd462e22b63~hmac=e3161afad4c3cc696fe927184684abbf42d3cd8c86274e6520f35c2dcaea8d9f\n#EXT-X-STREAM-INF:BANDWIDTH=2559040,AVERAGE-BANDWIDTH=2235200,CODECS=\"avc1.640020,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667420~acl=%2f*~id=ee08c59a-4ecd-4b8a-bf14-9dd462e22b63~data=hdntl,20000094,cricodi12110,ENG~hmac=5027a0aef1ba2c261147629cda4f81ccd8dd4471fba70e69d1c63631c21cdda5/std_lrh-800300010_720_1840000.m3u8?hdnea=st=1792581020~exp=1792581320~acl=*~id=ee08c59a-4ecd-4b8a-bf14-9dd462e22b63~hmac=e3161afad4c3cc696fe927184684abbf42d3cd8c86274e6520f35c2dcaea8d9f\n#EXT-X-STREAM-INF:BANDWIDTH=5493840,AVERAGE-BANDWIDTH=4765200,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667420~acl=%2f*~id=ee08c59a-4ecd-4b8a-bf14-9dd462e22b63~data=hdntl,20000094,cricodi12110,ENG~hmac=5027a0aef1ba2c261147629cda4f81ccd8dd4471fba70e69d1c63631c21cdda5/std_lrh-800300010_1080_4140000.m3u8?hdnea=st=1792581020~exp=1792581320~acl=*~id=ee08c59a-4ecd-4b8a-bf14-9dd462e22b63~hmac=e3161afad4c3cc696fe927184684abbf42d3cd8c86274e6520f35c2dcaea8d9f\n#EXT-X-STREAM-INF:BANDWIDTH=3967744,AVERAGE-BANDWIDTH=3449600,CODECS=\"avc1.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/hdntl=exp=1792667420~acl=%2f*~id=ee08c59a-4ecd-4b8a-bf14-9dd462e22b63~data=hdntl,20000094,cricodi12110,ENG~hmac=5027a0aef1ba2c261147629cda4f81ccd8dd4471fba70e69d1c63631c21cdda5/std_lrh-800300010_1080_2944000.m3u8?hdnea=st=1792581020~exp=1792581320~acl=*~id=ee08c59a-4ecd-4b8a-bf14-9dd462e22b63~hmac=e3161afad4c3cc696fe927184684abbf42d3cd8c86274e6520f35c2dcaea8d9f",
+            "Date": "Wednesday 21st of October 2026 04:40:20 PM"
           }
         }
       ]
@@ -227,8 +273,8 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026424/1792063637603585_UCL26_Bayern-vs-Arsenal_promo_Tonight_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026424/1792064067266585_UCL26_Bayern-vs-Arsenal_promo_Tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026742/1792438277059639_UCL26_27_Match_masthead_mobile_v2_984x1182_Bayern_Munich_vs_Arsenal.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026742/1792438276472639_UCL26_27_Match_Masthead_logo_Bayern_Munchen_vs_Arsenal_TONIGHT.png",
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026424/1792064067266585_UCL26_Bayern-vs-Arsenal_promo_Tonight_landscape_thumb.jpg"
@@ -285,8 +331,8 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026424/1792064530414585_UCL26_Real-Madrid-vs-Leipzig_Tonight_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026424/1792064571419585_UCL26_Real-Madrid-vs-Leipzig_Tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026742/1792438277199639_UCL26_27_Match_masthead_mobile_v2_984x1182_Real_Madrid_vs_Leipzig.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026742/1792438276626639_UCL26_27_Match_Masthead_logo_Real_Madrid_vs_Leipzig_TONIGHT.png",
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026424/1792064571419585_UCL26_Real-Madrid-vs-Leipzig_Tonight_landscape_thumb.jpg"
