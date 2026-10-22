@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "22-10-2026 17:41",
+  "last_updated": "22-10-2026 18:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,106 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090549594,
+      "video_info": {
+        "title": "Salute Tiranga Cricket League (STCL) 2026",
+        "shortDescription": "Mumbai Mavericks take on Tamilnadu Thunders in the Salute Tiranga Cricket League 2026. Watch all the action LIVE, only on Sony LIV.",
+        "longDescription": "Mumbai Mavericks take on Tamilnadu Thunders in the Salute Tiranga Cricket League 2026. Watch all the action LIVE, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/inz4lo3RShWuushZHiDilA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "22 Oct 2026, 05:50 PM",
+        "contractEndDate": "23 Oct 2026, 02:50 AM",
+        "originalAirDate": "22 Oct 2026, 06:20 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261675521669_STCL26_mumbai_vs_tamilnadu_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026896/179258976947047_STCL_2026_Match_masthead_mobile_v2_984x1182_Mumbai_Mavericks_vs_Tamilnadu_Thunders.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026896/179258976910247_STCL_2026_Match_Masthead_logo_Mumbai_Mavericks_vs_Tamilnadu_Thunders_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "Hindi",
+          "lang_code": "HIN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792672215791,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/criclive2210/HIN/hdntl=exp=1792758616~acl=%2f*~id=81881158884330765836131264728565~data=hdntl,2120305,criclive2210,HIN~hmac=d13dae0a7bb4d29639a37c36bdd2aaa429045746044a34dee413322ca5f2d364/master_500.m3u8?aka_me_session_id=AAAAAAAAAABYU9tqAAAAAIq05YXRY%2fWOaH34i9n6BdEVsAz1JgKGic+OhEJGVheoy1255yLQxMnpW5Autvf43w%2fDcKHNcei4&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/criclive2210/HIN/hdntl=exp=1792758616~acl=%2f*~id=81881158884330765836131264728565~data=hdntl,2120305,criclive2210,HIN~hmac=d13dae0a7bb4d29639a37c36bdd2aaa429045746044a34dee413322ca5f2d364/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABYU9tqAAAAAIq05YXRY%2fWOaH34i9n6BdEVsAz1JgKGic+OhEJGVheoy1255yLQxMnpW5Autvf43w%2fDcKHNcei4&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/criclive2210/HIN/hdntl=exp=1792758616~acl=%2f*~id=81881158884330765836131264728565~data=hdntl,2120305,criclive2210,HIN~hmac=d13dae0a7bb4d29639a37c36bdd2aaa429045746044a34dee413322ca5f2d364/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABYU9tqAAAAAIq05YXRY%2fWOaH34i9n6BdEVsAz1JgKGic+OhEJGVheoy1255yLQxMnpW5Autvf43w%2fDcKHNcei4&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/criclive2210/HIN/hdntl=exp=1792758616~acl=%2f*~id=81881158884330765836131264728565~data=hdntl,2120305,criclive2210,HIN~hmac=d13dae0a7bb4d29639a37c36bdd2aaa429045746044a34dee413322ca5f2d364/master_3800.m3u8?aka_me_session_id=AAAAAAAAAABYU9tqAAAAAIq05YXRY%2fWOaH34i9n6BdEVsAz1JgKGic+OhEJGVheoy1255yLQxMnpW5Autvf43w%2fDcKHNcei4&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/criclive2210/HIN/hdntl=exp=1792758616~acl=%2f*~id=81881158884330765836131264728565~data=hdntl,2120305,criclive2210,HIN~hmac=d13dae0a7bb4d29639a37c36bdd2aaa429045746044a34dee413322ca5f2d364/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABYU9tqAAAAAIq05YXRY%2fWOaH34i9n6BdEVsAz1JgKGic+OhEJGVheoy1255yLQxMnpW5Autvf43w%2fDcKHNcei4&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/criclive2210/HIN/hdntl=exp=1792758616~acl=%2f*~id=81881158884330765836131264728565~data=hdntl,2120305,criclive2210,HIN~hmac=d13dae0a7bb4d29639a37c36bdd2aaa429045746044a34dee413322ca5f2d364/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABYU9tqAAAAAIq05YXRY%2fWOaH34i9n6BdEVsAz1JgKGic+OhEJGVheoy1255yLQxMnpW5Autvf43w%2fDcKHNcei4&aka_media_format_type=hls",
+            "Date": "Thursday 22nd of October 2026 06:00:15 PM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090549928,
