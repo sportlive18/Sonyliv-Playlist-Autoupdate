@@ -1,9 +1,9 @@
 #EXTM3U
-# SonyLIV Direct CDN Playlist v2.4
-# Generated  : 24 Oct 2026, 08:21:00 IST
+# SonyLIV Direct CDN Playlist v2.5
+# Generated  : 24 Oct 2026, 08:25:54 IST
 # Token Exp  : 24 Oct 2026, 09:01:13 IST
 # CDN Host   : dishmt.slivcdn.com
-# Channels   : 22
+# Channels   : 23
 # Token embedded in each URL as ?hdnea=...
 # Cookie: hdnea=exp=1792812673~acl=/*~id=86829549221780215470936440169229~hmac=4ecdbe98c901d375f3b42395d80ad2c6726e02074b0f9e6f482d0f554423f73d
 
@@ -147,6 +147,13 @@ https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1792812
 #EXTVLCOPT:http-cookie=hdnea=exp=1792812673~acl=/*~id=86829549221780215470936440169229~hmac=4ecdbe98c901d375f3b42395d80ad2c6726e02074b0f9e6f482d0f554423f73d
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1792812673~acl=/*~id=86829549221780215470936440169229~hmac=4ecdbe98c901d375f3b42395d80ad2c6726e02074b0f9e6f482d0f554423f73d"}
 https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1792812673~acl=/*~id=86829549221780215470936440169229~hmac=4ecdbe98c901d375f3b42395d80ad2c6726e02074b0f9e6f482d0f554423f73d
+
+#EXTINF:-1 tvg-id="ten4-kan.sonyliv" tvg-name="Sony Ten 4 Kannada" group-title="SonyLIV Sports",Sony Ten 4 Kannada
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-cookie=hdnea=exp=1792812673~acl=/*~id=86829549221780215470936440169229~hmac=4ecdbe98c901d375f3b42395d80ad2c6726e02074b0f9e6f482d0f554423f73d
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1792812673~acl=/*~id=86829549221780215470936440169229~hmac=4ecdbe98c901d375f3b42395d80ad2c6726e02074b0f9e6f482d0f554423f73d"}
+https://dishmt.slivcdn.com/hls/live/2020595/ten4kannada/master.m3u8?hdnea=exp=1792812673~acl=/*~id=86829549221780215470936440169229~hmac=4ecdbe98c901d375f3b42395d80ad2c6726e02074b0f9e6f482d0f554423f73d
 
 #EXTINF:-1 tvg-id="ten5-hd.sonyliv" tvg-name="Sony Ten 5 HD" group-title="SonyLIV Sports",Sony Ten 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
