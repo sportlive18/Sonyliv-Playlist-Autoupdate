@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "25-10-2026 23:00",
+  "last_updated": "26-10-2026 03:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,106 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090550644,
+      "video_info": {
+        "title": "India A Tour of New Zealand",
+        "shortDescription": "Watch all the action from the Day 3 of 1st Unofficial Test of the India A Tour of New Zealand 2026, only on Sony LIV.",
+        "longDescription": "Watch all the action from the Day 3 of 1st Unofficial Test of the India A Tour of New Zealand 2026, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "1st Unofficial Test - Day 3 - 26 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "26 Oct 2026, 03:00 AM",
+        "contractEndDate": "26 Oct 2026, 04:00 PM",
+        "originalAirDate": "26 Oct 2026, 03:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275485837381_NZ_vs_IND_A_1st_test_day3_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275492633881_NZ_vs_IND_A_1st_test_day3_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027157/1792757834721628_IND_vs_NZ_2026_Match_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027214/1792831000829419_IND_vs_NZ_2026_GOB_Masthead_logo_3RD_DAY_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275492633881_NZ_vs_IND_A_1st_test_day3_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120299/criclive2510/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1792963812042,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2510/ENG/hdntl=exp=1793050212~acl=%2f*~id=96413d650396db280416bd84db657e17-1792959002659~data=hdntl,2120299,criclive2510,ENG~hmac=e24c44cdac1f16a7192d5fafcdf9642a092c835005100056de6c9051ac441e01/master_500.m3u8?aka_me_session_id=AAAAAAAAAABkxt9qAAAAAO9vxOKfzSj80b6DhsAvbCY6iDT8Dhjzi9%2fV6UMI11J1BpUTC8r2m8qbdmLyhBom8nUMFOIYZeHi&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2510/ENG/hdntl=exp=1793050212~acl=%2f*~id=96413d650396db280416bd84db657e17-1792959002659~data=hdntl,2120299,criclive2510,ENG~hmac=e24c44cdac1f16a7192d5fafcdf9642a092c835005100056de6c9051ac441e01/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABkxt9qAAAAAO9vxOKfzSj80b6DhsAvbCY6iDT8Dhjzi9%2fV6UMI11J1BpUTC8r2m8qbdmLyhBom8nUMFOIYZeHi&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2510/ENG/hdntl=exp=1793050212~acl=%2f*~id=96413d650396db280416bd84db657e17-1792959002659~data=hdntl,2120299,criclive2510,ENG~hmac=e24c44cdac1f16a7192d5fafcdf9642a092c835005100056de6c9051ac441e01/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABkxt9qAAAAAO9vxOKfzSj80b6DhsAvbCY6iDT8Dhjzi9%2fV6UMI11J1BpUTC8r2m8qbdmLyhBom8nUMFOIYZeHi&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2510/ENG/hdntl=exp=1793050212~acl=%2f*~id=96413d650396db280416bd84db657e17-1792959002659~data=hdntl,2120299,criclive2510,ENG~hmac=e24c44cdac1f16a7192d5fafcdf9642a092c835005100056de6c9051ac441e01/master_3800.m3u8?aka_me_session_id=AAAAAAAAAABkxt9qAAAAAO9vxOKfzSj80b6DhsAvbCY6iDT8Dhjzi9%2fV6UMI11J1BpUTC8r2m8qbdmLyhBom8nUMFOIYZeHi&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2510/ENG/hdntl=exp=1793050212~acl=%2f*~id=96413d650396db280416bd84db657e17-1792959002659~data=hdntl,2120299,criclive2510,ENG~hmac=e24c44cdac1f16a7192d5fafcdf9642a092c835005100056de6c9051ac441e01/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABkxt9qAAAAAO9vxOKfzSj80b6DhsAvbCY6iDT8Dhjzi9%2fV6UMI11J1BpUTC8r2m8qbdmLyhBom8nUMFOIYZeHi&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2510/ENG/hdntl=exp=1793050212~acl=%2f*~id=96413d650396db280416bd84db657e17-1792959002659~data=hdntl,2120299,criclive2510,ENG~hmac=e24c44cdac1f16a7192d5fafcdf9642a092c835005100056de6c9051ac441e01/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABkxt9qAAAAAO9vxOKfzSj80b6DhsAvbCY6iDT8Dhjzi9%2fV6UMI11J1BpUTC8r2m8qbdmLyhBom8nUMFOIYZeHi&aka_media_format_type=hls",
+            "Date": "Monday 26th of October 2026 03:00:13 AM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090550664,
