@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "26-10-2026 23:00",
+  "last_updated": "27-10-2026 12:15",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,124 +17,469 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090550767,
+      "video_info": {
+        "title": "India Tour of New Zealand 2026",
+        "shortDescription": "India clinched back-to-back wins against New Zealand, chasing down 226 in the 1st T20I and 181 in the 2nd T20I to take a 2-0 series lead. Watch all the action from the 2nd T20I of the India Tour of New Zealand 2026, only on Sony LIV.",
+        "longDescription": "India clinched back-to-back wins against New Zealand, chasing down 226 in the 1st T20I and 181 in the 2nd T20I to take a 2-0 series lead. Watch all the action from the 2nd T20I of the India Tour of New Zealand 2026, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "3rd T20I - 27 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "unavailable",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
+          },
+          {
+            "lang_code": "KAN",
+            "lang_label": "Kannada"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL,KAN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_SD",
+          "videoType": "SD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "27 Oct 2026, 11:00 AM",
+        "contractEndDate": "27 Oct 2026, 09:00 PM",
+        "originalAirDate": "27 Oct 2026, 11:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876558133737_NZvsIND_3rd_t20i_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027445/179308309423846_indvsnz_extra_inng_masthead_large_v3.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027234/1792836187111912_IND_vs_NZ_2026_match_Masthead_logo_3RD_T20I_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://liveakmt-m-lr.slivcdn.com/out/v1/2119931/cricodi_2710/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793083526376,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "",
+            "Date": "Tuesday 27th of October 2026 12:15:28 PM"
+          }
+        },
+        {
+          "language": "Hindi",
+          "lang_code": "HIN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb9e7/cricodi_2710-hin-1-ts-hls/std-lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793083528670,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb9e7/cricodi_2710-hin-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793126729~acl=/*~hmac=390e0d528b1599036dd8a33eec8677758be9d7f5954b8bf8365e0bc609554a5c\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb9e7/cricodi_2710-hin-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793126729~acl=/*~hmac=390e0d528b1599036dd8a33eec8677758be9d7f5954b8bf8365e0bc609554a5c\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb9e7/cricodi_2710-hin-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793126729~acl=/*~hmac=390e0d528b1599036dd8a33eec8677758be9d7f5954b8bf8365e0bc609554a5c\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb9e7/cricodi_2710-hin-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793126729~acl=/*~hmac=390e0d528b1599036dd8a33eec8677758be9d7f5954b8bf8365e0bc609554a5c\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb9e7/cricodi_2710-hin-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793126729~acl=/*~hmac=390e0d528b1599036dd8a33eec8677758be9d7f5954b8bf8365e0bc609554a5c",
+            "Date": "Tuesday 27th of October 2026 12:15:29 PM"
+          }
+        },
+        {
+          "language": "Tamil",
+          "lang_code": "TAM",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpcha075/cricodi_2710-tam-1-ts-hls/std-lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793083529955,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpcha075/cricodi_2710-tam-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793126730~acl=/*~hmac=f606e259280f54a02ed46a31d7e7c6c283b96a10605da955f58cdd657d156875\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpcha075/cricodi_2710-tam-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793126730~acl=/*~hmac=f606e259280f54a02ed46a31d7e7c6c283b96a10605da955f58cdd657d156875\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpcha075/cricodi_2710-tam-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793126730~acl=/*~hmac=f606e259280f54a02ed46a31d7e7c6c283b96a10605da955f58cdd657d156875\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpcha075/cricodi_2710-tam-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793126730~acl=/*~hmac=f606e259280f54a02ed46a31d7e7c6c283b96a10605da955f58cdd657d156875\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpcha075/cricodi_2710-tam-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793126730~acl=/*~hmac=f606e259280f54a02ed46a31d7e7c6c283b96a10605da955f58cdd657d156875",
+            "Date": "Tuesday 27th of October 2026 12:15:30 PM"
+          }
+        },
+        {
+          "language": "Telugu",
+          "lang_code": "TEL",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_2710-tel-1-ts-hls/std-lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793083531269,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_2710-tel-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793126731~acl=/*~hmac=c5d65a74ee588912ef032834ccf202883b0dd91154e6d4623bc678ca74173a6b\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_2710-tel-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793126731~acl=/*~hmac=c5d65a74ee588912ef032834ccf202883b0dd91154e6d4623bc678ca74173a6b\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_2710-tel-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793126731~acl=/*~hmac=c5d65a74ee588912ef032834ccf202883b0dd91154e6d4623bc678ca74173a6b\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_2710-tel-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793126731~acl=/*~hmac=c5d65a74ee588912ef032834ccf202883b0dd91154e6d4623bc678ca74173a6b\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_2710-tel-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793126731~acl=/*~hmac=c5d65a74ee588912ef032834ccf202883b0dd91154e6d4623bc678ca74173a6b",
+            "Date": "Tuesday 27th of October 2026 12:15:32 PM"
+          }
+        },
+        {
+          "language": "Kannada",
+          "lang_code": "KAN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_2710-kan-1-ts-hls/std-lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793083532511,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_2710-kan-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793126733~acl=/*~hmac=03cd5a57aacf0a03d49ace001b132c02e3267e695bed8415fdca471d7366fcd9\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_2710-kan-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793126733~acl=/*~hmac=03cd5a57aacf0a03d49ace001b132c02e3267e695bed8415fdca471d7366fcd9\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_2710-kan-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793126733~acl=/*~hmac=03cd5a57aacf0a03d49ace001b132c02e3267e695bed8415fdca471d7366fcd9\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_2710-kan-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793126733~acl=/*~hmac=03cd5a57aacf0a03d49ace001b132c02e3267e695bed8415fdca471d7366fcd9\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_2710-kan-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793126733~acl=/*~hmac=03cd5a57aacf0a03d49ace001b132c02e3267e695bed8415fdca471d7366fcd9",
+            "Date": "Tuesday 27th of October 2026 12:15:33 PM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090550766,
+      "video_info": {
+        "title": "India A Tour of New Zealand",
+        "shortDescription": "Watch all the action from the Day 4 of 1st Unofficial Test of the India A Tour of New Zealand 2026, only on Sony LIV.",
+        "longDescription": "Watch all the action from the Day 4 of 1st Unofficial Test of the India A Tour of New Zealand 2026, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "1st Unofficial Test - Day 4 - 27 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/5qGAO2fFR2uBEowZHwSwkw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "27 Oct 2026, 03:00 AM",
+        "contractEndDate": "27 Oct 2026, 04:00 PM",
+        "originalAirDate": "27 Oct 2026, 03:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792937720713905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027157/1792757834721628_IND_vs_NZ_2026_Match_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027214/1792831000873419_IND_vs_NZ_2026_GOB_Masthead_logo_4TH_DAY_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793083535268,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2610/ENG/hdntl=exp=1793169935~acl=%2f*~id=86570123198525421318722317702726~data=hdntl,2120299,criclive2610,ENG~hmac=e687e7b7cd3c6937e820fdf28e5f17e7d2babd0686e575656cf4fef82fe91112/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAPmuFqAAAAAKgXpevlQqKniVKi0IqgW8zEA2yUd5abNwwBhW5yxcy2fYanKbK71vGp5wQl5XFP6l1vOqxPjVzU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2610/ENG/hdntl=exp=1793169935~acl=%2f*~id=86570123198525421318722317702726~data=hdntl,2120299,criclive2610,ENG~hmac=e687e7b7cd3c6937e820fdf28e5f17e7d2babd0686e575656cf4fef82fe91112/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAPmuFqAAAAAKgXpevlQqKniVKi0IqgW8zEA2yUd5abNwwBhW5yxcy2fYanKbK71vGp5wQl5XFP6l1vOqxPjVzU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2610/ENG/hdntl=exp=1793169935~acl=%2f*~id=86570123198525421318722317702726~data=hdntl,2120299,criclive2610,ENG~hmac=e687e7b7cd3c6937e820fdf28e5f17e7d2babd0686e575656cf4fef82fe91112/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAPmuFqAAAAAKgXpevlQqKniVKi0IqgW8zEA2yUd5abNwwBhW5yxcy2fYanKbK71vGp5wQl5XFP6l1vOqxPjVzU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2610/ENG/hdntl=exp=1793169935~acl=%2f*~id=86570123198525421318722317702726~data=hdntl,2120299,criclive2610,ENG~hmac=e687e7b7cd3c6937e820fdf28e5f17e7d2babd0686e575656cf4fef82fe91112/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAAPmuFqAAAAAKgXpevlQqKniVKi0IqgW8zEA2yUd5abNwwBhW5yxcy2fYanKbK71vGp5wQl5XFP6l1vOqxPjVzU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2610/ENG/hdntl=exp=1793169935~acl=%2f*~id=86570123198525421318722317702726~data=hdntl,2120299,criclive2610,ENG~hmac=e687e7b7cd3c6937e820fdf28e5f17e7d2babd0686e575656cf4fef82fe91112/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAPmuFqAAAAAKgXpevlQqKniVKi0IqgW8zEA2yUd5abNwwBhW5yxcy2fYanKbK71vGp5wQl5XFP6l1vOqxPjVzU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2610/ENG/hdntl=exp=1793169935~acl=%2f*~id=86570123198525421318722317702726~data=hdntl,2120299,criclive2610,ENG~hmac=e687e7b7cd3c6937e820fdf28e5f17e7d2babd0686e575656cf4fef82fe91112/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAAPmuFqAAAAAKgXpevlQqKniVKi0IqgW8zEA2yUd5abNwwBhW5yxcy2fYanKbK71vGp5wQl5XFP6l1vOqxPjVzU&aka_media_format_type=hls",
+            "Date": "Tuesday 27th of October 2026 12:15:35 PM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
-    {
-      "contentId": 1090550664,
-      "video_info": {
-        "title": "Upcoming - 3rd T20I - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/3e94b7ff63da4a37bd5a7968b7f713f4/1793025346/baseline-std-v4/NZ_VS_IND_3RD_T20I_CONTEXTUAL_25SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "25 Oct 2026, 06:30 PM",
-        "contractEndDate": "27 Oct 2026, 11:00 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027321/1792933274831385_NZvsIND_3rd_t20i_promo_landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027321/1792933274831385_NZvsIND_3rd_t20i_promo_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027321/1792933274831385_NZvsIND_3rd_t20i_promo_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090550641,
-      "video_info": {
-        "title": "Upcoming - 3rd T20I - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/75e8422bd7814744a09fd32e0c577b9f/1793026007/baseline-std-v4/IND_NZ_3RD_T20I_PHILIPS_ASHWIN_WHITEWASH_60SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "25 Oct 2026, 11:40 AM",
-        "contractEndDate": "27 Dec 2026, 11:05 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027296/1792867290033495_coc_NZvsIND26_3rd_t20i_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027296/1792867384276495_coc_NZvsIND26_3rd_t20i_dated_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027350/1793001742394832_IND_vs_NZ_2026_Match_masthead_mobile_v2_984x1182_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027234/1792836187083912_IND_vs_NZ_2026_match_Masthead_logo_3RD_T20I_DATED.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027296/1792867384276495_coc_NZvsIND26_3rd_t20i_dated_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
     {
       "contentId": 1090547508,
       "video_info": {
@@ -190,180 +535,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792662643467446_ISL_FC-Goa-vs-Sporting-Club-Delhi_promo_DDT_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090550665,
-      "video_info": {
-        "title": "Upcoming - 3rd T20I - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/e5f7ec2a440348ec8307f94757abf2be/1793025469/baseline-std-v4/VAIBHAV_3RDT20I_50SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "25 Oct 2026, 06:30 PM",
-        "contractEndDate": "27 Oct 2026, 11:00 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027321/1792933263969385_NZvsIND_vaibhav_promo_landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027321/1792933263969385_NZvsIND_vaibhav_promo_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027321/1792933263969385_NZvsIND_vaibhav_promo_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090550579,
-      "video_info": {
-        "title": "Upcoming - 3rd T20I - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/459689ba5fb34bd8b3f5791b7e07f035/1793026083/baseline-std-v4/ABHISHEK_SHARMA_3RD_T20I_35SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "24 Oct 2026, 11:45 PM",
-        "contractEndDate": "27 Dec 2026, 11:05 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027307/1792911545258131_NZ_Vs_Ind_3rd_t20_landscape_thumbnail.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027307/1792911545258131_NZ_Vs_Ind_3rd_t20_landscape_thumbnail.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027307/1792911545258131_NZ_Vs_Ind_3rd_t20_landscape_thumbnail.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090550642,
-      "video_info": {
-        "title": "Upcoming - 3rd T20I - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/563981ddfc184c25b397a4ddf3b3d6f0/1793025663/baseline-std-v4/NZ_VS_IND_3RD_T20I_SPEC_65SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "25 Oct 2026, 11:40 AM",
-        "contractEndDate": "27 Dec 2026, 11:05 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027307/1792911545258131_NZ_Vs_Ind_3rd_t20_landscape_thumbnail.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027307/1792911545258131_NZ_Vs_Ind_3rd_t20_landscape_thumbnail.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027307/1792911545258131_NZ_Vs_Ind_3rd_t20_landscape_thumbnail.jpg"
       },
       "multiple_audio_links": []
     },
@@ -712,6 +883,64 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027363/1793009798550733_promo_landscape.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090550904,
+      "video_info": {
+        "title": "Upcoming - India Tour Of New Zealand 2026",
+        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/3296b703015142308e385da2baf27cd6/1793026329/baseline-std-v4/NZ_VS_IND_4TH_T20I_DHURANDHAR_25SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "26 Oct 2026, 08:00 PM",
+        "contractEndDate": "01 Dec 2026, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027417/1793028576666177_INDvsNZ_4t20I_promo_landscape_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027417/1793028576666177_INDvsNZ_4t20I_promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027417/1793028576666177_INDvsNZ_4t20I_promo_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     }
