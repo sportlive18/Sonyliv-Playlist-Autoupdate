@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "27-10-2026 22:40",
+  "last_updated": "28-10-2026 10:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,106 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090550845,
+      "video_info": {
+        "title": "Salute Tiranga Cricket League (STCL) 2026",
+        "shortDescription": "Gujarat Royals take on Punjab Falcons in Semi Final 2 of the Salute Tiranga Cricket League 2026. Watch all the action LIVE, only on Sony LIV.",
+        "longDescription": "Gujarat Royals take on Punjab Falcons in Semi Final 2 of the Salute Tiranga Cricket League 2026. Watch all the action LIVE, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Gujarat Royals vs Punjab Falcons - Semi Final 2 - 28 Oct 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/KwjF4YhYSrugcJgrW0p1-Q/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "28 Oct 2026, 09:50 AM",
+        "contractEndDate": "28 Oct 2026, 06:50 PM",
+        "originalAirDate": "28 Oct 2026, 10:20 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027437/1793076527177450_STCL26_SF_Gujarat_Royals_vs_Punjab_Falcons_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027437/1793076736608450_STCL26_SF_Gujarat_Royals_vs_Punjab_Falcons_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027462/1793088650045898_STCL_2026_Match_masthead_mobile_v2_984x1182_Gujarat_Royals_vs_Punjab_Falcons.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027462/1793088649790898_STCL_2026_Match_Masthead_logo_Gujarat_Royals_vs_Punjab_Falcons_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027437/1793076736608450_STCL26_SF_Gujarat_Royals_vs_Punjab_Falcons_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "Hindi",
+          "lang_code": "HIN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793161814165,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/criclive2810/HIN/hdntl=exp=1793248214~acl=%2f*~id=6225b371c32d6c5df71dff24a37a84dd-1793149803835~data=hdntl,2120300,criclive2810,HIN~hmac=a963aa47a5a6073f85136b9a625b5840f6b2325a24763e0402387601c75598ac/master_500.m3u8?aka_me_session_id=AAAAAAAAAADWy+JqAAAAAD6y2IQO1SoLqLnSux7AmoAVWfv0qMDka2qgoCxKZi9jog7dt3GsF3Csc7+SkFvb7zyymq73gXll&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/criclive2810/HIN/hdntl=exp=1793248214~acl=%2f*~id=6225b371c32d6c5df71dff24a37a84dd-1793149803835~data=hdntl,2120300,criclive2810,HIN~hmac=a963aa47a5a6073f85136b9a625b5840f6b2325a24763e0402387601c75598ac/master_1000.m3u8?aka_me_session_id=AAAAAAAAAADWy+JqAAAAAD6y2IQO1SoLqLnSux7AmoAVWfv0qMDka2qgoCxKZi9jog7dt3GsF3Csc7+SkFvb7zyymq73gXll&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/criclive2810/HIN/hdntl=exp=1793248214~acl=%2f*~id=6225b371c32d6c5df71dff24a37a84dd-1793149803835~data=hdntl,2120300,criclive2810,HIN~hmac=a963aa47a5a6073f85136b9a625b5840f6b2325a24763e0402387601c75598ac/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADWy+JqAAAAAD6y2IQO1SoLqLnSux7AmoAVWfv0qMDka2qgoCxKZi9jog7dt3GsF3Csc7+SkFvb7zyymq73gXll&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/criclive2810/HIN/hdntl=exp=1793248214~acl=%2f*~id=6225b371c32d6c5df71dff24a37a84dd-1793149803835~data=hdntl,2120300,criclive2810,HIN~hmac=a963aa47a5a6073f85136b9a625b5840f6b2325a24763e0402387601c75598ac/master_3800.m3u8?aka_me_session_id=AAAAAAAAAADWy+JqAAAAAD6y2IQO1SoLqLnSux7AmoAVWfv0qMDka2qgoCxKZi9jog7dt3GsF3Csc7+SkFvb7zyymq73gXll&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/criclive2810/HIN/hdntl=exp=1793248214~acl=%2f*~id=6225b371c32d6c5df71dff24a37a84dd-1793149803835~data=hdntl,2120300,criclive2810,HIN~hmac=a963aa47a5a6073f85136b9a625b5840f6b2325a24763e0402387601c75598ac/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADWy+JqAAAAAD6y2IQO1SoLqLnSux7AmoAVWfv0qMDka2qgoCxKZi9jog7dt3GsF3Csc7+SkFvb7zyymq73gXll&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/criclive2810/HIN/hdntl=exp=1793248214~acl=%2f*~id=6225b371c32d6c5df71dff24a37a84dd-1793149803835~data=hdntl,2120300,criclive2810,HIN~hmac=a963aa47a5a6073f85136b9a625b5840f6b2325a24763e0402387601c75598ac/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADWy+JqAAAAAD6y2IQO1SoLqLnSux7AmoAVWfv0qMDka2qgoCxKZi9jog7dt3GsF3Csc7+SkFvb7zyymq73gXll&aka_media_format_type=hls",
+            "Date": "Wednesday 28th of October 2026 10:00:14 AM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090550904,
@@ -480,64 +579,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026604/1792259527608635_ind_vs_nz_promo_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090548283,
-      "video_info": {
-        "title": "Upcoming - Salute Tiranga Cricket League (STCL) 2026",
-        "shortDescription": "Tune in to catch all the action from Salute Tiranga Cricket League (STCL) 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from Salute Tiranga Cricket League (STCL) 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/ddc8ed5202f347cc97e929956d36c2c9/1791974845/baseline-std-v4/STCL_SEASON_1_25_SEC_HOR_WOBUG_DATED_APP__IND_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "14 Oct 2026, 04:00 PM",
-        "contractEndDate": "28 Oct 2026, 10:00 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026217/1791869311520196_Salute_Tiranga_Cricket_League_T20_GOB_Portrait_Thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026328/1791978466033872_STCL_promo_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026217/1791869311478196_Salute_Tiranga_Cricket_League_T20_GOB_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026217/1791869311340196_Salute_Tiranga_Cricket_League_T20_GOB_Masthead_logo_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026328/1791978466033872_STCL_promo_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
