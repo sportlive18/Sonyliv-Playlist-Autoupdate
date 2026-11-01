@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "01-11-2026 11:00",
+  "last_updated": "01-11-2026 11:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -211,7 +211,7 @@
             "Device_Type": "SONY_PRO_MAX",
             "message": "success",
             "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://liveakmt-m-lr.slivcdn.com/out/v1/2119951/cricodi_0111/TAM/std_lrh-800300010.m3u8",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_0111-tam-1-ts-hls/std-lrh-800300010.m3u8",
             "WIDEVINE": null,
             "STREAMING_TYPE": true,
             "audioLanguages": [
@@ -240,7 +240,7 @@
             "Maximum_Video_Quality": "SDR",
             "Maximum_Resolution": "FULL_HD",
             "trailer_url": "",
-            "systemTime": 1793511019766,
+            "systemTime": 1793512213765,
             "additionalDataJson": {
               "adServer": "GAM",
               "ad_stack": "MT-SSB",
@@ -258,8 +258,8 @@
             },
             "Status_code": 200,
             "content_type": "application/json; charset=utf-8",
-            "auto_streams": "",
-            "Date": "Sunday 1st of November 2026 11:00:20 AM"
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_0111-tam-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793555414~acl=/*~hmac=b29b9c5cd4b71cd75aed66c8768a63db679dfe87b00e2c7c19135ad03d4bd343\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_0111-tam-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793555414~acl=/*~hmac=b29b9c5cd4b71cd75aed66c8768a63db679dfe87b00e2c7c19135ad03d4bd343\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_0111-tam-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793555414~acl=/*~hmac=b29b9c5cd4b71cd75aed66c8768a63db679dfe87b00e2c7c19135ad03d4bd343\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_0111-tam-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793555414~acl=/*~hmac=b29b9c5cd4b71cd75aed66c8768a63db679dfe87b00e2c7c19135ad03d4bd343\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_0111-tam-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793555414~acl=/*~hmac=b29b9c5cd4b71cd75aed66c8768a63db679dfe87b00e2c7c19135ad03d4bd343",
+            "Date": "Sunday 1st of November 2026 11:20:14 AM"
           }
         },
         {
@@ -327,7 +327,7 @@
             "Device_Type": "SONY_PRO_MAX",
             "message": "success",
             "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://liveakmt-mgm.slivcdn.com/out/v1/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_0111-kan-1-ts-hls/std-lrh-800300010.m3u8",
             "WIDEVINE": null,
             "STREAMING_TYPE": true,
             "audioLanguages": [
@@ -356,7 +356,7 @@
             "Maximum_Video_Quality": "SDR",
             "Maximum_Resolution": "FULL_HD",
             "trailer_url": "",
-            "systemTime": 1793511021933,
+            "systemTime": 1793512215417,
             "additionalDataJson": {
               "adServer": "GAM",
               "ad_stack": "MT-SSB",
@@ -374,170 +374,14 @@
             },
             "Status_code": 200,
             "content_type": "application/json; charset=utf-8",
-            "auto_streams": "",
-            "Date": "Sunday 1st of November 2026 11:00:22 AM"
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090551577,
-      "video_info": {
-        "title": "India A Tour of New Zealand",
-        "shortDescription": "After a strong batting effort on Day 1, India A resume their first innings at 291/7 against New Zealand A in the 2nd Unofficial Test, Day 2, at Hagley Oval, Christchurch. With Dhruv Jurel just one run away from a century, can India A extend their total and take control of the contest? Catch all the live action, only on Sony LIV.",
-        "longDescription": "After a strong batting effort on Day 1, India A resume their first innings at 291/7 against New Zealand A in the 2nd Unofficial Test, Day 2, at Hagley Oval, Christchurch. With Dhruv Jurel just one run away from a century, can India A extend their total and take control of the contest? Catch all the live action, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": "2nd Unofficial Test - Day 2 - 1 Nov 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/VwE3AaQJTiiGLezAr_2DvQ/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "01 Nov 2026, 03:00 AM",
-        "contractEndDate": "01 Nov 2026, 03:00 PM",
-        "originalAirDate": "01 Nov 2026, 03:30 AM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474472893145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027728/1793344018106552_IND_vs_NZ_2026_Match_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027701/1793283590618340_IND_vs_NZ_2026_GOB_Masthead_logo_Day2_LIVE.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": [
-        {
-          "language": "English",
-          "lang_code": "ENG",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1793482218024,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/criclive3110/ENG/hdntl=exp=1793568620~acl=%2f*~id=91924095494674236314543101663217~data=hdntl,2018457,criclive3110,ENG~hmac=f38f5c5c3ed43a23214e99348031052bbdd9812bed9e7327c49f3bd8ff4549e6/master_500.m3u8?aka_me_session_id=AAAAAAAAAABsr+dqAAAAADLY%2faZOyXZUGzMKoC1lR%2fCUjbx0Nn6IWWlUUxvhvHRizxosk6Y9x3yQNWB77W3kDlPMiRHXoOS3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/criclive3110/ENG/hdntl=exp=1793568620~acl=%2f*~id=91924095494674236314543101663217~data=hdntl,2018457,criclive3110,ENG~hmac=f38f5c5c3ed43a23214e99348031052bbdd9812bed9e7327c49f3bd8ff4549e6/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABsr+dqAAAAADLY%2faZOyXZUGzMKoC1lR%2fCUjbx0Nn6IWWlUUxvhvHRizxosk6Y9x3yQNWB77W3kDlPMiRHXoOS3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/criclive3110/ENG/hdntl=exp=1793568620~acl=%2f*~id=91924095494674236314543101663217~data=hdntl,2018457,criclive3110,ENG~hmac=f38f5c5c3ed43a23214e99348031052bbdd9812bed9e7327c49f3bd8ff4549e6/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABsr+dqAAAAADLY%2faZOyXZUGzMKoC1lR%2fCUjbx0Nn6IWWlUUxvhvHRizxosk6Y9x3yQNWB77W3kDlPMiRHXoOS3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/criclive3110/ENG/hdntl=exp=1793568620~acl=%2f*~id=91924095494674236314543101663217~data=hdntl,2018457,criclive3110,ENG~hmac=f38f5c5c3ed43a23214e99348031052bbdd9812bed9e7327c49f3bd8ff4549e6/master_3800.m3u8?aka_me_session_id=AAAAAAAAAABsr+dqAAAAADLY%2faZOyXZUGzMKoC1lR%2fCUjbx0Nn6IWWlUUxvhvHRizxosk6Y9x3yQNWB77W3kDlPMiRHXoOS3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/criclive3110/ENG/hdntl=exp=1793568620~acl=%2f*~id=91924095494674236314543101663217~data=hdntl,2018457,criclive3110,ENG~hmac=f38f5c5c3ed43a23214e99348031052bbdd9812bed9e7327c49f3bd8ff4549e6/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABsr+dqAAAAADLY%2faZOyXZUGzMKoC1lR%2fCUjbx0Nn6IWWlUUxvhvHRizxosk6Y9x3yQNWB77W3kDlPMiRHXoOS3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/criclive3110/ENG/hdntl=exp=1793568620~acl=%2f*~id=91924095494674236314543101663217~data=hdntl,2018457,criclive3110,ENG~hmac=f38f5c5c3ed43a23214e99348031052bbdd9812bed9e7327c49f3bd8ff4549e6/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABsr+dqAAAAADLY%2faZOyXZUGzMKoC1lR%2fCUjbx0Nn6IWWlUUxvhvHRizxosk6Y9x3yQNWB77W3kDlPMiRHXoOS3&aka_media_format_type=hls",
-            "Date": "Sunday 1st of November 2026 03:00:20 AM"
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_0111-kan-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793555415~acl=/*~hmac=10d48d8f734b0e1eac757f0b0ae778e2271443cd355d4df63a6f9c7df60ba866\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_0111-kan-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793555415~acl=/*~hmac=10d48d8f734b0e1eac757f0b0ae778e2271443cd355d4df63a6f9c7df60ba866\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_0111-kan-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793555415~acl=/*~hmac=10d48d8f734b0e1eac757f0b0ae778e2271443cd355d4df63a6f9c7df60ba866\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_0111-kan-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793555415~acl=/*~hmac=10d48d8f734b0e1eac757f0b0ae778e2271443cd355d4df63a6f9c7df60ba866\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_0111-kan-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793555415~acl=/*~hmac=10d48d8f734b0e1eac757f0b0ae778e2271443cd355d4df63a6f9c7df60ba866",
+            "Date": "Sunday 1st of November 2026 11:20:16 AM"
           }
         }
       ]
     }
   ],
   "upcoming": [
-    {
-      "contentId": 1090551489,
-      "video_info": {
-        "title": "Upcoming - 5th T20I - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/b9ec75515bd84727bda8ab58af5820d1/1793438400/baseline-std-v4/NZ_vs_IND_5TH_T20I_CONTEXTUAL_PROMO_25_SEC_HOR_WOBUG_DATED_APP_31102026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "30 Oct 2026, 04:55 PM",
-        "contractEndDate": "01 Nov 2026, 11:05 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027867/1793371040098937_NZvsIND26_5th_T20I_today_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027867/1793371269918937_NZvsIND26_5th_T20I_today_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027735/1793345375172247_IND_vs_NZ_2026_Match_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027938/1793467668457485_NZvsIND26_5th_T20I_today_masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027867/1793371269918937_NZvsIND26_5th_T20I_today_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
     {
       "contentId": 1090551225,
       "video_info": {
@@ -1061,122 +905,6 @@
       "multiple_audio_links": []
     },
     {
-      "contentId": 1090551488,
-      "video_info": {
-        "title": "Upcoming - 5th T20I - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/1e2757c9b0f54e9da73f01a91c1d9d0f/1793360052/baseline-std-v4/ABHISHEK_SHARMA_5TH_T20I_35SEC_HOR_WOBUG_DATED_APP_WITH_TAG_30102026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "30 Oct 2026, 04:55 PM",
-        "contractEndDate": "01 Nov 2026, 11:05 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027816/1793362288057920_INDvsNZ_abhishek_promo_landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027816/1793362288057920_INDvsNZ_abhishek_promo_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027816/1793362288057920_INDvsNZ_abhishek_promo_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090551490,
-      "video_info": {
-        "title": "Upcoming - 5th T20I - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/8422b3f7eabb453c8bbf98e17a62bf8d/1793360065/baseline-std-v4/VAIBHAV_4TH_T20I_50_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_30102026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "30 Oct 2026, 04:55 PM",
-        "contractEndDate": "01 Nov 2026, 11:05 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027816/1793362254556920_INDvsNZ_vaibhav_promo_landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027816/1793362254556920_INDvsNZ_vaibhav_promo_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027816/1793362254556920_INDvsNZ_vaibhav_promo_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
       "contentId": 1090551495,
       "video_info": {
         "title": "Upcoming - Atletico Madrid vs Bayern Munich - UEFA Champions League 2026-27",
@@ -1347,6 +1075,180 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027846/1793366379756665_dortmund_VS_betis_landscape_thumbnail.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090551499,
+      "video_info": {
+        "title": "Upcoming - Manchester United vs Roma - UEFA Champions League 2026-27",
+        "shortDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
+        "longDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/bd601104a5e64f689a2e42022c986e9b/1793365498/baseline-std-v4/UCL_MD_4_Man_UTD_V_ROMA_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "30 Oct 2026, 06:00 PM",
+        "contractEndDate": "04 Nov 2026, 12:55 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793169120493484_UCL_26_MD4_Man-United_vs_Roma_Promo_DDT_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793169184924484_UCL_26_MD4_Man-United_vs_Roma_Promo_DDT_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793169184924484_UCL_26_MD4_Man-United_vs_Roma_Promo_DDT_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090551500,
+      "video_info": {
+        "title": "Upcoming - Villarreal vs PSG - UEFA Champions League 2026-27",
+        "shortDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
+        "longDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/b41a958ed0ea41e1b1c55bde63d6b6c9/1793365569/baseline-std-v4/UCL_MD_4_Villarreal_V_PSG_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "30 Oct 2026, 06:00 PM",
+        "contractEndDate": "04 Nov 2026, 12:55 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027914/1793426601355321_UCL_26_MD4_Villarreal-vs-PSG_Promo_DDT_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027914/1793426651789321_UCL_26_MD4_Villarreal-vs-PSG_Promo_DDT_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027914/1793426651789321_UCL_26_MD4_Villarreal-vs-PSG_Promo_DDT_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090551498,
+      "video_info": {
+        "title": "Upcoming - Matchday 4 - UEFA Champions League 2026-27",
+        "shortDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
+        "longDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/cff8ca63f400464c8a91e8e4a70a9169/1793365506/baseline-std-v4/UCL_MD_4_GENERIC_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "30 Oct 2026, 06:00 PM",
+        "contractEndDate": "05 Nov 2026, 12:55 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027845/179336646551186_champion_league_matchday_4_landscape_thumbnail.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027845/179336646551186_champion_league_matchday_4_landscape_thumbnail.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027845/179336646551186_champion_league_matchday_4_landscape_thumbnail.jpg"
       },
       "multiple_audio_links": []
     }
