@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "02-11-2026 11:40",
+  "last_updated": "02-11-2026 21:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,106 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090547482,
+      "video_info": {
+        "title": "Kon Honaar Crorepati",
+        "shortDescription": "Hosted by Madhuri Dixit, Kon Honar Crorepati is a thrilling Marathi quiz show where knowledge, courage and smart decisions can change lives. Contestants take on challenging questions for a chance to win a life-changing prize, while the new season raises the stakes with a fresh energy and one promise: Aata Khel Badalnar!",
+        "longDescription": "Hosted by Madhuri Dixit, Kon Honar Crorepati is a thrilling Marathi quiz show where knowledge, courage and smart decisions can change lives. Contestants take on challenging questions for a chance to win a life-changing prize, while the new season raises the stakes with a fresh energy and one promise: Aata Khel Badalnar!",
+        "genres": [
+          "Game show"
+        ],
+        "episodeTitle": "Kon Honaar Crorepati"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+        "broadcast_channel": "Sony Marathi",
+        "audio_language_list": [
+          {
+            "lang_code": "MAR",
+            "lang_label": "Marathi"
+          }
+        ],
+        "emfAttributes__audio_languages": "MAR",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "MAR",
+              "isPreferred": true,
+              "audioLanguageLabel": "Marathi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "02 Nov 2026, 08:30 PM",
+        "contractEndDate": "02 Nov 2026, 10:21 PM",
+        "originalAirDate": "02 Nov 2026, 08:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810134665132_KHC_promo_portrait_thumb_simulcast.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810253859132_KHC_promo_landscape_thumb_simulcast.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028081/1793616732985448_KHC26_EP19_2nov_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025996/1791381398795492_KHC_India_Masthead_Logo_newshow.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810253859132_KHC_promo_landscape_thumb_simulcast.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "Marathi",
+          "lang_code": "MAR",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E19_0211/MAR/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "MAR",
+                "audioLanguageLabel": "Marathi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793633412477,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E19_0211/MAR/hdntl=exp=1793719812~acl=%2f*~id=75c27cc9eed84223f1e25466a8e6a42c-1793623804297~data=hdntl,2022315,KHC_E19_0211,none~hmac=abcf712541cc12eeb70fe424fea30f88d741b98c95f17c07bdabc8c606120295/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAE%2fulqAAAAAPpI9k43%2fc5GoRqukhtQ1%2fpEk3ZENHxHgKQGQxoyB0fqu97Ye8e8acjOZbFOyiSFud%2flYsITB0QD&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E19_0211/MAR/hdntl=exp=1793719812~acl=%2f*~id=75c27cc9eed84223f1e25466a8e6a42c-1793623804297~data=hdntl,2022315,KHC_E19_0211,none~hmac=abcf712541cc12eeb70fe424fea30f88d741b98c95f17c07bdabc8c606120295/master_700.m3u8?aka_me_session_id=AAAAAAAAAAAE%2fulqAAAAAPpI9k43%2fc5GoRqukhtQ1%2fpEk3ZENHxHgKQGQxoyB0fqu97Ye8e8acjOZbFOyiSFud%2flYsITB0QD&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E19_0211/MAR/hdntl=exp=1793719812~acl=%2f*~id=75c27cc9eed84223f1e25466a8e6a42c-1793623804297~data=hdntl,2022315,KHC_E19_0211,none~hmac=abcf712541cc12eeb70fe424fea30f88d741b98c95f17c07bdabc8c606120295/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAE%2fulqAAAAAPpI9k43%2fc5GoRqukhtQ1%2fpEk3ZENHxHgKQGQxoyB0fqu97Ye8e8acjOZbFOyiSFud%2flYsITB0QD&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E19_0211/MAR/hdntl=exp=1793719812~acl=%2f*~id=75c27cc9eed84223f1e25466a8e6a42c-1793623804297~data=hdntl,2022315,KHC_E19_0211,none~hmac=abcf712541cc12eeb70fe424fea30f88d741b98c95f17c07bdabc8c606120295/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAE%2fulqAAAAAPpI9k43%2fc5GoRqukhtQ1%2fpEk3ZENHxHgKQGQxoyB0fqu97Ye8e8acjOZbFOyiSFud%2flYsITB0QD&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E19_0211/MAR/hdntl=exp=1793719812~acl=%2f*~id=75c27cc9eed84223f1e25466a8e6a42c-1793623804297~data=hdntl,2022315,KHC_E19_0211,none~hmac=abcf712541cc12eeb70fe424fea30f88d741b98c95f17c07bdabc8c606120295/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAAE%2fulqAAAAAPpI9k43%2fc5GoRqukhtQ1%2fpEk3ZENHxHgKQGQxoyB0fqu97Ye8e8acjOZbFOyiSFud%2flYsITB0QD&aka_media_format_type=hls",
+            "Date": "Monday 2nd of November 2026 09:00:12 PM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090551225,
@@ -69,8 +168,8 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179326859348343_NZvsIND_1st_ODI_dated_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327126246643_NZvsIND_1st_ODI_dated_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028043/1793595958288227_NZvsIND_1st_ODI_ROKO_promo_masthead_mobile_v2.jpg",
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028075/1793613667895716_IND_vs_NZ_2026_Match_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028075/1793613667719716_IND_vs_NZ_2026_match_Masthead_logo_1stODI_Dated.png",
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327126246643_NZvsIND_1st_ODI_dated_landscape_thumb.jpg"
@@ -578,7 +677,7 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/256fbfe5a4c24984aa3807a64d09ef2a/1793365490/baseline-std-v4/UCL_MD_4_Atletico_Madrid_V_Bayern_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/256fbfe5a4c24984aa3807a64d09ef2a/1793624648/baseline-std-v4/UCL_MD_4_Atletico_Madrid_V_Bayern_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
@@ -636,7 +735,7 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/5e2ad11588bb4a0ea1aba5e963168921/1793365501/baseline-std-v4/UCL_MD_4_Barcelona_V_Aston_Villa_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/5e2ad11588bb4a0ea1aba5e963168921/1793624642/baseline-std-v4/UCL_MD_4_Barcelona_V_Aston_Villa_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
@@ -694,7 +793,7 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/b997488db57e4326b44bfdd0b5509177/1793365513/baseline-std-v4/UCL_MD_4_Dortmund_V_Betis_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/b997488db57e4326b44bfdd0b5509177/1793624649/baseline-std-v4/UCL_MD_4_Dortmund_V_Betis_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
@@ -752,7 +851,7 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/bd601104a5e64f689a2e42022c986e9b/1793365498/baseline-std-v4/UCL_MD_4_Man_UTD_V_ROMA_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/bd601104a5e64f689a2e42022c986e9b/1793624659/baseline-std-v4/UCL_MD_4_Man_UTD_V_ROMA_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
@@ -810,7 +909,7 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/b41a958ed0ea41e1b1c55bde63d6b6c9/1793365569/baseline-std-v4/UCL_MD_4_Villarreal_V_PSG_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/b41a958ed0ea41e1b1c55bde63d6b6c9/1793624753/baseline-std-v4/UCL_MD_4_Villarreal_V_PSG_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
@@ -868,7 +967,7 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/cff8ca63f400464c8a91e8e4a70a9169/1793365506/baseline-std-v4/UCL_MD_4_GENERIC_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/cff8ca63f400464c8a91e8e4a70a9169/1793624654/baseline-std-v4/UCL_MD_4_GENERIC_35_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_eng_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
