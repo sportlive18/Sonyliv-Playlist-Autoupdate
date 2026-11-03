@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "03-11-2026 18:20",
+  "last_updated": "03-11-2026 20:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -112,6 +112,104 @@
             "content_type": "application/json; charset=utf-8",
             "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch50d3/cricodi_0311-eng-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793753418~acl=/*~hmac=608eea6321cb98948a55d349badc110bb7a59b1eae1a9f7daa0862bc4f127d1d\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch50d3/cricodi_0311-eng-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793753418~acl=/*~hmac=608eea6321cb98948a55d349badc110bb7a59b1eae1a9f7daa0862bc4f127d1d\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch50d3/cricodi_0311-eng-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793753418~acl=/*~hmac=608eea6321cb98948a55d349badc110bb7a59b1eae1a9f7daa0862bc4f127d1d\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch50d3/cricodi_0311-eng-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793753418~acl=/*~hmac=608eea6321cb98948a55d349badc110bb7a59b1eae1a9f7daa0862bc4f127d1d\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch50d3/cricodi_0311-eng-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793753418~acl=/*~hmac=608eea6321cb98948a55d349badc110bb7a59b1eae1a9f7daa0862bc4f127d1d",
             "Date": "Tuesday 3rd of November 2026 06:20:18 PM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090551682,
+      "video_info": {
+        "title": "UEFA Youth League 2026-27",
+        "shortDescription": "Atletico de Madrid and FC Bayern Munich meet in Matchday 4 of the UEFA Youth League 2026-27 as two of Europe's most successful youth talents go head-to-head. With valuable points at stake in the league phase, both sides will be eager to deliver a strong performance. Watch the thrilling encounter live, only on Sony LIV.",
+        "longDescription": "Atletico de Madrid and FC Bayern Munich meet in Matchday 4 of the UEFA Youth League 2026-27 as two of Europe's most successful youth talents go head-to-head. With valuable points at stake in the league phase, both sides will be eager to deliver a strong performance. Watch the thrilling encounter live, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Atletico de Madrid vs FC Bayern Munich - 3 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/crsp3JRrRlSvHEUFEn4FPA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "03 Nov 2026, 07:55 PM",
+        "contractEndDate": "04 Nov 2026, 12:55 AM",
+        "originalAirDate": "03 Nov 2026, 08:25 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890215456359_UYL26_MD4_Atletico_vs_Bayern_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890253126359_UYL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890253126359_UYL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793716213518,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/footlive0311/ENG/hdntl=exp=1793802614~acl=%2f*~id=9c9666e5374103b003e347d62f53ca1f-1793710200516~data=hdntl,2120301,footlive0311,ENG~hmac=07b85f5845afc464432d8a92191408afebe7fd5d06d885cfc1f9f25d861eb698/master_500.m3u8?aka_me_session_id=AAAAAAAAAAB2QetqAAAAAJISpqB8g4vefy9uVTIPUuRFRZ61AyT%2fM%2f5+B0N+UNtjLI7aI%2fbQkrnI1L5P09Imc9f9A759EUNg&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/footlive0311/ENG/hdntl=exp=1793802614~acl=%2f*~id=9c9666e5374103b003e347d62f53ca1f-1793710200516~data=hdntl,2120301,footlive0311,ENG~hmac=07b85f5845afc464432d8a92191408afebe7fd5d06d885cfc1f9f25d861eb698/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAB2QetqAAAAAJISpqB8g4vefy9uVTIPUuRFRZ61AyT%2fM%2f5+B0N+UNtjLI7aI%2fbQkrnI1L5P09Imc9f9A759EUNg&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/footlive0311/ENG/hdntl=exp=1793802614~acl=%2f*~id=9c9666e5374103b003e347d62f53ca1f-1793710200516~data=hdntl,2120301,footlive0311,ENG~hmac=07b85f5845afc464432d8a92191408afebe7fd5d06d885cfc1f9f25d861eb698/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAB2QetqAAAAAJISpqB8g4vefy9uVTIPUuRFRZ61AyT%2fM%2f5+B0N+UNtjLI7aI%2fbQkrnI1L5P09Imc9f9A759EUNg&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/footlive0311/ENG/hdntl=exp=1793802614~acl=%2f*~id=9c9666e5374103b003e347d62f53ca1f-1793710200516~data=hdntl,2120301,footlive0311,ENG~hmac=07b85f5845afc464432d8a92191408afebe7fd5d06d885cfc1f9f25d861eb698/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAB2QetqAAAAAJISpqB8g4vefy9uVTIPUuRFRZ61AyT%2fM%2f5+B0N+UNtjLI7aI%2fbQkrnI1L5P09Imc9f9A759EUNg&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/footlive0311/ENG/hdntl=exp=1793802614~acl=%2f*~id=9c9666e5374103b003e347d62f53ca1f-1793710200516~data=hdntl,2120301,footlive0311,ENG~hmac=07b85f5845afc464432d8a92191408afebe7fd5d06d885cfc1f9f25d861eb698/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAB2QetqAAAAAJISpqB8g4vefy9uVTIPUuRFRZ61AyT%2fM%2f5+B0N+UNtjLI7aI%2fbQkrnI1L5P09Imc9f9A759EUNg&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/footlive0311/ENG/hdntl=exp=1793802614~acl=%2f*~id=9c9666e5374103b003e347d62f53ca1f-1793710200516~data=hdntl,2120301,footlive0311,ENG~hmac=07b85f5845afc464432d8a92191408afebe7fd5d06d885cfc1f9f25d861eb698/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAB2QetqAAAAAJISpqB8g4vefy9uVTIPUuRFRZ61AyT%2fM%2f5+B0N+UNtjLI7aI%2fbQkrnI1L5P09Imc9f9A759EUNg&aka_media_format_type=hls",
+            "Date": "Tuesday 3rd of November 2026 08:00:14 PM"
           }
         }
       ]
