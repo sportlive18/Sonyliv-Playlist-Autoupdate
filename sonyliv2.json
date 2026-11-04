@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "04-11-2026 23:00",
+  "last_updated": "04-11-2026 23:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -480,6 +480,64 @@
     }
   ],
   "upcoming": [
+    {
+      "contentId": 1090552650,
+      "video_info": {
+        "title": "Upcoming - ACC Men's Asia Cup Rising Stars 2026",
+        "shortDescription": "Watch all the action from the ACC Men's Asia Cup Rising Stars 2026, exclusively on Sony LIV.",
+        "longDescription": "Watch all the action from the ACC Men's Asia Cup Rising Stars 2026, exclusively on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/DASH/656d609e1da54ca0aa36ced7bd77e72a/1793807796/baseline-std-v4/ACC_RISING_STAR_10_SEC_HOR_WOBUG_DATED_APP_04112026_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "04 Nov 2026, 09:00 PM",
+        "contractEndDate": "19 Nov 2026, 11:00 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028318/1793812415099811_ACC_U19_promo_landscape_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028318/1793812415099811_ACC_U19_promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028318/1793812415099811_ACC_U19_promo_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
     {
       "contentId": 1090552149,
       "video_info": {
