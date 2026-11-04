@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "04-11-2026 06:00",
+  "last_updated": "04-11-2026 06:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -153,7 +153,7 @@
             "Device_Type": "SONY_PRO_MAX",
             "message": "success",
             "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://liveakmt-mgm.slivcdn.com/out/v1/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb9e7/cricodi_0311-hin-1-ts-hls/std-lrh-800300010.m3u8",
             "WIDEVINE": null,
             "STREAMING_TYPE": true,
             "audioLanguages": [
@@ -182,7 +182,7 @@
             "Maximum_Video_Quality": "SDR",
             "Maximum_Resolution": "FULL_HD",
             "trailer_url": "",
-            "systemTime": 1793752217402,
+            "systemTime": 1793753415887,
             "additionalDataJson": {
               "adServer": "GAM",
               "ad_stack": "MT-SSB",
@@ -200,8 +200,8 @@
             },
             "Status_code": 200,
             "content_type": "application/json; charset=utf-8",
-            "auto_streams": "",
-            "Date": "Wednesday 4th of November 2026 06:00:17 AM"
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb9e7/cricodi_0311-hin-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793796616~acl=/*~hmac=cefa27d18021c296ad00eaeb0cee23b1fd4e52faedd201833ac3dd866c3a946c\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb9e7/cricodi_0311-hin-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793796616~acl=/*~hmac=cefa27d18021c296ad00eaeb0cee23b1fd4e52faedd201833ac3dd866c3a946c\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb9e7/cricodi_0311-hin-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793796616~acl=/*~hmac=cefa27d18021c296ad00eaeb0cee23b1fd4e52faedd201833ac3dd866c3a946c\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb9e7/cricodi_0311-hin-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793796616~acl=/*~hmac=cefa27d18021c296ad00eaeb0cee23b1fd4e52faedd201833ac3dd866c3a946c\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb9e7/cricodi_0311-hin-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793796616~acl=/*~hmac=cefa27d18021c296ad00eaeb0cee23b1fd4e52faedd201833ac3dd866c3a946c",
+            "Date": "Wednesday 4th of November 2026 06:20:16 AM"
           }
         },
         {
@@ -382,64 +382,6 @@
     }
   ],
   "upcoming": [
-    {
-      "contentId": 1090551225,
-      "video_info": {
-        "title": "Upcoming - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/6bfd78fccc9e4f008ff2a5778cf770cb/1793179988/baseline-std-v4/NZ_VS_IND_ROKO_FT_HONEY_SINGH_PROMO_50_SEC_HOR_WOBUG_DATED_APP_28102026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "28 Oct 2026, 03:00 PM",
-        "contractEndDate": "04 Nov 2026, 06:05 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327132052043_NZvsIND_1st_ODI_today_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327130277143_NZvsIND_1st_ODI_today_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028148/1793687222000393_IND_vs_NZ_2026_Match_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028075/1793613667759716_IND_vs_NZ_2026_match_Masthead_logo_1stODI_TODAY.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327130277143_NZvsIND_1st_ODI_today_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
     {
       "contentId": 1090552187,
       "video_info": {
@@ -731,180 +673,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028158/1793710937367937_Asia_cup_Ind_vs_nepal_landscape_thumbnail.png"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090551224,
-      "video_info": {
-        "title": "Upcoming - 1st ODI - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/42b530660aa844128a60ed7f7e1eba33/1793264651/baseline-std-v4/IND_NZ_ROKO_MORNING_35_SEC_HOR_WOBUG_DATED_APP_28102026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "28 Oct 2026, 03:00 PM",
-        "contractEndDate": "04 Nov 2026, 06:05 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027594/1793180749542701_ind_vs_nz_roko_and_men_in_blue_action_landscape_thumbnail.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027594/1793180749542701_ind_vs_nz_roko_and_men_in_blue_action_landscape_thumbnail.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027594/1793180749542701_ind_vs_nz_roko_and_men_in_blue_action_landscape_thumbnail.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090551109,
-      "video_info": {
-        "title": "Upcoming - 1st ODI - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/4f23f447bbf541d597805a837d426a56/1793179989/baseline-std-v4/SANTNER_VIRAT_1ST_ODI_PROMO_50SEC_HOR_WOBUG_DATED_APP_28102026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "27 Oct 2026, 03:45 PM",
-        "contractEndDate": "04 Nov 2026, 06:05 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027494/1793097334885128_INDvsNZ_kohli_pormo_landscape_thumbnail.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027494/1793097334885128_INDvsNZ_kohli_pormo_landscape_thumbnail.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027494/1793097334885128_INDvsNZ_kohli_pormo_landscape_thumbnail.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090551031,
-      "video_info": {
-        "title": "Upcoming - 1st ODI - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/90f85d87eccd40939ac663263a5d0b28/1793179988/baseline-std-v4/SANTNER_RAHANE_1ST_ODI_PROMO_55SEC_HOR_WOBUG_DATED_APP_28102026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "27 Oct 2026, 12:45 PM",
-        "contractEndDate": "04 Nov 2026, 06:05 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027459/1793087807073734_INDvsNZ_rahane_promo_landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027459/1793087807073734_INDvsNZ_rahane_promo_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027459/1793087807073734_INDvsNZ_rahane_promo_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
