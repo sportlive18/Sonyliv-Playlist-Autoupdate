@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "05-11-2026 14:40",
+  "last_updated": "06-11-2026 11:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -19,19 +19,381 @@
   },
   "data": [
     {
-      "contentId": 1090552565,
+      "contentId": 1090552761,
       "video_info": {
         "title": "ACC Men's U19 Asia Cup 2026",
-        "shortDescription": "Bangladesh take on Afghanistan in the ACC Men's U19 Asia Cup 2026 as both sides look to strengthen their position in the tournament and battle for crucial points. Catch all the action LIVE, only on Sony LIV.",
-        "longDescription": "Bangladesh take on Afghanistan in the ACC Men's U19 Asia Cup 2026 as both sides look to strengthen their position in the tournament and battle for crucial points. Catch all the action LIVE, only on Sony LIV.",
+        "shortDescription": "India take on Nepal in the ACC Men's U19 Asia Cup 2026 as they look to continue their strong run and begin their campaign on a winning note. Nepal will aim to put up a strong challenge and make their mark in the tournament. Watch all the action LIVE, only on Sony LIV.",
+        "longDescription": "India take on Nepal in the ACC Men's U19 Asia Cup 2026 as they look to continue their strong run and begin their campaign on a winning note. Nepal will aim to put up a strong challenge and make their mark in the tournament. Watch all the action LIVE, only on Sony LIV.",
         "genres": [
           "Cricket"
         ],
-        "episodeTitle": "Bangladesh vs Afghanistan - 5 Nov 2026"
+        "episodeTitle": "India vs Nepal - 6 Nov 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/hjQCi_olTlOECIhRdlIpvA/master.m3u8",
+        "dai_asset_key": "unavailable",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
+          },
+          {
+            "lang_code": "KAN",
+            "lang_label": "Kannada"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL,KAN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_SD",
+          "videoType": "SD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "06 Nov 2026, 10:00 AM",
+        "contractEndDate": "06 Nov 2026, 11:00 PM",
+        "originalAirDate": "06 Nov 2026, 10:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028330/179382459202993_ACC_MensU19_India_vs_Nepal_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028430/1793919070990212_ACC_U19_IND_vs_Nepal_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028388/1793874976379995_MENS_ASIA_CUP_U19_2026_Match_Masthead_logo_India_vs_Nepal_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc77b/cricodi_0611-eng-1-ts-hls/std-lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793941818738,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc77b/cricodi_0611-eng-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793985022~acl=/*~hmac=5d52b7dffcb844e3f88c6c7be3181547b1e4bfb7b954792657311112da0433ef\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc77b/cricodi_0611-eng-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793985022~acl=/*~hmac=5d52b7dffcb844e3f88c6c7be3181547b1e4bfb7b954792657311112da0433ef\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc77b/cricodi_0611-eng-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793985022~acl=/*~hmac=5d52b7dffcb844e3f88c6c7be3181547b1e4bfb7b954792657311112da0433ef\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc77b/cricodi_0611-eng-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793985022~acl=/*~hmac=5d52b7dffcb844e3f88c6c7be3181547b1e4bfb7b954792657311112da0433ef\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc77b/cricodi_0611-eng-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793985022~acl=/*~hmac=5d52b7dffcb844e3f88c6c7be3181547b1e4bfb7b954792657311112da0433ef",
+            "Date": "Friday 6th of November 2026 10:40:21 AM"
+          }
+        },
+        {
+          "language": "Hindi",
+          "lang_code": "HIN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://liveakmt-mgm.slivcdn.com/out/v1/2119921/cricodi_0611/HIN/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793943013887,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "",
+            "Date": "Friday 6th of November 2026 11:00:13 AM"
+          }
+        },
+        {
+          "language": "Tamil",
+          "lang_code": "TAM",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_0611-tam-1-ts-hls/std-lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793941823725,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_0611-tam-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793985024~acl=/*~hmac=dec4353194a91af8eb94e687465d97137812f05de31670b12313b0da47e40209\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_0611-tam-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793985024~acl=/*~hmac=dec4353194a91af8eb94e687465d97137812f05de31670b12313b0da47e40209\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_0611-tam-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793985024~acl=/*~hmac=dec4353194a91af8eb94e687465d97137812f05de31670b12313b0da47e40209\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_0611-tam-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793985024~acl=/*~hmac=dec4353194a91af8eb94e687465d97137812f05de31670b12313b0da47e40209\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_0611-tam-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793985024~acl=/*~hmac=dec4353194a91af8eb94e687465d97137812f05de31670b12313b0da47e40209",
+            "Date": "Friday 6th of November 2026 10:40:23 AM"
+          }
+        },
+        {
+          "language": "Telugu",
+          "lang_code": "TEL",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://liveakmt-mgm.slivcdn.com/out/v1/2119941/cricodi_0611/TEL/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793943014762,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "",
+            "Date": "Friday 6th of November 2026 11:00:14 AM"
+          }
+        },
+        {
+          "language": "Kannada",
+          "lang_code": "KAN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_0611-kan-1-ts-hls/std-lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793943015671,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_0611-kan-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793986215~acl=/*~hmac=f543ed43aaf954670b89b227c5108f66002d3dd3ed124b553ca7d2518367395d\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_0611-kan-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793986215~acl=/*~hmac=f543ed43aaf954670b89b227c5108f66002d3dd3ed124b553ca7d2518367395d\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_0611-kan-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793986215~acl=/*~hmac=f543ed43aaf954670b89b227c5108f66002d3dd3ed124b553ca7d2518367395d\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_0611-kan-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793986215~acl=/*~hmac=f543ed43aaf954670b89b227c5108f66002d3dd3ed124b553ca7d2518367395d\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_0611-kan-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793986215~acl=/*~hmac=f543ed43aaf954670b89b227c5108f66002d3dd3ed124b553ca7d2518367395d",
+            "Date": "Friday 6th of November 2026 11:00:15 AM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090552759,
+      "video_info": {
+        "title": "ACC Men's U19 Asia Cup 2026",
+        "shortDescription": "Pakistan face UAE in the ACC Men's U19 Asia Cup 2026, with both teams eager to gain an advantage and strengthen their position in the tournament. Catch all the action LIVE, only on Sony LIV.",
+        "longDescription": "Pakistan face UAE in the ACC Men's U19 Asia Cup 2026, with both teams eager to gain an advantage and strengthen their position in the tournament. Catch all the action LIVE, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Pakistan vs UAE - 6 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8",
         "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
@@ -57,19 +419,19 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "05 Nov 2026, 10:00 AM",
-        "contractEndDate": "05 Nov 2026, 11:00 PM",
-        "originalAirDate": "05 Nov 2026, 10:30 AM"
+        "contractStartDate": "06 Nov 2026, 10:00 AM",
+        "contractEndDate": "06 Nov 2026, 11:00 PM",
+        "originalAirDate": "06 Nov 2026, 10:30 AM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028171/1793740905509295_ACC_MensU19_Bangladesh_vs_Afghanistan_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028172/1793741865874543_ACC_MensU19_Pakistan_vs_UAE_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028380/179387004341970_ACC_MensU19_Pakistan_vs_UAE_live_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028242/1793781442630376_MENS_ASIA_CUP_U19_2026_Match_masthead_mobile_v2_984x1182_BANG_VS_AFG.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028242/1793781442204376_MENS_ASIA_CUP_U19_2026_Match_Masthead_logo_BANG_VS_AFG_LIVE.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028388/1793874976629995_MENS_ASIA_CUP_U19_2026_Match_masthead_mobile_v2_984x1182_PAK_VS_UAE.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028388/1793874976415995_MENS_ASIA_CUP_U19_2026_Match_Masthead_logo_Pakistan_vs_UAE_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028380/179387004341970_ACC_MensU19_Pakistan_vs_UAE_live_landscape_thumb.jpg"
       },
       "multiple_audio_links": [
         {
@@ -79,7 +441,7 @@
             "Device_Type": "SONY_PRO_MAX",
             "message": "success",
             "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8",
             "WIDEVINE": null,
             "STREAMING_TYPE": true,
             "audioLanguages": [
@@ -92,7 +454,7 @@
             "Maximum_Video_Quality": "SDR",
             "Maximum_Resolution": "FULL_HD",
             "trailer_url": "",
-            "systemTime": 1793853017756,
+            "systemTime": 1793941829179,
             "additionalDataJson": {
               "adServer": "GAM",
               "ad_stack": "MT-SSB",
@@ -110,106 +472,8 @@
             },
             "Status_code": 200,
             "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037140/criclive0511/ENG/hdntl=exp=1793939418~acl=%2f*~id=acc40c3d9c7fa5df391bf49c5145ddaa-1793825404209~data=hdntl,2037140,criclive0511,ENG~hmac=391a432c3c7abc1839f823bf412a0c7997a02075584c2f72867ea0329fe89c2f/master_500.m3u8?aka_me_session_id=AAAAAAAAAADaV+1qAAAAACPle4Tdhj0qA6jky9ztV9P3Sqj+Zdygv+JMqbeWBowYnTgLx%2f6I54XSO5zGM+oFAbY+oDRMfmkZ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037140/criclive0511/ENG/hdntl=exp=1793939418~acl=%2f*~id=acc40c3d9c7fa5df391bf49c5145ddaa-1793825404209~data=hdntl,2037140,criclive0511,ENG~hmac=391a432c3c7abc1839f823bf412a0c7997a02075584c2f72867ea0329fe89c2f/master_1000.m3u8?aka_me_session_id=AAAAAAAAAADaV+1qAAAAACPle4Tdhj0qA6jky9ztV9P3Sqj+Zdygv+JMqbeWBowYnTgLx%2f6I54XSO5zGM+oFAbY+oDRMfmkZ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037140/criclive0511/ENG/hdntl=exp=1793939418~acl=%2f*~id=acc40c3d9c7fa5df391bf49c5145ddaa-1793825404209~data=hdntl,2037140,criclive0511,ENG~hmac=391a432c3c7abc1839f823bf412a0c7997a02075584c2f72867ea0329fe89c2f/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADaV+1qAAAAACPle4Tdhj0qA6jky9ztV9P3Sqj+Zdygv+JMqbeWBowYnTgLx%2f6I54XSO5zGM+oFAbY+oDRMfmkZ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037140/criclive0511/ENG/hdntl=exp=1793939418~acl=%2f*~id=acc40c3d9c7fa5df391bf49c5145ddaa-1793825404209~data=hdntl,2037140,criclive0511,ENG~hmac=391a432c3c7abc1839f823bf412a0c7997a02075584c2f72867ea0329fe89c2f/master_3800.m3u8?aka_me_session_id=AAAAAAAAAADaV+1qAAAAACPle4Tdhj0qA6jky9ztV9P3Sqj+Zdygv+JMqbeWBowYnTgLx%2f6I54XSO5zGM+oFAbY+oDRMfmkZ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037140/criclive0511/ENG/hdntl=exp=1793939418~acl=%2f*~id=acc40c3d9c7fa5df391bf49c5145ddaa-1793825404209~data=hdntl,2037140,criclive0511,ENG~hmac=391a432c3c7abc1839f823bf412a0c7997a02075584c2f72867ea0329fe89c2f/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADaV+1qAAAAACPle4Tdhj0qA6jky9ztV9P3Sqj+Zdygv+JMqbeWBowYnTgLx%2f6I54XSO5zGM+oFAbY+oDRMfmkZ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037140/criclive0511/ENG/hdntl=exp=1793939418~acl=%2f*~id=acc40c3d9c7fa5df391bf49c5145ddaa-1793825404209~data=hdntl,2037140,criclive0511,ENG~hmac=391a432c3c7abc1839f823bf412a0c7997a02075584c2f72867ea0329fe89c2f/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADaV+1qAAAAACPle4Tdhj0qA6jky9ztV9P3Sqj+Zdygv+JMqbeWBowYnTgLx%2f6I54XSO5zGM+oFAbY+oDRMfmkZ&aka_media_format_type=hls",
-            "Date": "Thursday 5th of November 2026 10:00:17 AM"
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090552580,
-      "video_info": {
-        "title": "DP World Tour",
-        "shortDescription": "Watch all the action from DP World Abu Dhabi HSBC Championship, LIVE on Sony LIV.",
-        "longDescription": "Watch all the action from DP World Abu Dhabi HSBC Championship, LIVE on Sony LIV.",
-        "genres": [
-          "Golf"
-        ],
-        "episodeTitle": "Abu Dhabi HSBC Championship - Day 1 - 5 Nov 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/r9AuvWOlQiutSds4aHM1uA/master.m3u8",
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "05 Nov 2026, 12:00 PM",
-        "contractEndDate": "05 Nov 2026, 11:00 PM",
-        "originalAirDate": "05 Nov 2026, 12:30 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888587867682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": [
-        {
-          "language": "English",
-          "lang_code": "ENG",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1793860220349,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/hdntl=exp=1793946620~acl=%2f*~id=31156481524942200744202339053268~data=hdntl,2037141,Golf_Abu0511,ENG~hmac=3dd8ea7014f5d02bd65a08d2f944cbdc35d84346a83a770dc29cd0e876e784c6/master_500.m3u8?aka_me_session_id=AAAAAAAAAAD8c+1qAAAAADr34+MmWoijZdfcZRXYw7CkXwkzieO7FpSxZ903Ml5fi0xQKmhl1KODfynu5gYGmPqKJ+IFwrWH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/hdntl=exp=1793946620~acl=%2f*~id=31156481524942200744202339053268~data=hdntl,2037141,Golf_Abu0511,ENG~hmac=3dd8ea7014f5d02bd65a08d2f944cbdc35d84346a83a770dc29cd0e876e784c6/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAD8c+1qAAAAADr34+MmWoijZdfcZRXYw7CkXwkzieO7FpSxZ903Ml5fi0xQKmhl1KODfynu5gYGmPqKJ+IFwrWH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/hdntl=exp=1793946620~acl=%2f*~id=31156481524942200744202339053268~data=hdntl,2037141,Golf_Abu0511,ENG~hmac=3dd8ea7014f5d02bd65a08d2f944cbdc35d84346a83a770dc29cd0e876e784c6/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAD8c+1qAAAAADr34+MmWoijZdfcZRXYw7CkXwkzieO7FpSxZ903Ml5fi0xQKmhl1KODfynu5gYGmPqKJ+IFwrWH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/hdntl=exp=1793946620~acl=%2f*~id=31156481524942200744202339053268~data=hdntl,2037141,Golf_Abu0511,ENG~hmac=3dd8ea7014f5d02bd65a08d2f944cbdc35d84346a83a770dc29cd0e876e784c6/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAD8c+1qAAAAADr34+MmWoijZdfcZRXYw7CkXwkzieO7FpSxZ903Ml5fi0xQKmhl1KODfynu5gYGmPqKJ+IFwrWH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/hdntl=exp=1793946620~acl=%2f*~id=31156481524942200744202339053268~data=hdntl,2037141,Golf_Abu0511,ENG~hmac=3dd8ea7014f5d02bd65a08d2f944cbdc35d84346a83a770dc29cd0e876e784c6/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAD8c+1qAAAAADr34+MmWoijZdfcZRXYw7CkXwkzieO7FpSxZ903Ml5fi0xQKmhl1KODfynu5gYGmPqKJ+IFwrWH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/hdntl=exp=1793946620~acl=%2f*~id=31156481524942200744202339053268~data=hdntl,2037141,Golf_Abu0511,ENG~hmac=3dd8ea7014f5d02bd65a08d2f944cbdc35d84346a83a770dc29cd0e876e784c6/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAD8c+1qAAAAADr34+MmWoijZdfcZRXYw7CkXwkzieO7FpSxZ903Ml5fi0xQKmhl1KODfynu5gYGmPqKJ+IFwrWH&aka_media_format_type=hls",
-            "Date": "Thursday 5th of November 2026 12:00:20 PM"
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/criclive0611/ENG/hdntl=exp=1794028229~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2037139,criclive0611,ENG,none~hmac=d865d7a9f099c44bd0b58a0e415405f045f716db1a74e1296436604db47ccc2f/master_500.m3u8?aka_me_session_id=AAAAAAAAAADFsu5qAAAAAGq0i2U0j2WmnX6ZbWg%2fAya6gAwq%2fJSMiEsbKwd8QcgVtP7gwnlFX%2fUgzrUApaRbiuPtTzEu%2fSz0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/criclive0611/ENG/hdntl=exp=1794028229~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2037139,criclive0611,ENG,none~hmac=d865d7a9f099c44bd0b58a0e415405f045f716db1a74e1296436604db47ccc2f/master_1000.m3u8?aka_me_session_id=AAAAAAAAAADFsu5qAAAAAGq0i2U0j2WmnX6ZbWg%2fAya6gAwq%2fJSMiEsbKwd8QcgVtP7gwnlFX%2fUgzrUApaRbiuPtTzEu%2fSz0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/criclive0611/ENG/hdntl=exp=1794028229~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2037139,criclive0611,ENG,none~hmac=d865d7a9f099c44bd0b58a0e415405f045f716db1a74e1296436604db47ccc2f/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADFsu5qAAAAAGq0i2U0j2WmnX6ZbWg%2fAya6gAwq%2fJSMiEsbKwd8QcgVtP7gwnlFX%2fUgzrUApaRbiuPtTzEu%2fSz0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/criclive0611/ENG/hdntl=exp=1794028229~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2037139,criclive0611,ENG,none~hmac=d865d7a9f099c44bd0b58a0e415405f045f716db1a74e1296436604db47ccc2f/master_3800.m3u8?aka_me_session_id=AAAAAAAAAADFsu5qAAAAAGq0i2U0j2WmnX6ZbWg%2fAya6gAwq%2fJSMiEsbKwd8QcgVtP7gwnlFX%2fUgzrUApaRbiuPtTzEu%2fSz0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/criclive0611/ENG/hdntl=exp=1794028229~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2037139,criclive0611,ENG,none~hmac=d865d7a9f099c44bd0b58a0e415405f045f716db1a74e1296436604db47ccc2f/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADFsu5qAAAAAGq0i2U0j2WmnX6ZbWg%2fAya6gAwq%2fJSMiEsbKwd8QcgVtP7gwnlFX%2fUgzrUApaRbiuPtTzEu%2fSz0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/criclive0611/ENG/hdntl=exp=1794028229~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2037139,criclive0611,ENG,none~hmac=d865d7a9f099c44bd0b58a0e415405f045f716db1a74e1296436604db47ccc2f/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADFsu5qAAAAAGq0i2U0j2WmnX6ZbWg%2fAya6gAwq%2fJSMiEsbKwd8QcgVtP7gwnlFX%2fUgzrUApaRbiuPtTzEu%2fSz0&aka_media_format_type=hls",
+            "Date": "Friday 6th of November 2026 10:40:29 AM"
           }
         }
       ]
@@ -271,64 +535,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028318/1793812415099811_ACC_U19_promo_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090552149,
-      "video_info": {
-        "title": "Upcoming - Matchday 4 - UEFA Europa League 2026-27",
-        "shortDescription": "Watch all the action from the UEFA Europa League 2026/27 live, only on Sony LIV.",
-        "longDescription": "Watch all the action from the UEFA Europa League 2026/27 live, only on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/addf9f4b81824680a3d1272d7cf153c4/1793695248/baseline-std-v4/UEL_MD4_30_SEC_HOR_WOBUG_DATED_APP_03112026_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "03 Nov 2026, 02:00 PM",
-        "contractEndDate": "06 Nov 2026, 01:15 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028297/1793795459877833_UEL25_26_AC-Milan-vs-Ferencvarosi-TC_promo_Tonight_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028297/1793796343913833_UEL25_26_AC-Milan-vs-Ferencvarosi-TC_promo_Tonight_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028297/1793796343913833_UEL25_26_AC-Milan-vs-Ferencvarosi-TC_promo_Tonight_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
@@ -449,68 +655,6 @@
       "multiple_audio_links": []
     },
     {
-      "contentId": 1090552324,
-      "video_info": {
-        "title": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026",
-        "shortDescription": "Watch all the action from the ACC Men's U19 Asia Cup 2026, exclusively on Sony LIV.",
-        "longDescription": "Watch all the action from the ACC Men's U19 Asia Cup 2026, exclusively on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          },
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG,HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/438b79d2800f4667a537cebf58aa13fd/1793710713/baseline-std-v4/U19_ASIA_CUP_IND_VS_NEPAL_20_SEC_HOR_WOBUG_DATED__APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "03 Nov 2026, 06:00 PM",
-        "contractEndDate": "06 Nov 2026, 10:00 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773944501876_Asia_Cup_U19_IND-vs-NEP_Promo_DDT_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773960156876_Asia_Cup_U19_IND-vs-NEP_Promo_DDT_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773960156876_Asia_Cup_U19_IND-vs-NEP_Promo_DDT_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
       "contentId": 1090547508,
       "video_info": {
         "title": "Upcoming - MG Indian Super League 2026-27",
@@ -557,14 +701,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793126740398973_ISL_Mohun_Bagan_SG_vs_Odisha_FC_promo_portrait_thumb_tonight.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793126841250973_ISL_Mohun_Bagan_SG_vs_Odisha_FC_promo_landscape_thumb_tonight.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028378/1793866045371860_ISL26_FC-GOA-vs-Bengaluru-FC_promo_Tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028378/1793866215012860_ISL26_FC-GOA-vs-Bengaluru-FC_promo_Tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028275/1793791853863500_Indian_Super_League_2026_Match_masthead_mobile_v2_984x1182_Mohun_Bagan_Super_Giant_vs_OFC.jpg",
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793126841250973_ISL_Mohun_Bagan_SG_vs_Odisha_FC_promo_landscape_thumb_tonight.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028378/1793866215012860_ISL26_FC-GOA-vs-Bengaluru-FC_promo_Tonight_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
