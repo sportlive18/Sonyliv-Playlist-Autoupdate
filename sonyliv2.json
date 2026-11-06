@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "06-11-2026 11:20",
+  "last_updated": "06-11-2026 15:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,368 +18,6 @@
     "USAGE_GUIDE": []
   },
   "data": [
-    {
-      "contentId": 1090552761,
-      "video_info": {
-        "title": "ACC Men's U19 Asia Cup 2026",
-        "shortDescription": "India take on Nepal in the ACC Men's U19 Asia Cup 2026 as they look to continue their strong run and begin their campaign on a winning note. Nepal will aim to put up a strong challenge and make their mark in the tournament. Watch all the action LIVE, only on Sony LIV.",
-        "longDescription": "India take on Nepal in the ACC Men's U19 Asia Cup 2026 as they look to continue their strong run and begin their campaign on a winning note. Nepal will aim to put up a strong challenge and make their mark in the tournament. Watch all the action LIVE, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": "India vs Nepal - 6 Nov 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "unavailable",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          },
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          },
-          {
-            "lang_code": "TAM",
-            "lang_label": "Tamil"
-          },
-          {
-            "lang_code": "TEL",
-            "lang_label": "Telugu"
-          },
-          {
-            "lang_code": "KAN",
-            "lang_label": "Kannada"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL,KAN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_SD",
-          "videoType": "SD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "06 Nov 2026, 10:00 AM",
-        "contractEndDate": "06 Nov 2026, 11:00 PM",
-        "originalAirDate": "06 Nov 2026, 10:30 AM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028330/179382459202993_ACC_MensU19_India_vs_Nepal_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028430/1793919070990212_ACC_U19_IND_vs_Nepal_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028388/1793874976379995_MENS_ASIA_CUP_U19_2026_Match_Masthead_logo_India_vs_Nepal_LIVE.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": [
-        {
-          "language": "English",
-          "lang_code": "ENG",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc77b/cricodi_0611-eng-1-ts-hls/std-lrh-800300010.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              },
-              {
-                "audioLanguageName": "HIN",
-                "audioLanguageLabel": "Hindi"
-              },
-              {
-                "audioLanguageName": "TEL",
-                "audioLanguageLabel": "Telugu"
-              },
-              {
-                "audioLanguageName": "TAM",
-                "audioLanguageLabel": "Tamil"
-              },
-              {
-                "audioLanguageName": "KAN",
-                "audioLanguageLabel": "Kannada"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1793941818738,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc77b/cricodi_0611-eng-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793985022~acl=/*~hmac=5d52b7dffcb844e3f88c6c7be3181547b1e4bfb7b954792657311112da0433ef\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc77b/cricodi_0611-eng-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793985022~acl=/*~hmac=5d52b7dffcb844e3f88c6c7be3181547b1e4bfb7b954792657311112da0433ef\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc77b/cricodi_0611-eng-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793985022~acl=/*~hmac=5d52b7dffcb844e3f88c6c7be3181547b1e4bfb7b954792657311112da0433ef\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc77b/cricodi_0611-eng-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793985022~acl=/*~hmac=5d52b7dffcb844e3f88c6c7be3181547b1e4bfb7b954792657311112da0433ef\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc77b/cricodi_0611-eng-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793985022~acl=/*~hmac=5d52b7dffcb844e3f88c6c7be3181547b1e4bfb7b954792657311112da0433ef",
-            "Date": "Friday 6th of November 2026 10:40:21 AM"
-          }
-        },
-        {
-          "language": "Hindi",
-          "lang_code": "HIN",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://liveakmt-m-lr.slivcdn.com/out/v1/2119921/cricodi_0611/HIN/std_lrh-800300010.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              },
-              {
-                "audioLanguageName": "HIN",
-                "audioLanguageLabel": "Hindi"
-              },
-              {
-                "audioLanguageName": "TEL",
-                "audioLanguageLabel": "Telugu"
-              },
-              {
-                "audioLanguageName": "TAM",
-                "audioLanguageLabel": "Tamil"
-              },
-              {
-                "audioLanguageName": "KAN",
-                "audioLanguageLabel": "Kannada"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1793944213443,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "",
-            "Date": "Friday 6th of November 2026 11:20:13 AM"
-          }
-        },
-        {
-          "language": "Tamil",
-          "lang_code": "TAM",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_0611-tam-1-ts-hls/std-lrh-800300010.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              },
-              {
-                "audioLanguageName": "HIN",
-                "audioLanguageLabel": "Hindi"
-              },
-              {
-                "audioLanguageName": "TEL",
-                "audioLanguageLabel": "Telugu"
-              },
-              {
-                "audioLanguageName": "TAM",
-                "audioLanguageLabel": "Tamil"
-              },
-              {
-                "audioLanguageName": "KAN",
-                "audioLanguageLabel": "Kannada"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1793941823725,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_0611-tam-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793985024~acl=/*~hmac=dec4353194a91af8eb94e687465d97137812f05de31670b12313b0da47e40209\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_0611-tam-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793985024~acl=/*~hmac=dec4353194a91af8eb94e687465d97137812f05de31670b12313b0da47e40209\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_0611-tam-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793985024~acl=/*~hmac=dec4353194a91af8eb94e687465d97137812f05de31670b12313b0da47e40209\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_0611-tam-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793985024~acl=/*~hmac=dec4353194a91af8eb94e687465d97137812f05de31670b12313b0da47e40209\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_0611-tam-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793985024~acl=/*~hmac=dec4353194a91af8eb94e687465d97137812f05de31670b12313b0da47e40209",
-            "Date": "Friday 6th of November 2026 10:40:23 AM"
-          }
-        },
-        {
-          "language": "Telugu",
-          "lang_code": "TEL",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_0611-tel-1-ts-hls/std-lrh-800300010.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              },
-              {
-                "audioLanguageName": "HIN",
-                "audioLanguageLabel": "Hindi"
-              },
-              {
-                "audioLanguageName": "TEL",
-                "audioLanguageLabel": "Telugu"
-              },
-              {
-                "audioLanguageName": "TAM",
-                "audioLanguageLabel": "Tamil"
-              },
-              {
-                "audioLanguageName": "KAN",
-                "audioLanguageLabel": "Kannada"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1793944214399,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_0611-tel-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793987414~acl=/*~hmac=67b29c9e0e698a3457edae2bd341073f6d73a6aec3a3dbea4dbd5d98228c3748\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_0611-tel-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793987414~acl=/*~hmac=67b29c9e0e698a3457edae2bd341073f6d73a6aec3a3dbea4dbd5d98228c3748\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_0611-tel-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793987414~acl=/*~hmac=67b29c9e0e698a3457edae2bd341073f6d73a6aec3a3dbea4dbd5d98228c3748\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_0611-tel-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793987414~acl=/*~hmac=67b29c9e0e698a3457edae2bd341073f6d73a6aec3a3dbea4dbd5d98228c3748\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_0611-tel-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793987414~acl=/*~hmac=67b29c9e0e698a3457edae2bd341073f6d73a6aec3a3dbea4dbd5d98228c3748",
-            "Date": "Friday 6th of November 2026 11:20:14 AM"
-          }
-        },
-        {
-          "language": "Kannada",
-          "lang_code": "KAN",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_0611-kan-1-ts-hls/std-lrh-800300010.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              },
-              {
-                "audioLanguageName": "HIN",
-                "audioLanguageLabel": "Hindi"
-              },
-              {
-                "audioLanguageName": "TEL",
-                "audioLanguageLabel": "Telugu"
-              },
-              {
-                "audioLanguageName": "TAM",
-                "audioLanguageLabel": "Tamil"
-              },
-              {
-                "audioLanguageName": "KAN",
-                "audioLanguageLabel": "Kannada"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1793943015671,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_0611-kan-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1793986215~acl=/*~hmac=f543ed43aaf954670b89b227c5108f66002d3dd3ed124b553ca7d2518367395d\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_0611-kan-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1793986215~acl=/*~hmac=f543ed43aaf954670b89b227c5108f66002d3dd3ed124b553ca7d2518367395d\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_0611-kan-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1793986215~acl=/*~hmac=f543ed43aaf954670b89b227c5108f66002d3dd3ed124b553ca7d2518367395d\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_0611-kan-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1793986215~acl=/*~hmac=f543ed43aaf954670b89b227c5108f66002d3dd3ed124b553ca7d2518367395d\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_0611-kan-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1793986215~acl=/*~hmac=f543ed43aaf954670b89b227c5108f66002d3dd3ed124b553ca7d2518367395d",
-            "Date": "Friday 6th of November 2026 11:00:15 AM"
-          }
-        }
-      ]
-    },
     {
       "contentId": 1090552759,
       "video_info": {
@@ -474,6 +112,104 @@
             "content_type": "application/json; charset=utf-8",
             "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/criclive0611/ENG/hdntl=exp=1794028229~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2037139,criclive0611,ENG,none~hmac=d865d7a9f099c44bd0b58a0e415405f045f716db1a74e1296436604db47ccc2f/master_500.m3u8?aka_me_session_id=AAAAAAAAAADFsu5qAAAAAGq0i2U0j2WmnX6ZbWg%2fAya6gAwq%2fJSMiEsbKwd8QcgVtP7gwnlFX%2fUgzrUApaRbiuPtTzEu%2fSz0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/criclive0611/ENG/hdntl=exp=1794028229~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2037139,criclive0611,ENG,none~hmac=d865d7a9f099c44bd0b58a0e415405f045f716db1a74e1296436604db47ccc2f/master_1000.m3u8?aka_me_session_id=AAAAAAAAAADFsu5qAAAAAGq0i2U0j2WmnX6ZbWg%2fAya6gAwq%2fJSMiEsbKwd8QcgVtP7gwnlFX%2fUgzrUApaRbiuPtTzEu%2fSz0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/criclive0611/ENG/hdntl=exp=1794028229~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2037139,criclive0611,ENG,none~hmac=d865d7a9f099c44bd0b58a0e415405f045f716db1a74e1296436604db47ccc2f/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADFsu5qAAAAAGq0i2U0j2WmnX6ZbWg%2fAya6gAwq%2fJSMiEsbKwd8QcgVtP7gwnlFX%2fUgzrUApaRbiuPtTzEu%2fSz0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/criclive0611/ENG/hdntl=exp=1794028229~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2037139,criclive0611,ENG,none~hmac=d865d7a9f099c44bd0b58a0e415405f045f716db1a74e1296436604db47ccc2f/master_3800.m3u8?aka_me_session_id=AAAAAAAAAADFsu5qAAAAAGq0i2U0j2WmnX6ZbWg%2fAya6gAwq%2fJSMiEsbKwd8QcgVtP7gwnlFX%2fUgzrUApaRbiuPtTzEu%2fSz0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/criclive0611/ENG/hdntl=exp=1794028229~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2037139,criclive0611,ENG,none~hmac=d865d7a9f099c44bd0b58a0e415405f045f716db1a74e1296436604db47ccc2f/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADFsu5qAAAAAGq0i2U0j2WmnX6ZbWg%2fAya6gAwq%2fJSMiEsbKwd8QcgVtP7gwnlFX%2fUgzrUApaRbiuPtTzEu%2fSz0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037139/criclive0611/ENG/hdntl=exp=1794028229~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2037139,criclive0611,ENG,none~hmac=d865d7a9f099c44bd0b58a0e415405f045f716db1a74e1296436604db47ccc2f/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADFsu5qAAAAAGq0i2U0j2WmnX6ZbWg%2fAya6gAwq%2fJSMiEsbKwd8QcgVtP7gwnlFX%2fUgzrUApaRbiuPtTzEu%2fSz0&aka_media_format_type=hls",
             "Date": "Friday 6th of November 2026 10:40:29 AM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090552767,
+      "video_info": {
+        "title": "DP World Tour",
+        "shortDescription": "Watch all the action from DP World Abu Dhabi HSBC Championship Day 2, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from DP World Abu Dhabi HSBC Championship Day 2, LIVE on Sony LIV.",
+        "genres": [
+          "Golf"
+        ],
+        "episodeTitle": "Abu Dhabi HSBC Championship - Day 2 - 6 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/YEM-gkNKSaaG0VB4X6KiMg/master.m3u8",
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "06 Nov 2026, 12:00 PM",
+        "contractEndDate": "06 Nov 2026, 11:00 PM",
+        "originalAirDate": "06 Nov 2026, 12:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888595578682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day2_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888660743682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day2_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888660743682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day2_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1793946618638,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Golflive0611/ENG/hdntl=exp=1794033019~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2120299,Golflive0611,ENG,none~hmac=ef58d1f83d13de586c1884e08793fbf135d6bcf0c006e75754dfebef7eecc99f/master_500.m3u8?aka_me_session_id=AAAAAAAAAAB7xe5qAAAAAIMtCUJ5sY0YXsvvlwtliDbv0MjYO5%2f0fLKWQ3OkUj8O2GOjorx28oYdZoX75EIAtQUXfT8Th9iN&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Golflive0611/ENG/hdntl=exp=1794033019~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2120299,Golflive0611,ENG,none~hmac=ef58d1f83d13de586c1884e08793fbf135d6bcf0c006e75754dfebef7eecc99f/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAB7xe5qAAAAAIMtCUJ5sY0YXsvvlwtliDbv0MjYO5%2f0fLKWQ3OkUj8O2GOjorx28oYdZoX75EIAtQUXfT8Th9iN&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Golflive0611/ENG/hdntl=exp=1794033019~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2120299,Golflive0611,ENG,none~hmac=ef58d1f83d13de586c1884e08793fbf135d6bcf0c006e75754dfebef7eecc99f/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAB7xe5qAAAAAIMtCUJ5sY0YXsvvlwtliDbv0MjYO5%2f0fLKWQ3OkUj8O2GOjorx28oYdZoX75EIAtQUXfT8Th9iN&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Golflive0611/ENG/hdntl=exp=1794033019~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2120299,Golflive0611,ENG,none~hmac=ef58d1f83d13de586c1884e08793fbf135d6bcf0c006e75754dfebef7eecc99f/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAB7xe5qAAAAAIMtCUJ5sY0YXsvvlwtliDbv0MjYO5%2f0fLKWQ3OkUj8O2GOjorx28oYdZoX75EIAtQUXfT8Th9iN&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Golflive0611/ENG/hdntl=exp=1794033019~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2120299,Golflive0611,ENG,none~hmac=ef58d1f83d13de586c1884e08793fbf135d6bcf0c006e75754dfebef7eecc99f/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAB7xe5qAAAAAIMtCUJ5sY0YXsvvlwtliDbv0MjYO5%2f0fLKWQ3OkUj8O2GOjorx28oYdZoX75EIAtQUXfT8Th9iN&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Golflive0611/ENG/hdntl=exp=1794033019~acl=%2f*~id=34756578956526564408038620946439~data=hdntl,2120299,Golflive0611,ENG,none~hmac=ef58d1f83d13de586c1884e08793fbf135d6bcf0c006e75754dfebef7eecc99f/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAB7xe5qAAAAAIMtCUJ5sY0YXsvvlwtliDbv0MjYO5%2f0fLKWQ3OkUj8O2GOjorx28oYdZoX75EIAtQUXfT8Th9iN&aka_media_format_type=hls",
+            "Date": "Friday 6th of November 2026 12:00:19 PM"
           }
         }
       ]
