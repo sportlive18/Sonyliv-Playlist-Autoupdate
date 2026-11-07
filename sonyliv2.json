@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "07-11-2026 16:40",
+  "last_updated": "07-11-2026 18:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,6 +18,290 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090552854,
+      "video_info": {
+        "title": "MG Indian Super League 2026-27",
+        "shortDescription": "Chennaiyin FC take on East Bengal FC in an exciting ISL clash as both teams look to put their best foot forward and secure three crucial points. Catch all the live action, only on Sony LIV.",
+        "longDescription": "Chennaiyin FC take on East Bengal FC in an exciting ISL clash as both teams look to put their best foot forward and secure three crucial points. Catch all the live action, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Chennaiyin FC vs East Bengal FC - 7 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "BEN",
+            "lang_label": "Bengali"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN,TAM,BEN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "07 Nov 2026, 06:30 PM",
+        "contractEndDate": "07 Nov 2026, 11:30 PM",
+        "originalAirDate": "07 Nov 2026, 07:00 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886241118355_ISL26_ChennaiyinFC_vs_EBFC_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028275/1793791853783500_Indian_Super_League_2026_Match_masthead_mobile_v2_984x1182_Chennaiyin_FC_vs_EBFC.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028275/1793791852503500_Indian_Super_League_2026_Match_Masthead_logo_Chennaiyin_FC_vs_EBFC_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "BEN",
+                "audioLanguageLabel": "Bengali"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794057022019,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Footlive0711/ENG/hdntl=exp=1794143422~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120299,Footlive0711,ENG,none~hmac=11a1c0541973c0bba70cfd0da8a7b7bf7db137577c5beab8ea2a7bdce5b61992/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC+dPBqAAAAALJahskiIB8n6jmaCKmpPu5q2w6Tdxu%2fEw60ZBjDi0GWYDKElOgm5Vife7ciubPemXWmFU718+Aq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Footlive0711/ENG/hdntl=exp=1794143422~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120299,Footlive0711,ENG,none~hmac=11a1c0541973c0bba70cfd0da8a7b7bf7db137577c5beab8ea2a7bdce5b61992/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC+dPBqAAAAALJahskiIB8n6jmaCKmpPu5q2w6Tdxu%2fEw60ZBjDi0GWYDKElOgm5Vife7ciubPemXWmFU718+Aq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Footlive0711/ENG/hdntl=exp=1794143422~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120299,Footlive0711,ENG,none~hmac=11a1c0541973c0bba70cfd0da8a7b7bf7db137577c5beab8ea2a7bdce5b61992/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC+dPBqAAAAALJahskiIB8n6jmaCKmpPu5q2w6Tdxu%2fEw60ZBjDi0GWYDKElOgm5Vife7ciubPemXWmFU718+Aq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Footlive0711/ENG/hdntl=exp=1794143422~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120299,Footlive0711,ENG,none~hmac=11a1c0541973c0bba70cfd0da8a7b7bf7db137577c5beab8ea2a7bdce5b61992/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAC+dPBqAAAAALJahskiIB8n6jmaCKmpPu5q2w6Tdxu%2fEw60ZBjDi0GWYDKElOgm5Vife7ciubPemXWmFU718+Aq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Footlive0711/ENG/hdntl=exp=1794143422~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120299,Footlive0711,ENG,none~hmac=11a1c0541973c0bba70cfd0da8a7b7bf7db137577c5beab8ea2a7bdce5b61992/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC+dPBqAAAAALJahskiIB8n6jmaCKmpPu5q2w6Tdxu%2fEw60ZBjDi0GWYDKElOgm5Vife7ciubPemXWmFU718+Aq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/Footlive0711/ENG/hdntl=exp=1794143422~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120299,Footlive0711,ENG,none~hmac=11a1c0541973c0bba70cfd0da8a7b7bf7db137577c5beab8ea2a7bdce5b61992/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAC+dPBqAAAAALJahskiIB8n6jmaCKmpPu5q2w6Tdxu%2fEw60ZBjDi0GWYDKElOgm5Vife7ciubPemXWmFU718+Aq&aka_media_format_type=hls",
+            "Date": "Saturday 7th of November 2026 06:40:21 PM"
+          }
+        },
+        {
+          "language": "Hindi",
+          "lang_code": "HIN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "BEN",
+                "audioLanguageLabel": "Bengali"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794057023103,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120303/Footlive0711/HIN/hdntl=exp=1794143423~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120303,Footlive0711,HIN,none~hmac=818a3fe0ec5b2f37dfadaa30f4921ca0202be83e5b6f816e58803f896c959e79/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC%2fdPBqAAAAAAk9lRI7Iz8TaTzH8SmllWZlnJjB%2fwxdi5hAJQ5iCCVi61NCQnq%2ftwuHCDVBYbIH2IVs8CCKHgw3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120303/Footlive0711/HIN/hdntl=exp=1794143423~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120303,Footlive0711,HIN,none~hmac=818a3fe0ec5b2f37dfadaa30f4921ca0202be83e5b6f816e58803f896c959e79/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC%2fdPBqAAAAAAk9lRI7Iz8TaTzH8SmllWZlnJjB%2fwxdi5hAJQ5iCCVi61NCQnq%2ftwuHCDVBYbIH2IVs8CCKHgw3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120303/Footlive0711/HIN/hdntl=exp=1794143423~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120303,Footlive0711,HIN,none~hmac=818a3fe0ec5b2f37dfadaa30f4921ca0202be83e5b6f816e58803f896c959e79/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC%2fdPBqAAAAAAk9lRI7Iz8TaTzH8SmllWZlnJjB%2fwxdi5hAJQ5iCCVi61NCQnq%2ftwuHCDVBYbIH2IVs8CCKHgw3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120303/Footlive0711/HIN/hdntl=exp=1794143423~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120303,Footlive0711,HIN,none~hmac=818a3fe0ec5b2f37dfadaa30f4921ca0202be83e5b6f816e58803f896c959e79/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAC%2fdPBqAAAAAAk9lRI7Iz8TaTzH8SmllWZlnJjB%2fwxdi5hAJQ5iCCVi61NCQnq%2ftwuHCDVBYbIH2IVs8CCKHgw3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120303/Footlive0711/HIN/hdntl=exp=1794143423~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120303,Footlive0711,HIN,none~hmac=818a3fe0ec5b2f37dfadaa30f4921ca0202be83e5b6f816e58803f896c959e79/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC%2fdPBqAAAAAAk9lRI7Iz8TaTzH8SmllWZlnJjB%2fwxdi5hAJQ5iCCVi61NCQnq%2ftwuHCDVBYbIH2IVs8CCKHgw3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120303/Footlive0711/HIN/hdntl=exp=1794143423~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120303,Footlive0711,HIN,none~hmac=818a3fe0ec5b2f37dfadaa30f4921ca0202be83e5b6f816e58803f896c959e79/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAC%2fdPBqAAAAAAk9lRI7Iz8TaTzH8SmllWZlnJjB%2fwxdi5hAJQ5iCCVi61NCQnq%2ftwuHCDVBYbIH2IVs8CCKHgw3&aka_media_format_type=hls",
+            "Date": "Saturday 7th of November 2026 06:40:22 PM"
+          }
+        },
+        {
+          "language": "Tamil",
+          "lang_code": "TAM",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "BEN",
+                "audioLanguageLabel": "Bengali"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794057024270,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/Footlive0711/TAM/hdntl=exp=1794143424~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120301,Footlive0711,TAM,none~hmac=7ac8ab50afa4b3da1531cede3ebb4ace40b563049e62cd55c72d3a2867ee1e54/master_500.m3u8?aka_me_session_id=AAAAAAAAAADAdPBqAAAAAHj+aUGwlmInZ1AAUPIHfk5U8hI6%2fC4HqX6KDjSJjnvrs4Deg52rlzjqyK%2fvjCUCRJOAcnnKhOAs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/Footlive0711/TAM/hdntl=exp=1794143424~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120301,Footlive0711,TAM,none~hmac=7ac8ab50afa4b3da1531cede3ebb4ace40b563049e62cd55c72d3a2867ee1e54/master_1000.m3u8?aka_me_session_id=AAAAAAAAAADAdPBqAAAAAHj+aUGwlmInZ1AAUPIHfk5U8hI6%2fC4HqX6KDjSJjnvrs4Deg52rlzjqyK%2fvjCUCRJOAcnnKhOAs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/Footlive0711/TAM/hdntl=exp=1794143424~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120301,Footlive0711,TAM,none~hmac=7ac8ab50afa4b3da1531cede3ebb4ace40b563049e62cd55c72d3a2867ee1e54/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADAdPBqAAAAAHj+aUGwlmInZ1AAUPIHfk5U8hI6%2fC4HqX6KDjSJjnvrs4Deg52rlzjqyK%2fvjCUCRJOAcnnKhOAs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/Footlive0711/TAM/hdntl=exp=1794143424~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120301,Footlive0711,TAM,none~hmac=7ac8ab50afa4b3da1531cede3ebb4ace40b563049e62cd55c72d3a2867ee1e54/master_3800.m3u8?aka_me_session_id=AAAAAAAAAADAdPBqAAAAAHj+aUGwlmInZ1AAUPIHfk5U8hI6%2fC4HqX6KDjSJjnvrs4Deg52rlzjqyK%2fvjCUCRJOAcnnKhOAs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/Footlive0711/TAM/hdntl=exp=1794143424~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120301,Footlive0711,TAM,none~hmac=7ac8ab50afa4b3da1531cede3ebb4ace40b563049e62cd55c72d3a2867ee1e54/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADAdPBqAAAAAHj+aUGwlmInZ1AAUPIHfk5U8hI6%2fC4HqX6KDjSJjnvrs4Deg52rlzjqyK%2fvjCUCRJOAcnnKhOAs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120301/Footlive0711/TAM/hdntl=exp=1794143424~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120301,Footlive0711,TAM,none~hmac=7ac8ab50afa4b3da1531cede3ebb4ace40b563049e62cd55c72d3a2867ee1e54/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADAdPBqAAAAAHj+aUGwlmInZ1AAUPIHfk5U8hI6%2fC4HqX6KDjSJjnvrs4Deg52rlzjqyK%2fvjCUCRJOAcnnKhOAs&aka_media_format_type=hls",
+            "Date": "Saturday 7th of November 2026 06:40:23 PM"
+          }
+        },
+        {
+          "language": "Bengali",
+          "lang_code": "BEN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "BEN",
+                "audioLanguageLabel": "Bengali"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794057025427,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Footlive0711/BEN/hdntl=exp=1794143425~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120304,Footlive0711,BEN,none~hmac=fd82da2e85a0c297d851638893f1cde5ca1c8b79d8c10d83715f0476c3a099cb/master_500.m3u8?aka_me_session_id=AAAAAAAAAADBdPBqAAAAAEys7ZNjwCCdEuoqbanRhW5LJrJzf2oogxT7Y2qrcOM+s3vuFZrWxhRlXU5RDqtr1OYkBJR%2f%2ft9u&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Footlive0711/BEN/hdntl=exp=1794143425~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120304,Footlive0711,BEN,none~hmac=fd82da2e85a0c297d851638893f1cde5ca1c8b79d8c10d83715f0476c3a099cb/master_1000.m3u8?aka_me_session_id=AAAAAAAAAADBdPBqAAAAAEys7ZNjwCCdEuoqbanRhW5LJrJzf2oogxT7Y2qrcOM+s3vuFZrWxhRlXU5RDqtr1OYkBJR%2f%2ft9u&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Footlive0711/BEN/hdntl=exp=1794143425~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120304,Footlive0711,BEN,none~hmac=fd82da2e85a0c297d851638893f1cde5ca1c8b79d8c10d83715f0476c3a099cb/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADBdPBqAAAAAEys7ZNjwCCdEuoqbanRhW5LJrJzf2oogxT7Y2qrcOM+s3vuFZrWxhRlXU5RDqtr1OYkBJR%2f%2ft9u&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Footlive0711/BEN/hdntl=exp=1794143425~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120304,Footlive0711,BEN,none~hmac=fd82da2e85a0c297d851638893f1cde5ca1c8b79d8c10d83715f0476c3a099cb/master_3800.m3u8?aka_me_session_id=AAAAAAAAAADBdPBqAAAAAEys7ZNjwCCdEuoqbanRhW5LJrJzf2oogxT7Y2qrcOM+s3vuFZrWxhRlXU5RDqtr1OYkBJR%2f%2ft9u&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Footlive0711/BEN/hdntl=exp=1794143425~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120304,Footlive0711,BEN,none~hmac=fd82da2e85a0c297d851638893f1cde5ca1c8b79d8c10d83715f0476c3a099cb/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADBdPBqAAAAAEys7ZNjwCCdEuoqbanRhW5LJrJzf2oogxT7Y2qrcOM+s3vuFZrWxhRlXU5RDqtr1OYkBJR%2f%2ft9u&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/Footlive0711/BEN/hdntl=exp=1794143425~acl=%2f*~id=4adbadc6d9803a7e358c6f7fbccc793c-1794040200234~data=hdntl,2120304,Footlive0711,BEN,none~hmac=fd82da2e85a0c297d851638893f1cde5ca1c8b79d8c10d83715f0476c3a099cb/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADBdPBqAAAAAEys7ZNjwCCdEuoqbanRhW5LJrJzf2oogxT7Y2qrcOM+s3vuFZrWxhRlXU5RDqtr1OYkBJR%2f%2ft9u&aka_media_format_type=hls",
+            "Date": "Saturday 7th of November 2026 06:40:25 PM"
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090552850,
       "video_info": {
@@ -264,104 +548,6 @@
             "content_type": "application/json; charset=utf-8",
             "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/Criclive0711/ENG/hdntl=exp=1794112227~acl=%2f*~id=ab346cc02e7080d2deae4b2db3553fd9-1793998203815~data=hdntl,2120307,Criclive0711,ENG,none~hmac=10d793a65bd1d6b3b4f4cb2f30985092dc46445f0488943daf3cb7ef717309bc/master_500.m3u8?aka_me_session_id=AAAAAAAAAADj+u9qAAAAAIkM+vZMIy4cDr18zl9s4xMIfLh2jyitm7s3Pm4iZsecBKpVFBMTuIVawjjy03mFGgD0UsPtGRVr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/Criclive0711/ENG/hdntl=exp=1794112227~acl=%2f*~id=ab346cc02e7080d2deae4b2db3553fd9-1793998203815~data=hdntl,2120307,Criclive0711,ENG,none~hmac=10d793a65bd1d6b3b4f4cb2f30985092dc46445f0488943daf3cb7ef717309bc/master_1000.m3u8?aka_me_session_id=AAAAAAAAAADj+u9qAAAAAIkM+vZMIy4cDr18zl9s4xMIfLh2jyitm7s3Pm4iZsecBKpVFBMTuIVawjjy03mFGgD0UsPtGRVr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/Criclive0711/ENG/hdntl=exp=1794112227~acl=%2f*~id=ab346cc02e7080d2deae4b2db3553fd9-1793998203815~data=hdntl,2120307,Criclive0711,ENG,none~hmac=10d793a65bd1d6b3b4f4cb2f30985092dc46445f0488943daf3cb7ef717309bc/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADj+u9qAAAAAIkM+vZMIy4cDr18zl9s4xMIfLh2jyitm7s3Pm4iZsecBKpVFBMTuIVawjjy03mFGgD0UsPtGRVr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/Criclive0711/ENG/hdntl=exp=1794112227~acl=%2f*~id=ab346cc02e7080d2deae4b2db3553fd9-1793998203815~data=hdntl,2120307,Criclive0711,ENG,none~hmac=10d793a65bd1d6b3b4f4cb2f30985092dc46445f0488943daf3cb7ef717309bc/master_3800.m3u8?aka_me_session_id=AAAAAAAAAADj+u9qAAAAAIkM+vZMIy4cDr18zl9s4xMIfLh2jyitm7s3Pm4iZsecBKpVFBMTuIVawjjy03mFGgD0UsPtGRVr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/Criclive0711/ENG/hdntl=exp=1794112227~acl=%2f*~id=ab346cc02e7080d2deae4b2db3553fd9-1793998203815~data=hdntl,2120307,Criclive0711,ENG,none~hmac=10d793a65bd1d6b3b4f4cb2f30985092dc46445f0488943daf3cb7ef717309bc/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADj+u9qAAAAAIkM+vZMIy4cDr18zl9s4xMIfLh2jyitm7s3Pm4iZsecBKpVFBMTuIVawjjy03mFGgD0UsPtGRVr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/Criclive0711/ENG/hdntl=exp=1794112227~acl=%2f*~id=ab346cc02e7080d2deae4b2db3553fd9-1793998203815~data=hdntl,2120307,Criclive0711,ENG,none~hmac=10d793a65bd1d6b3b4f4cb2f30985092dc46445f0488943daf3cb7ef717309bc/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADj+u9qAAAAAIkM+vZMIy4cDr18zl9s4xMIfLh2jyitm7s3Pm4iZsecBKpVFBMTuIVawjjy03mFGgD0UsPtGRVr&aka_media_format_type=hls",
             "Date": "Saturday 7th of November 2026 10:00:27 AM"
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090552844,
-      "video_info": {
-        "title": "DP World Tour",
-        "shortDescription": "Watch all the action from DP World Abu Dhabi HSBC Championship Day 3, LIVE on Sony LIV.",
-        "longDescription": "Watch all the action from DP World Abu Dhabi HSBC Championship Day 3, LIVE on Sony LIV.",
-        "genres": [
-          "Golf"
-        ],
-        "episodeTitle": "Abu Dhabi HSBC Championship - Day 3 - 7 Nov 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/qIEsAUu4REKx9CMNoAdRtQ/master.m3u8",
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "07 Nov 2026, 12:00 PM",
-        "contractEndDate": "07 Nov 2026, 11:00 PM",
-        "originalAirDate": "07 Nov 2026, 12:30 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888603945682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": [
-        {
-          "language": "English",
-          "lang_code": "ENG",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1794033023381,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/hdntl=exp=1794119423~acl=%2f*~id=35083061525596278690298080425087~data=hdntl,2120300,Golf_Abu0711,ENG,none~hmac=30136295f10437f81c52b4e3cbb15c438707c7d39ddc6092d1977abc6250a635/master_500.m3u8?aka_me_session_id=AAAAAAAAAAD%2fFvBqAAAAAPd1LHRILXst4Gi5z+fMW6qTpku5m7T4oc3Wp5wsuiKxaoIi%2fhhSZgFkdO0puJHQ7UuRr3nTPGAK&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/hdntl=exp=1794119423~acl=%2f*~id=35083061525596278690298080425087~data=hdntl,2120300,Golf_Abu0711,ENG,none~hmac=30136295f10437f81c52b4e3cbb15c438707c7d39ddc6092d1977abc6250a635/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAD%2fFvBqAAAAAPd1LHRILXst4Gi5z+fMW6qTpku5m7T4oc3Wp5wsuiKxaoIi%2fhhSZgFkdO0puJHQ7UuRr3nTPGAK&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/hdntl=exp=1794119423~acl=%2f*~id=35083061525596278690298080425087~data=hdntl,2120300,Golf_Abu0711,ENG,none~hmac=30136295f10437f81c52b4e3cbb15c438707c7d39ddc6092d1977abc6250a635/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAD%2fFvBqAAAAAPd1LHRILXst4Gi5z+fMW6qTpku5m7T4oc3Wp5wsuiKxaoIi%2fhhSZgFkdO0puJHQ7UuRr3nTPGAK&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/hdntl=exp=1794119423~acl=%2f*~id=35083061525596278690298080425087~data=hdntl,2120300,Golf_Abu0711,ENG,none~hmac=30136295f10437f81c52b4e3cbb15c438707c7d39ddc6092d1977abc6250a635/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAD%2fFvBqAAAAAPd1LHRILXst4Gi5z+fMW6qTpku5m7T4oc3Wp5wsuiKxaoIi%2fhhSZgFkdO0puJHQ7UuRr3nTPGAK&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/hdntl=exp=1794119423~acl=%2f*~id=35083061525596278690298080425087~data=hdntl,2120300,Golf_Abu0711,ENG,none~hmac=30136295f10437f81c52b4e3cbb15c438707c7d39ddc6092d1977abc6250a635/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAD%2fFvBqAAAAAPd1LHRILXst4Gi5z+fMW6qTpku5m7T4oc3Wp5wsuiKxaoIi%2fhhSZgFkdO0puJHQ7UuRr3nTPGAK&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/hdntl=exp=1794119423~acl=%2f*~id=35083061525596278690298080425087~data=hdntl,2120300,Golf_Abu0711,ENG,none~hmac=30136295f10437f81c52b4e3cbb15c438707c7d39ddc6092d1977abc6250a635/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAD%2fFvBqAAAAAPd1LHRILXst4Gi5z+fMW6qTpku5m7T4oc3Wp5wsuiKxaoIi%2fhhSZgFkdO0puJHQ7UuRr3nTPGAK&aka_media_format_type=hls",
-            "Date": "Saturday 7th of November 2026 12:00:23 PM"
           }
         }
       ]
