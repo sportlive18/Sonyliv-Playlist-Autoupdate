@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "08-11-2026 18:40",
+  "last_updated": "08-11-2026 21:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,8 +17,166 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090542016,
+      "video_info": {
+        "title": "Family Full House With Rohit Sharma",
+        "shortDescription": "Family Full House with Rohit Sharma features Indian cricketer Rohit Sharma making his television hosting debut on Sony TV. The family-focused game show brings competing families together for fun, survey-based trivia infused with Rohit's signature laid-back wit and humor.",
+        "longDescription": "Family Full House with Rohit Sharma features Indian cricketer Rohit Sharma making his television hosting debut on Sony TV. The family-focused game show brings competing families together for fun, survey-based trivia infused with Rohit's signature laid-back wit and humor.",
+        "genres": [
+          "Comedy",
+          "Game show"
+        ],
+        "episodeTitle": "Family Full House With Rohit Sharma"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/4T5TtiUdQXOqPQMP4xXBgg/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "08 Nov 2026, 08:55 PM",
+        "contractEndDate": "08 Nov 2026, 11:19 PM",
+        "originalAirDate": "08 Nov 2026, 08:55 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024210/178982083456093_FFH_Red_Creative_Promo_portrait_thumb_simulcast.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024210/178982077723193_FFH_Red_Creative_Promo_landscape_thumb_simulcast.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028614/1794069021882336_FFH_8th_Nov_EP16_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024131/1789720680187261_Signature_Masthead_Logo_NewMovie_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024210/178982077723193_FFH_Red_Creative_Promo_landscape_thumb_simulcast.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "Hindi",
+          "lang_code": "HIN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022318/geclive0811/HIN/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794153019407,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive0811/HIN/hdntl=exp=1794239419~acl=%2f*~id=5cf08e697d2956c94ee42b41ef69361b-1794126603499~data=hdntl,2022318,geclive0811,HIN,none~hmac=64730758f77758f7b2008f2d366f471ade188e7a0b7836fc6fe22714ce6c2989/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC76%2fFqAAAAADEhDMlKm+4h48cYpMVsCeBKoYsujC2m%2ftl3t7jRDzr5VhhIW+H6ViG0wEYWn7RuI+UznOY%2fyvA4&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive0811/HIN/hdntl=exp=1794239419~acl=%2f*~id=5cf08e697d2956c94ee42b41ef69361b-1794126603499~data=hdntl,2022318,geclive0811,HIN,none~hmac=64730758f77758f7b2008f2d366f471ade188e7a0b7836fc6fe22714ce6c2989/master_700.m3u8?aka_me_session_id=AAAAAAAAAAC76%2fFqAAAAADEhDMlKm+4h48cYpMVsCeBKoYsujC2m%2ftl3t7jRDzr5VhhIW+H6ViG0wEYWn7RuI+UznOY%2fyvA4&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive0811/HIN/hdntl=exp=1794239419~acl=%2f*~id=5cf08e697d2956c94ee42b41ef69361b-1794126603499~data=hdntl,2022318,geclive0811,HIN,none~hmac=64730758f77758f7b2008f2d366f471ade188e7a0b7836fc6fe22714ce6c2989/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAC76%2fFqAAAAADEhDMlKm+4h48cYpMVsCeBKoYsujC2m%2ftl3t7jRDzr5VhhIW+H6ViG0wEYWn7RuI+UznOY%2fyvA4&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive0811/HIN/hdntl=exp=1794239419~acl=%2f*~id=5cf08e697d2956c94ee42b41ef69361b-1794126603499~data=hdntl,2022318,geclive0811,HIN,none~hmac=64730758f77758f7b2008f2d366f471ade188e7a0b7836fc6fe22714ce6c2989/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC76%2fFqAAAAADEhDMlKm+4h48cYpMVsCeBKoYsujC2m%2ftl3t7jRDzr5VhhIW+H6ViG0wEYWn7RuI+UznOY%2fyvA4&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive0811/HIN/hdntl=exp=1794239419~acl=%2f*~id=5cf08e697d2956c94ee42b41ef69361b-1794126603499~data=hdntl,2022318,geclive0811,HIN,none~hmac=64730758f77758f7b2008f2d366f471ade188e7a0b7836fc6fe22714ce6c2989/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAC76%2fFqAAAAADEhDMlKm+4h48cYpMVsCeBKoYsujC2m%2ftl3t7jRDzr5VhhIW+H6ViG0wEYWn7RuI+UznOY%2fyvA4&aka_media_format_type=hls",
+            "Date": "Sunday 8th of November 2026 09:20:19 PM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
+    {
+      "contentId": 1090553041,
+      "video_info": {
+        "title": "Upcoming - 3rd ODI - India Tour Of New Zealand 2026",
+        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/65ac844fbe7c495e8757d12c16356d77/1794113613/baseline-std-v4/IND_NZ_3RD_ODI_MATCH_SPECIFIC_20_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_08112026_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "07 Nov 2026, 10:50 AM",
+        "contractEndDate": "10 Nov 2026, 06:05 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028623/1794076724026216_NZvsIND_3rd_ODI_Promo_dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028623/1794076741340216_NZvsIND_3rd_ODI_Promo_dated_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028623/1793820349979216_NZvsIND_3rd_ODI_Promo_masthead_mobile_v2.jpg",
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028623/1794076741340216_NZvsIND_3rd_ODI_Promo_dated_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
     {
       "contentId": 1090553040,
       "video_info": {
@@ -73,8 +231,8 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028630/1794120675047618_ACC_MensU19_India_vs_UAE_dated_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028630/1794120937484618_ACC_MensU19_India_vs_UAE_dated_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028495/1793988984214205_MENS_ASIA_CUP_U19_2026_Match_masthead_mobile_v2_984x1182_India_vs_UAE.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028495/1793988983288205_MENS_ASIA_CUP_U19_2026_Match_Masthead_logo_India_vs_UAE_Dated.png",
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028630/1794120937484618_ACC_MensU19_India_vs_UAE_dated_landscape_thumb.jpg"
@@ -368,64 +526,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028373/1793864472359710_india_cricket_promo_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090553041,
-      "video_info": {
-        "title": "Upcoming - 3rd ODI - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/65ac844fbe7c495e8757d12c16356d77/1794113613/baseline-std-v4/IND_NZ_3RD_ODI_MATCH_SPECIFIC_20_SEC_HOR_WOBUG_DATED_APP_WITH_TAG_08112026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "07 Nov 2026, 10:50 AM",
-        "contractEndDate": "10 Nov 2026, 06:05 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028623/1794076724026216_NZvsIND_3rd_ODI_Promo_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028623/1794076741340216_NZvsIND_3rd_ODI_Promo_dated_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028623/1793820349979216_NZvsIND_3rd_ODI_Promo_masthead_mobile_v2.jpg",
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028623/1794076741340216_NZvsIND_3rd_ODI_Promo_dated_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     }
