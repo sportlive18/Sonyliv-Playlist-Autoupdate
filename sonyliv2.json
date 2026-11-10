@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "10-11-2026 06:20",
+  "last_updated": "10-11-2026 10:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -379,71 +379,205 @@
           }
         }
       ]
-    }
-  ],
-  "upcoming": [
+    },
     {
-      "contentId": 1090553040,
+      "contentId": 1090553324,
       "video_info": {
-        "title": "Upcoming - India vs UAE - ACC Men's U19 Asia Cup 2026",
-        "shortDescription": "Watch all the action from the ACC Men's U19 Asia Cup 2026, exclusively on Sony LIV.",
-        "longDescription": "Watch all the action from the ACC Men's U19 Asia Cup 2026, exclusively on Sony LIV.",
+        "title": "ACC Men's U19 Asia Cup 2026",
+        "shortDescription": "India take on UAE in the ACC U19 Asia Cup as the tournament action continues. Can India build momentum, or will UAE produce a memorable performance? Watch every moment of this exciting contest LIVE, only on Sony LIV.",
+        "longDescription": "India take on UAE in the ACC U19 Asia Cup as the tournament action continues. Can India build momentum, or will UAE produce a memorable performance? Watch every moment of this exciting contest LIVE, only on Sony LIV.",
         "genres": [
           "Cricket"
         ],
-        "episodeTitle": ""
+        "episodeTitle": "India vs UAE - 10 Nov 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
+        "dai_asset_key": "unavailable",
         "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
             "lang_code": "ENG",
             "lang_label": "English"
-          },
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
           }
         ],
-        "emfAttributes__audio_languages": "ENG,HIN",
+        "emfAttributes__audio_languages": "ENG",
         "platformVariants": {
           "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
+          "assetName": "VOD_SD",
+          "videoType": "SD",
           "audioLanguages": [
             {
               "audioId": 1,
-              "audioLanguageName": "HIN",
+              "audioLanguageName": "ENG",
               "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
+              "audioLanguageLabel": "English"
             }
           ],
           "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/2635f3006a86400980235a34fdfe2f2c/1794029201/baseline-std-v4/U19_ASIA_CUP_IND_VS_UAE_PROMO_20_SEC_HOR_WOBUG_DATED_APP_07112026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
+          "videoUrl": "NA"
         }
       },
       "air_dates": {
-        "contractStartDate": "07 Nov 2026, 10:00 AM",
-        "contractEndDate": "10 Nov 2026, 10:00 AM",
-        "originalAirDate": null
+        "contractStartDate": "10 Nov 2026, 10:00 AM",
+        "contractEndDate": "10 Nov 2026, 11:00 PM",
+        "originalAirDate": "10 Nov 2026, 10:30 AM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028630/1794120712798618_ACC_MensU19_India_vs_UAE_today_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028630/1794120926379618_ACC_MensU19_India_vs_UAE_today_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028503/1794000794514878_ACC_MensU19_India_vs_UAE_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028503/1794000882307878_ACC_MensU19_India_vs_UAE_live_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028495/1793988984214205_MENS_ASIA_CUP_U19_2026_Match_masthead_mobile_v2_984x1182_India_vs_UAE.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028495/1793988983319205_MENS_ASIA_CUP_U19_2026_Match_Masthead_logo_India_vs_UAE_TODAY.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028495/1793988983308205_MENS_ASIA_CUP_U19_2026_Match_Masthead_logo_India_vs_UAE_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028630/1794120926379618_ACC_MensU19_India_vs_UAE_today_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028503/1794000882307878_ACC_MensU19_India_vs_UAE_live_landscape_thumb.jpg"
       },
-      "multiple_audio_links": []
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchde34/cricodi_1011-eng-1-ts-hls/std-lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794286215959,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchde34/cricodi_1011-eng-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1794329416~acl=/*~hmac=0fb9d98077fd661f2207a6f59d5fca121fce27dfbf7f74e1b8d86aa45ed134da\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchde34/cricodi_1011-eng-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1794329416~acl=/*~hmac=0fb9d98077fd661f2207a6f59d5fca121fce27dfbf7f74e1b8d86aa45ed134da\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchde34/cricodi_1011-eng-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1794329416~acl=/*~hmac=0fb9d98077fd661f2207a6f59d5fca121fce27dfbf7f74e1b8d86aa45ed134da\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchde34/cricodi_1011-eng-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1794329416~acl=/*~hmac=0fb9d98077fd661f2207a6f59d5fca121fce27dfbf7f74e1b8d86aa45ed134da\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchde34/cricodi_1011-eng-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1794329416~acl=/*~hmac=0fb9d98077fd661f2207a6f59d5fca121fce27dfbf7f74e1b8d86aa45ed134da",
+            "Date": "Tuesday 10th of November 2026 10:20:15 AM"
+          }
+        }
+      ]
     },
+    {
+      "contentId": 1090553322,
+      "video_info": {
+        "title": "ACC Men's U19 Asia Cup 2026",
+        "shortDescription": "Pakistan and Nepal face off in the ACC U19 Asia Cup as the tournament action continues. Which side will rise to the occasion and make a statement? Watch every moment of this exciting contest LIVE, only on Sony LIV.",
+        "longDescription": "Pakistan and Nepal face off in the ACC U19 Asia Cup as the tournament action continues. Which side will rise to the occasion and make a statement? Watch every moment of this exciting contest LIVE, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Pakistan vs Nepal - 10 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/3UDxKvk9RJuVigYi5ej2WQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "10 Nov 2026, 10:00 AM",
+        "contractEndDate": "10 Nov 2026, 11:00 PM",
+        "originalAirDate": "10 Nov 2026, 10:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028504/179400157651848_ACC_MensU19_Pakistan_vs_Nepal_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028504/179400165277048_ACC_MensU19_Pakistan_vs_Nepal_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028495/1793988984229205_MENS_ASIA_CUP_U19_2026_Match_masthead_mobile_v2_984x1182_Pakistan_vs_Nepal.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028495/1793988983353205_MENS_ASIA_CUP_U19_2026_Match_Masthead_logo_Pakistan_vs_Nepal_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028504/179400165277048_ACC_MensU19_Pakistan_vs_Nepal_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794286218309,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Criclive1011/ENG/hdntl=exp=1794372618~acl=%2f*~id=54d05cb9010d1532520d8429607165c6-1794263403891~data=hdntl,2120300,Criclive1011,ENG,none~hmac=13aae54409baf53c24fcaf69279cc12f10d208bcd20fd7a6d7ab226e29898a7c/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAK9PNqAAAAAHwUSYEiTP8qUGdcWbACJY6Y1JnbdnVgWDYRux5iK5sl9bahGf5XwCwx1iwi0APODL8AQ0drkRxM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Criclive1011/ENG/hdntl=exp=1794372618~acl=%2f*~id=54d05cb9010d1532520d8429607165c6-1794263403891~data=hdntl,2120300,Criclive1011,ENG,none~hmac=13aae54409baf53c24fcaf69279cc12f10d208bcd20fd7a6d7ab226e29898a7c/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAK9PNqAAAAAHwUSYEiTP8qUGdcWbACJY6Y1JnbdnVgWDYRux5iK5sl9bahGf5XwCwx1iwi0APODL8AQ0drkRxM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Criclive1011/ENG/hdntl=exp=1794372618~acl=%2f*~id=54d05cb9010d1532520d8429607165c6-1794263403891~data=hdntl,2120300,Criclive1011,ENG,none~hmac=13aae54409baf53c24fcaf69279cc12f10d208bcd20fd7a6d7ab226e29898a7c/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAK9PNqAAAAAHwUSYEiTP8qUGdcWbACJY6Y1JnbdnVgWDYRux5iK5sl9bahGf5XwCwx1iwi0APODL8AQ0drkRxM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Criclive1011/ENG/hdntl=exp=1794372618~acl=%2f*~id=54d05cb9010d1532520d8429607165c6-1794263403891~data=hdntl,2120300,Criclive1011,ENG,none~hmac=13aae54409baf53c24fcaf69279cc12f10d208bcd20fd7a6d7ab226e29898a7c/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAAK9PNqAAAAAHwUSYEiTP8qUGdcWbACJY6Y1JnbdnVgWDYRux5iK5sl9bahGf5XwCwx1iwi0APODL8AQ0drkRxM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Criclive1011/ENG/hdntl=exp=1794372618~acl=%2f*~id=54d05cb9010d1532520d8429607165c6-1794263403891~data=hdntl,2120300,Criclive1011,ENG,none~hmac=13aae54409baf53c24fcaf69279cc12f10d208bcd20fd7a6d7ab226e29898a7c/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAK9PNqAAAAAHwUSYEiTP8qUGdcWbACJY6Y1JnbdnVgWDYRux5iK5sl9bahGf5XwCwx1iwi0APODL8AQ0drkRxM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/Criclive1011/ENG/hdntl=exp=1794372618~acl=%2f*~id=54d05cb9010d1532520d8429607165c6-1794263403891~data=hdntl,2120300,Criclive1011,ENG,none~hmac=13aae54409baf53c24fcaf69279cc12f10d208bcd20fd7a6d7ab226e29898a7c/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAAK9PNqAAAAAHwUSYEiTP8qUGdcWbACJY6Y1JnbdnVgWDYRux5iK5sl9bahGf5XwCwx1iwi0APODL8AQ0drkRxM&aka_media_format_type=hls",
+            "Date": "Tuesday 10th of November 2026 10:20:18 AM"
+          }
+        }
+      ]
+    }
+  ],
+  "upcoming": [
     {
       "contentId": 1090552650,
       "video_info": {
@@ -494,8 +628,8 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223093086234_Asia_Cup_Rising_Star_Promo_DTT_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028520/1794025147000654_RISING_STAR_ASIA_CUP_MENS_2026_GOB_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028520/1794025146800654_RISING_STAR_ASIA_CUP_MENS_2026_GOB_Masthead_logo_Dated.png",
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg"
