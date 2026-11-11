@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "10-11-2026 21:00",
+  "last_updated": "11-11-2026 21:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -14,7 +14,7 @@
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "ALL_IN_ONE": "OFF",
-    "SERVER_STATUS": "NORMAL",
+    "SERVER_STATUS": "CRITICAL WARNING",
     "USAGE_GUIDE": []
   },
   "data": [
@@ -31,7 +31,7 @@
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/4T5TtiUdQXOqPQMP4xXBgg/master.m3u8",
+        "dai_asset_key": "https://dai.google.com/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
         "broadcast_channel": "Sony Marathi",
         "audio_language_list": [
           {
@@ -57,15 +57,15 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "10 Nov 2026, 08:30 PM",
-        "contractEndDate": "10 Nov 2026, 10:26 PM",
-        "originalAirDate": "10 Nov 2026, 08:30 PM"
+        "contractStartDate": "11 Nov 2026, 08:30 PM",
+        "contractEndDate": "11 Nov 2026, 10:19 PM",
+        "originalAirDate": "11 Nov 2026, 08:30 PM"
       },
       "image_cdn": {
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028093/179363351587673_KHC_simulcast_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028720/1794286885429707_KHC26_simulcast_10nov_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028738/1794294637421172_KHC26_EP26_masthead_mobile_v2.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028798/1794399178333600_KHC26_EP27_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025996/1791381398795492_KHC_India_Masthead_Logo_newshow.png",
         "circular_image": null,
         "image_600x900_clean": null,
@@ -79,7 +79,7 @@
             "Device_Type": "SONY_PRO_MAX",
             "message": "success",
             "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022318/geclive1011/MAR/std_lrh-800300010.m3u8",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022318/geclive1111/MAR/std_lrh-800300010.m3u8",
             "WIDEVINE": null,
             "STREAMING_TYPE": true,
             "audioLanguages": [
@@ -92,7 +92,7 @@
             "Maximum_Video_Quality": "SDR",
             "Maximum_Resolution": "FULL_HD",
             "trailer_url": "",
-            "systemTime": 1794324615746,
+            "systemTime": 1794411025905,
             "additionalDataJson": {
               "adServer": "GAM",
               "ad_stack": "MT-SSB",
@@ -110,14 +110,72 @@
             },
             "Status_code": 200,
             "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive1011/MAR/hdntl=exp=1794411016~acl=%2f*~id=3b58b2c17f4be039e1cc7faf37f3b7fe-1794321000965~data=hdntl,2022318,geclive1011,none,none~hmac=29b599ac667604d9dd918e7b39be4bd429484b0b854969501a113bcae7d068c7/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAIivRqAAAAACuAGOhzSI0GZM%2frfp89jLoqHuVomapX5WIvY8GjDbX9UTFnIviXyNSqVo23o8Z0CgQgtROSuUIB&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive1011/MAR/hdntl=exp=1794411016~acl=%2f*~id=3b58b2c17f4be039e1cc7faf37f3b7fe-1794321000965~data=hdntl,2022318,geclive1011,none,none~hmac=29b599ac667604d9dd918e7b39be4bd429484b0b854969501a113bcae7d068c7/master_700.m3u8?aka_me_session_id=AAAAAAAAAAAIivRqAAAAACuAGOhzSI0GZM%2frfp89jLoqHuVomapX5WIvY8GjDbX9UTFnIviXyNSqVo23o8Z0CgQgtROSuUIB&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive1011/MAR/hdntl=exp=1794411016~acl=%2f*~id=3b58b2c17f4be039e1cc7faf37f3b7fe-1794321000965~data=hdntl,2022318,geclive1011,none,none~hmac=29b599ac667604d9dd918e7b39be4bd429484b0b854969501a113bcae7d068c7/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAIivRqAAAAACuAGOhzSI0GZM%2frfp89jLoqHuVomapX5WIvY8GjDbX9UTFnIviXyNSqVo23o8Z0CgQgtROSuUIB&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive1011/MAR/hdntl=exp=1794411016~acl=%2f*~id=3b58b2c17f4be039e1cc7faf37f3b7fe-1794321000965~data=hdntl,2022318,geclive1011,none,none~hmac=29b599ac667604d9dd918e7b39be4bd429484b0b854969501a113bcae7d068c7/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAIivRqAAAAACuAGOhzSI0GZM%2frfp89jLoqHuVomapX5WIvY8GjDbX9UTFnIviXyNSqVo23o8Z0CgQgtROSuUIB&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive1011/MAR/hdntl=exp=1794411016~acl=%2f*~id=3b58b2c17f4be039e1cc7faf37f3b7fe-1794321000965~data=hdntl,2022318,geclive1011,none,none~hmac=29b599ac667604d9dd918e7b39be4bd429484b0b854969501a113bcae7d068c7/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAAIivRqAAAAACuAGOhzSI0GZM%2frfp89jLoqHuVomapX5WIvY8GjDbX9UTFnIviXyNSqVo23o8Z0CgQgtROSuUIB&aka_media_format_type=hls",
-            "Date": "Tuesday 10th of November 2026 09:00:16 PM"
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive1111/MAR/hdntl=exp=1794497427~acl=%2f*~id=25d7acaaf2c0ad38248e4a33df65df07-1794393003981~data=hdntl,2022318,geclive1111,none,none~hmac=ad2f455f0738bbfebbdf833a51bcb466995213362f8cd4b5dac84c63aafbaa72/master_500.m3u8?aka_me_session_id=AAAAAAAAAACT2%2fVqAAAAADhYtC+POPnQa6zfXONVQlFPEGAYJMGPz2VAfJxxVx3DFW95PlHfSkBZ65k458oVreCb2pe%2fuZ9H&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive1111/MAR/hdntl=exp=1794497427~acl=%2f*~id=25d7acaaf2c0ad38248e4a33df65df07-1794393003981~data=hdntl,2022318,geclive1111,none,none~hmac=ad2f455f0738bbfebbdf833a51bcb466995213362f8cd4b5dac84c63aafbaa72/master_700.m3u8?aka_me_session_id=AAAAAAAAAACT2%2fVqAAAAADhYtC+POPnQa6zfXONVQlFPEGAYJMGPz2VAfJxxVx3DFW95PlHfSkBZ65k458oVreCb2pe%2fuZ9H&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive1111/MAR/hdntl=exp=1794497427~acl=%2f*~id=25d7acaaf2c0ad38248e4a33df65df07-1794393003981~data=hdntl,2022318,geclive1111,none,none~hmac=ad2f455f0738bbfebbdf833a51bcb466995213362f8cd4b5dac84c63aafbaa72/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACT2%2fVqAAAAADhYtC+POPnQa6zfXONVQlFPEGAYJMGPz2VAfJxxVx3DFW95PlHfSkBZ65k458oVreCb2pe%2fuZ9H&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive1111/MAR/hdntl=exp=1794497427~acl=%2f*~id=25d7acaaf2c0ad38248e4a33df65df07-1794393003981~data=hdntl,2022318,geclive1111,none,none~hmac=ad2f455f0738bbfebbdf833a51bcb466995213362f8cd4b5dac84c63aafbaa72/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACT2%2fVqAAAAADhYtC+POPnQa6zfXONVQlFPEGAYJMGPz2VAfJxxVx3DFW95PlHfSkBZ65k458oVreCb2pe%2fuZ9H&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022318/geclive1111/MAR/hdntl=exp=1794497427~acl=%2f*~id=25d7acaaf2c0ad38248e4a33df65df07-1794393003981~data=hdntl,2022318,geclive1111,none,none~hmac=ad2f455f0738bbfebbdf833a51bcb466995213362f8cd4b5dac84c63aafbaa72/master_3500.m3u8?aka_me_session_id=AAAAAAAAAACT2%2fVqAAAAADhYtC+POPnQa6zfXONVQlFPEGAYJMGPz2VAfJxxVx3DFW95PlHfSkBZ65k458oVreCb2pe%2fuZ9H&aka_media_format_type=hls",
+            "Date": "Wednesday 11th of November 2026 09:00:26 PM"
           }
         }
       ]
     }
   ],
   "upcoming": [
+    {
+      "contentId": 1090550846,
+      "video_info": {
+        "title": "Upcoming - ACC Men's U19 Asia Cup 2026",
+        "shortDescription": "Tune in to catch all the action from ACC Men's U19 Asia Cup 2026, only on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from ACC Men's U19 Asia Cup 2026, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/33c4d3966b8e42058e5606f802843f57/1794397504/baseline-std-v4/U19_ASIA_CUP_IND_VS_AFG_PROMO_20SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "26 Oct 2026, 02:55 PM",
+        "contractEndDate": "15 Nov 2026, 10:00 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028772/1794317011185599_Asia_Cup_U19_SF_Afghanistan-vs-India_DDT_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028772/1794317311639599_Asia_Cup_U19_SF_Afghanistan-vs-India_DDT_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028791/1794394989754437_ACC_U19_Semi_Final_AFG_vs_IND_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028787/1794387198101169_MENS_ASIA_CUP_U19_2026_SF_AFG_vs_india_dated_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028772/1794317311639599_Asia_Cup_U19_SF_Afghanistan-vs-India_DDT_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
     {
       "contentId": 1090553427,
       "video_info": {
@@ -155,7 +213,7 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/0e733f4d39b3487bae2860f718451a1a/1794285218/baseline-std-v4/IND_NZ_ROKO_MORNING_4TH_ODI_35_SEC_HOR_WOBUG_DATED_APP_10112026_hin_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/c9f4ee4f23964f058fab514b4c3e281c/1794394591/baseline-std-v4/IND_VS_NZ_4th_ODI_CONTEXTUAL_25_SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
@@ -168,11 +226,185 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028665/1794207928258604_NZ_vs_IND_4thODI_Promo_DDT_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028665/1794208041683604_NZ_vs_IND_4thODI_Promo_DDT_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028744/1794300671497930_IND_vs_NZ_2026_Match_masthead_mobile_v2.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028801/1794403267781184_IND_vs_NZ_2026_Match_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028758/1794314239793322_IND_vs_NZ_2026_match_Masthead_logo_4thodi_DATED.png",
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028665/1794208041683604_NZ_vs_IND_4thODI_Promo_DDT_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090553648,
+      "video_info": {
+        "title": "Upcoming - Italy vs France - UEFA Nations League 2026-27",
+        "shortDescription": "Watch all the action from the UEFA Nations League 2026-27, exclusively on Sony LIV.",
+        "longDescription": "Watch all the action from the UEFA Nations League 2026-27, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/0bee081e5ec1474da52b13565fde24bb/1794402883/baseline-std-v4/UNL_ITAVSFRA_30SEC_HOR_WOBUG_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "11 Nov 2026, 07:00 PM",
+        "contractEndDate": "13 Nov 2026, 12:35 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794307178620247_UNL26_Italy_vs_France_dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794310296175247_UNL26_Italy_vs_France_dated_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028783/1794382764821953_UNL2627_combo_Version1_13thNov_1-15-AM_masthead_mobile_v2.jpg",
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794310296175247_UNL26_Italy_vs_France_dated_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090553650,
+      "video_info": {
+        "title": "Upcoming - Matchday 5 - UEFA Nations League 2026-27",
+        "shortDescription": "Watch all the action from the UEFA Nations League 2026-27, exclusively on Sony LIV.",
+        "longDescription": "Watch all the action from the UEFA Nations League 2026-27, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/a0aeccaedc3b4d2d83e141f2436e1ef4/1794403906/baseline-std-v4/UNL_GENERIC_30SEC_HOR_WOBUG_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "11 Nov 2026, 06:35 PM",
+        "contractEndDate": "15 Nov 2026, 12:35 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794306836432246_UNL26_england_vs_croatia_dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794309200718246_UNL26_england_vs_croatia_dated_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794309200718246_UNL26_england_vs_croatia_dated_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090553633,
+      "video_info": {
+        "title": "Upcoming - UFC 334 - Gane vs Hokit",
+        "shortDescription": "Tune in to catch all the action from UFC 334 - Gane vs Hokit, only on Sony LIV. ",
+        "longDescription": "Tune in to catch all the action from UFC 334 - Gane vs Hokit, only on Sony LIV. ",
+        "genres": [
+          "Fight Sports"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/f84b94dad5584117a506c315a3d77d44/1794395690/baseline-std-v4/UFC_334_30_SEC_HOR_WOBUG_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "11 Nov 2026, 04:30 PM",
+        "contractEndDate": "15 Nov 2026, 05:30 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028794/1794397098375571_UFC334_promo_landscape_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028794/1794397098375571_UFC334_promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028794/1794397098375571_UFC334_promo_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
@@ -463,64 +695,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028373/1793864472359710_india_cricket_promo_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090550846,
-      "video_info": {
-        "title": "Upcoming - ACC Men's U19 Asia Cup 2026",
-        "shortDescription": "Tune in to catch all the action from ACC Men's U19 Asia Cup 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from ACC Men's U19 Asia Cup 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/81691ee2c5ea4cf7b4c832d081b48793/1793019574/baseline-std-v4/U19_ASIA_CUP_PROMO_30SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "26 Oct 2026, 02:55 PM",
-        "contractEndDate": "15 Nov 2026, 10:00 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028471/1793966029995516_ASIA_CUP_U19_2026_GOB_Portrait_Thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028471/1793966029554516_ASIA_CUP_U19_2026_GOB_Landscape_Thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028471/1793966029906516_ASIA_CUP_U19_2026_GOB_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028471/1793966029660516_ASIA_CUP_U19_2026_GOB_Masthead_logo_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028471/1793966029554516_ASIA_CUP_U19_2026_GOB_Landscape_Thumb.jpg"
       },
       "multiple_audio_links": []
     }
