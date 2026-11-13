@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "13-11-2026 13:40",
+  "last_updated": "13-11-2026 14:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -477,104 +477,6 @@
           }
         }
       ]
-    },
-    {
-      "contentId": 1090553601,
-      "video_info": {
-        "title": "Asian Tour 2026",
-        "shortDescription": "Catch all the action from the Day 2 of Philippine Open , LIVE on Sony LIV.",
-        "longDescription": "Catch all the action from the Day 2 of Philippine Open , LIVE on Sony LIV.",
-        "genres": [
-          "Golf"
-        ],
-        "episodeTitle": "Philippine Open - Day 2 - 13 Nov 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/0rU3P9wWRxO9JMOXItU3zA/master.m3u8",
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "13 Nov 2026, 09:30 AM",
-        "contractEndDate": "13 Nov 2026, 06:30 PM",
-        "originalAirDate": "13 Nov 2026, 10:00 AM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887849996295_ASIANTOUR2026_Philippine_Open_Day2_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887693162295_ASIANTOUR2026_Philippine_Open_Day2_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887693162295_ASIANTOUR2026_Philippine_Open_Day2_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": [
-        {
-          "language": "English",
-          "lang_code": "ENG",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/std_lrh-800300010.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1794543021869,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/hdntl=exp=1794629422~acl=%2f*~id=aae4c9edc7dc2207b1af674d5a01ddf3-1794522602249~data=hdntl,2094588,Golf_Phi1311,ENG,none~hmac=cbfed2fea1c2acaf2404e628ccad7041994b6673c70b335dc8f7d2d316eebcac/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAu3%2fdqAAAAAKcrlsBDxzDtjLYBO%2fPiwzXOTflAXb0loJYMb%2fx1VlPMF%2fgzbMaV0WNyzROgYJI1wUyAlggd4KBr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/hdntl=exp=1794629422~acl=%2f*~id=aae4c9edc7dc2207b1af674d5a01ddf3-1794522602249~data=hdntl,2094588,Golf_Phi1311,ENG,none~hmac=cbfed2fea1c2acaf2404e628ccad7041994b6673c70b335dc8f7d2d316eebcac/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAu3%2fdqAAAAAKcrlsBDxzDtjLYBO%2fPiwzXOTflAXb0loJYMb%2fx1VlPMF%2fgzbMaV0WNyzROgYJI1wUyAlggd4KBr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/hdntl=exp=1794629422~acl=%2f*~id=aae4c9edc7dc2207b1af674d5a01ddf3-1794522602249~data=hdntl,2094588,Golf_Phi1311,ENG,none~hmac=cbfed2fea1c2acaf2404e628ccad7041994b6673c70b335dc8f7d2d316eebcac/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAu3%2fdqAAAAAKcrlsBDxzDtjLYBO%2fPiwzXOTflAXb0loJYMb%2fx1VlPMF%2fgzbMaV0WNyzROgYJI1wUyAlggd4KBr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/hdntl=exp=1794629422~acl=%2f*~id=aae4c9edc7dc2207b1af674d5a01ddf3-1794522602249~data=hdntl,2094588,Golf_Phi1311,ENG,none~hmac=cbfed2fea1c2acaf2404e628ccad7041994b6673c70b335dc8f7d2d316eebcac/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAAu3%2fdqAAAAAKcrlsBDxzDtjLYBO%2fPiwzXOTflAXb0loJYMb%2fx1VlPMF%2fgzbMaV0WNyzROgYJI1wUyAlggd4KBr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/hdntl=exp=1794629422~acl=%2f*~id=aae4c9edc7dc2207b1af674d5a01ddf3-1794522602249~data=hdntl,2094588,Golf_Phi1311,ENG,none~hmac=cbfed2fea1c2acaf2404e628ccad7041994b6673c70b335dc8f7d2d316eebcac/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAu3%2fdqAAAAAKcrlsBDxzDtjLYBO%2fPiwzXOTflAXb0loJYMb%2fx1VlPMF%2fgzbMaV0WNyzROgYJI1wUyAlggd4KBr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/hdntl=exp=1794629422~acl=%2f*~id=aae4c9edc7dc2207b1af674d5a01ddf3-1794522602249~data=hdntl,2094588,Golf_Phi1311,ENG,none~hmac=cbfed2fea1c2acaf2404e628ccad7041994b6673c70b335dc8f7d2d316eebcac/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAAu3%2fdqAAAAAKcrlsBDxzDtjLYBO%2fPiwzXOTflAXb0loJYMb%2fx1VlPMF%2fgzbMaV0WNyzROgYJI1wUyAlggd4KBr&aka_media_format_type=hls",
-            "Date": "Friday 13th of November 2026 09:40:23 AM"
-          }
-        }
-      ]
     }
   ],
   "upcoming": [
@@ -637,6 +539,122 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028910/1794547834824140_AC26_mens_U19_FINAL_PAK_vs_IND_dated_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090554104,
+      "video_info": {
+        "title": "Upcoming - 5th ODI - India Tour Of New Zealand 2026",
+        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/da288b624f464c6099267ae3508d500c/1794557043/baseline-std-v4/IND_NZ_ROKO_MORNING_5TH_ODI_35_SEC_HOR_WOBUG_DATED_APP_13112026_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "13 Nov 2026, 01:30 PM",
+        "contractEndDate": "15 Nov 2026, 06:05 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028925/1794557712680754_NZvsIND_5odi_promo_landscape_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028925/1794557712680754_NZvsIND_5odi_promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028925/1794557712680754_NZvsIND_5odi_promo_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090554106,
+      "video_info": {
+        "title": "Upcoming - 1st Test - India Tour Of New Zealand 2026",
+        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/040672affaeb4f928db1f47a5a4cec8a/1794557083/baseline-std-v4/NZ_VS_IND_1ST_TEST_SERIES_PROMO_45_SEC_HOR_WOBUG_DATED_APP_13112026_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "13 Nov 2026, 01:30 PM",
+        "contractEndDate": "19 Nov 2026, 02:30 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028925/1794557644318754_NZvsIND_1st_test_promo_landscape_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028925/1794557644318754_NZvsIND_1st_test_promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028925/1794557644318754_NZvsIND_1st_test_promo_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
