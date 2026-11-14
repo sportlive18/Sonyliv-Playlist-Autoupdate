@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "14-11-2026 19:40",
+  "last_updated": "14-11-2026 20:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,6 +18,105 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090553637,
+      "video_info": {
+        "title": "Indian Idol - Legends Return",
+        "shortDescription": "Indian Idol - Legends Return features a unique two-phase journey. Phase 1 features Himesh Reshammiya and 24 former contestants competing in duets evaluated by peer scores and a secret judge score, forming a winning jodi. This pair becomes mentors in Phase 2, guiding fresh aspirants through auditions alongside the returning judges.",
+        "longDescription": "Indian Idol - Legends Return features a unique two-phase journey. Phase 1 features Himesh Reshammiya and 24 former contestants competing in duets evaluated by peer scores and a secret judge score, forming a winning jodi. This pair becomes mentors in Phase 2, guiding fresh aspirants through auditions alongside the returning judges.",
+        "genres": [
+          "Reality",
+          "Music"
+        ],
+        "episodeTitle": "Indian Idol - Legends Return"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "14 Nov 2026, 07:30 PM",
+        "contractEndDate": "14 Nov 2026, 09:32 PM",
+        "originalAirDate": "14 Nov 2026, 07:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028728/179429032138295_Indian_Idol_Legends_Return_simulcast_10nov_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029000/1794636446368905_idol_legends_1st_elimination_14nov_simulcast_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026694/1792402692659484_IIdol_Legends_Return_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028546/1794035095382633_Indian_Idol_Masthead_Logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029000/1794636446368905_idol_legends_1st_elimination_14nov_simulcast_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "Hindi",
+          "lang_code": "HIN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022315/Idol_E091411/HIN/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794666613220,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Idol_E091411/HIN/hdntl=exp=1794753015~acl=%2f*~id=4f4df4000092d839c7dcff40bc13fd25-1794652201354~data=hdntl,2022315,Idol_E091411,HIN,none~hmac=1e650dcd22cd48e780f89885d98a657f28f70faa7b88082ecaee67f5b524b11c/master_500.m3u8?aka_me_session_id=AAAAAAAAAAD3wflqAAAAAMwT8Rq5vpLKC1Uw7joy4OJ9+Ftf2BgErzP6nvTFiuMlVwpMnCanFTxoBQKKQ+VK8GDoDy0DS2pC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Idol_E091411/HIN/hdntl=exp=1794753015~acl=%2f*~id=4f4df4000092d839c7dcff40bc13fd25-1794652201354~data=hdntl,2022315,Idol_E091411,HIN,none~hmac=1e650dcd22cd48e780f89885d98a657f28f70faa7b88082ecaee67f5b524b11c/master_700.m3u8?aka_me_session_id=AAAAAAAAAAD3wflqAAAAAMwT8Rq5vpLKC1Uw7joy4OJ9+Ftf2BgErzP6nvTFiuMlVwpMnCanFTxoBQKKQ+VK8GDoDy0DS2pC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Idol_E091411/HIN/hdntl=exp=1794753015~acl=%2f*~id=4f4df4000092d839c7dcff40bc13fd25-1794652201354~data=hdntl,2022315,Idol_E091411,HIN,none~hmac=1e650dcd22cd48e780f89885d98a657f28f70faa7b88082ecaee67f5b524b11c/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAD3wflqAAAAAMwT8Rq5vpLKC1Uw7joy4OJ9+Ftf2BgErzP6nvTFiuMlVwpMnCanFTxoBQKKQ+VK8GDoDy0DS2pC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Idol_E091411/HIN/hdntl=exp=1794753015~acl=%2f*~id=4f4df4000092d839c7dcff40bc13fd25-1794652201354~data=hdntl,2022315,Idol_E091411,HIN,none~hmac=1e650dcd22cd48e780f89885d98a657f28f70faa7b88082ecaee67f5b524b11c/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAD3wflqAAAAAMwT8Rq5vpLKC1Uw7joy4OJ9+Ftf2BgErzP6nvTFiuMlVwpMnCanFTxoBQKKQ+VK8GDoDy0DS2pC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Idol_E091411/HIN/hdntl=exp=1794753015~acl=%2f*~id=4f4df4000092d839c7dcff40bc13fd25-1794652201354~data=hdntl,2022315,Idol_E091411,HIN,none~hmac=1e650dcd22cd48e780f89885d98a657f28f70faa7b88082ecaee67f5b524b11c/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAD3wflqAAAAAMwT8Rq5vpLKC1Uw7joy4OJ9+Ftf2BgErzP6nvTFiuMlVwpMnCanFTxoBQKKQ+VK8GDoDy0DS2pC&aka_media_format_type=hls",
+            "Date": "Saturday 14th of November 2026 08:00:14 PM"
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090553933,
       "video_info": {
