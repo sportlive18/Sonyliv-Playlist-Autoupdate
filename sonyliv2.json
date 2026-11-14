@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "14-11-2026 07:40",
+  "last_updated": "14-11-2026 10:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,6 +18,368 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090553929,
+      "video_info": {
+        "title": "ACC Men's U19 Asia Cup 2026",
+        "shortDescription": "The stage is set for an epic showdown as arch-rivals India and Pakistan lock horns in the ACC U19 Asia Cup Final! With the championship trophy on the line, the young stars will battle it out with skill, passion, and determination to claim continental glory. Watch all the action LIVE, only on Sony LIV.",
+        "longDescription": "The stage is set for an epic showdown as arch-rivals India and Pakistan lock horns in the ACC U19 Asia Cup Final! With the championship trophy on the line, the young stars will battle it out with skill, passion, and determination to claim continental glory. Watch all the action LIVE, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Pakistan vs India - Final - 14 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "unavailable",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
+          },
+          {
+            "lang_code": "KAN",
+            "lang_label": "Kannada"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL,KAN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_SD",
+          "videoType": "SD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "14 Nov 2026, 09:45 AM",
+        "contractEndDate": "14 Nov 2026, 10:45 PM",
+        "originalAirDate": "14 Nov 2026, 10:15 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508549244577_ACC_U19_FINAL_PAK_vs_IND_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028918/1794532168000812_MENS_ASIA_CUP_U19_2026_Match_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028918/1794532168000812_MENS_ASIA_CUP_U19_2026_Match_Masthead_logo_Pakistan_vs_india_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_1411-eng-1-ts-hls/std-lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794630617185,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_1411-eng-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1794673817~acl=/*~hmac=8340901efe1297b49c53ab417cd305415f031467bc778dd896c55adb52f31743\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_1411-eng-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1794673817~acl=/*~hmac=8340901efe1297b49c53ab417cd305415f031467bc778dd896c55adb52f31743\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_1411-eng-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1794673817~acl=/*~hmac=8340901efe1297b49c53ab417cd305415f031467bc778dd896c55adb52f31743\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_1411-eng-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1794673817~acl=/*~hmac=8340901efe1297b49c53ab417cd305415f031467bc778dd896c55adb52f31743\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_1411-eng-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1794673817~acl=/*~hmac=8340901efe1297b49c53ab417cd305415f031467bc778dd896c55adb52f31743",
+            "Date": "Saturday 14th of November 2026 10:00:17 AM"
+          }
+        },
+        {
+          "language": "Hindi",
+          "lang_code": "HIN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_1411-hin-1-ts-hls/std-lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794630617993,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_1411-hin-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1794673818~acl=/*~hmac=baa19245fcb6967ced313a0b7d0b39f4516921d0e286d8dc6faf50e499752579\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_1411-hin-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1794673818~acl=/*~hmac=baa19245fcb6967ced313a0b7d0b39f4516921d0e286d8dc6faf50e499752579\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_1411-hin-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1794673818~acl=/*~hmac=baa19245fcb6967ced313a0b7d0b39f4516921d0e286d8dc6faf50e499752579\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_1411-hin-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1794673818~acl=/*~hmac=baa19245fcb6967ced313a0b7d0b39f4516921d0e286d8dc6faf50e499752579\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_1411-hin-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1794673818~acl=/*~hmac=baa19245fcb6967ced313a0b7d0b39f4516921d0e286d8dc6faf50e499752579",
+            "Date": "Saturday 14th of November 2026 10:00:18 AM"
+          }
+        },
+        {
+          "language": "Tamil",
+          "lang_code": "TAM",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_1411-tam-1-ts-hls/std-lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794630618737,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_1411-tam-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1794673818~acl=/*~hmac=baa19245fcb6967ced313a0b7d0b39f4516921d0e286d8dc6faf50e499752579\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_1411-tam-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1794673818~acl=/*~hmac=baa19245fcb6967ced313a0b7d0b39f4516921d0e286d8dc6faf50e499752579\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_1411-tam-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1794673818~acl=/*~hmac=baa19245fcb6967ced313a0b7d0b39f4516921d0e286d8dc6faf50e499752579\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_1411-tam-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1794673818~acl=/*~hmac=baa19245fcb6967ced313a0b7d0b39f4516921d0e286d8dc6faf50e499752579\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_1411-tam-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1794673818~acl=/*~hmac=baa19245fcb6967ced313a0b7d0b39f4516921d0e286d8dc6faf50e499752579",
+            "Date": "Saturday 14th of November 2026 10:00:18 AM"
+          }
+        },
+        {
+          "language": "Telugu",
+          "lang_code": "TEL",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://liveakmt-mgm.slivcdn.com/out/v1/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794630619455,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "",
+            "Date": "Saturday 14th of November 2026 10:00:19 AM"
+          }
+        },
+        {
+          "language": "Kannada",
+          "lang_code": "KAN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://liveakmt-m-lr.slivcdn.com/out/v1/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              },
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              },
+              {
+                "audioLanguageName": "TEL",
+                "audioLanguageLabel": "Telugu"
+              },
+              {
+                "audioLanguageName": "TAM",
+                "audioLanguageLabel": "Tamil"
+              },
+              {
+                "audioLanguageName": "KAN",
+                "audioLanguageLabel": "Kannada"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794630620248,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "",
+            "Date": "Saturday 14th of November 2026 10:00:20 AM"
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090553928,
       "video_info": {
@@ -118,68 +480,6 @@
     }
   ],
   "upcoming": [
-    {
-      "contentId": 1090554060,
-      "video_info": {
-        "title": "Upcoming - Pakistan vs India - Final - ACC Men's U19 Asia Cup 2026",
-        "shortDescription": "Watch all the action from the ACC Men's U19 Asia Cup 2026, exclusively on Sony LIV.",
-        "longDescription": "Watch all the action from the ACC Men's U19 Asia Cup 2026, exclusively on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          },
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG,HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/f4aa56d5301047899cdc22ee0d83a0e2/1794543931/baseline-std-v4/1090554060_13112026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "13 Nov 2026, 09:30 AM",
-        "contractEndDate": "14 Nov 2026, 10:00 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028886/1794510075922368_ACC_U19_FINAL_PAK_vs_IND_Promo_portrait_thumb_today.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028886/1794510102701368_ACC_U19_FINAL_PAK_vs_IND_Promo_landscape_thumb_today.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028918/1794532168000812_MENS_ASIA_CUP_U19_2026_Match_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028918/1794532166000812_MENS_ASIA_CUP_U19_2026_Match_Masthead_logo_Pakistan_vs_india_TODAY.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028886/1794510102701368_ACC_U19_FINAL_PAK_vs_IND_Promo_landscape_thumb_today.jpg"
-      },
-      "multiple_audio_links": []
-    },
     {
       "contentId": 1090554104,
       "video_info": {
