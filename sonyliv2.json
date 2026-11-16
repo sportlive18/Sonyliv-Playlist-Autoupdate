@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "16-11-2026 21:03",
+  "last_updated": "16-11-2026 22:03",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -409,6 +409,300 @@
           }
         }
       ]
+    },
+    {
+      "contentId": 1090554490,
+      "video_info": {
+        "title": "UEFA Nations League 2026-27",
+        "shortDescription": "Iceland face Luxembourg in an important UEFA Nations League clash. With valuable points at stake, both sides will be looking to make a strong statement as they battle for success in the competition. Watch all the action unfold LIVE, only on Sony LIV.",
+        "longDescription": "Iceland face Luxembourg in an important UEFA Nations League clash. With valuable points at stake, both sides will be looking to make a strong statement as they battle for success in the competition. Watch all the action unfold LIVE, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Iceland vs Luxembourg - 16 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/RyLJ_PwXTFWClUI4uHJjwA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "16 Nov 2026, 09:50 PM",
+        "contractEndDate": "17 Nov 2026, 02:50 AM",
+        "originalAirDate": "16 Nov 2026, 10:20 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027787/1793259559531700_UNL26_MD6_Iceland_vs_Luxembourg_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027787/1793259677394700_UNL26_MD6_Iceland_vs_Luxembourg_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027787/1793259677394700_UNL26_MD6_Iceland_vs_Luxembourg_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794846773261,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1611/ENG/hdntl=exp=1794933173~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2005444,Footlive1611,ENG,none~hmac=e7c97c37e908e1067a27c4efdd4b56dfffc5070e1158010261faaeb3bf78f5e5/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC1gfxqAAAAAL5d4%2fzUHELRyxdM5OH+rmo44U2SFH1dtSqNLx5VP6LzHnSXGwRhs+K7caj5e1li8LGgIu%2fkd4Y3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1611/ENG/hdntl=exp=1794933173~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2005444,Footlive1611,ENG,none~hmac=e7c97c37e908e1067a27c4efdd4b56dfffc5070e1158010261faaeb3bf78f5e5/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC1gfxqAAAAAL5d4%2fzUHELRyxdM5OH+rmo44U2SFH1dtSqNLx5VP6LzHnSXGwRhs+K7caj5e1li8LGgIu%2fkd4Y3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1611/ENG/hdntl=exp=1794933173~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2005444,Footlive1611,ENG,none~hmac=e7c97c37e908e1067a27c4efdd4b56dfffc5070e1158010261faaeb3bf78f5e5/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC1gfxqAAAAAL5d4%2fzUHELRyxdM5OH+rmo44U2SFH1dtSqNLx5VP6LzHnSXGwRhs+K7caj5e1li8LGgIu%2fkd4Y3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1611/ENG/hdntl=exp=1794933173~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2005444,Footlive1611,ENG,none~hmac=e7c97c37e908e1067a27c4efdd4b56dfffc5070e1158010261faaeb3bf78f5e5/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAC1gfxqAAAAAL5d4%2fzUHELRyxdM5OH+rmo44U2SFH1dtSqNLx5VP6LzHnSXGwRhs+K7caj5e1li8LGgIu%2fkd4Y3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1611/ENG/hdntl=exp=1794933173~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2005444,Footlive1611,ENG,none~hmac=e7c97c37e908e1067a27c4efdd4b56dfffc5070e1158010261faaeb3bf78f5e5/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC1gfxqAAAAAL5d4%2fzUHELRyxdM5OH+rmo44U2SFH1dtSqNLx5VP6LzHnSXGwRhs+K7caj5e1li8LGgIu%2fkd4Y3&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1611/ENG/hdntl=exp=1794933173~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2005444,Footlive1611,ENG,none~hmac=e7c97c37e908e1067a27c4efdd4b56dfffc5070e1158010261faaeb3bf78f5e5/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAC1gfxqAAAAAL5d4%2fzUHELRyxdM5OH+rmo44U2SFH1dtSqNLx5VP6LzHnSXGwRhs+K7caj5e1li8LGgIu%2fkd4Y3&aka_media_format_type=hls",
+            "Date": "Monday 16th of November 2026 10:02:53 PM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090554494,
+      "video_info": {
+        "title": "UEFA Nations League 2026-27",
+        "shortDescription": "Estonia and Bulgaria square off in a fascinating UEFA Nations League encounter, with both teams looking to showcase their quality and finish on a positive note. Watch all the action LIVE, only on Sony LIV.",
+        "longDescription": "Estonia and Bulgaria square off in a fascinating UEFA Nations League encounter, with both teams looking to showcase their quality and finish on a positive note. Watch all the action LIVE, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Estonia vs Bulgaria - 16 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/1YqiUmA4R4-LmpAzBeHabQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "16 Nov 2026, 09:50 PM",
+        "contractEndDate": "17 Nov 2026, 02:50 AM",
+        "originalAirDate": "16 Nov 2026, 10:20 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027761/179326105113055_UNL26_MD6_Estonia_vs_Bulgaria_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027761/179326116564755_UNL26_MD6_Estonia_vs_Bulgaria_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027761/179326116564755_UNL26_MD6_Estonia_vs_Bulgaria_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794846774055,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Footlive1611/ENG/hdntl=exp=1794933174~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2018457,Footlive1611,ENG,none~hmac=5966a6f62809e45eac1b44029d40a5c14d548a65a656ceedc2c3a2effcedd49f/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC2gfxqAAAAABi8e7l4oDF89rMOoQ2ImzCLPaE6xOwmyn296GXVRbXUIvCELpSNPBjXNaWyRr8dfQPqYQSilWX7&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Footlive1611/ENG/hdntl=exp=1794933174~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2018457,Footlive1611,ENG,none~hmac=5966a6f62809e45eac1b44029d40a5c14d548a65a656ceedc2c3a2effcedd49f/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC2gfxqAAAAABi8e7l4oDF89rMOoQ2ImzCLPaE6xOwmyn296GXVRbXUIvCELpSNPBjXNaWyRr8dfQPqYQSilWX7&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Footlive1611/ENG/hdntl=exp=1794933174~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2018457,Footlive1611,ENG,none~hmac=5966a6f62809e45eac1b44029d40a5c14d548a65a656ceedc2c3a2effcedd49f/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC2gfxqAAAAABi8e7l4oDF89rMOoQ2ImzCLPaE6xOwmyn296GXVRbXUIvCELpSNPBjXNaWyRr8dfQPqYQSilWX7&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Footlive1611/ENG/hdntl=exp=1794933174~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2018457,Footlive1611,ENG,none~hmac=5966a6f62809e45eac1b44029d40a5c14d548a65a656ceedc2c3a2effcedd49f/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAC2gfxqAAAAABi8e7l4oDF89rMOoQ2ImzCLPaE6xOwmyn296GXVRbXUIvCELpSNPBjXNaWyRr8dfQPqYQSilWX7&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Footlive1611/ENG/hdntl=exp=1794933174~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2018457,Footlive1611,ENG,none~hmac=5966a6f62809e45eac1b44029d40a5c14d548a65a656ceedc2c3a2effcedd49f/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC2gfxqAAAAABi8e7l4oDF89rMOoQ2ImzCLPaE6xOwmyn296GXVRbXUIvCELpSNPBjXNaWyRr8dfQPqYQSilWX7&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Footlive1611/ENG/hdntl=exp=1794933174~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2018457,Footlive1611,ENG,none~hmac=5966a6f62809e45eac1b44029d40a5c14d548a65a656ceedc2c3a2effcedd49f/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAC2gfxqAAAAABi8e7l4oDF89rMOoQ2ImzCLPaE6xOwmyn296GXVRbXUIvCELpSNPBjXNaWyRr8dfQPqYQSilWX7&aka_media_format_type=hls",
+            "Date": "Monday 16th of November 2026 10:02:54 PM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090554495,
+      "video_info": {
+        "title": "UEFA Nations League 2026-27",
+        "shortDescription": "Lithuania take on Liechtenstein in a UEFA Nations League clash, with both sides eager to secure a positive result and build momentum in the competition. Expect a competitive encounter as the teams battle for valuable points and national pride. Watch all the action LIVE, only on Sony LIV.",
+        "longDescription": "Lithuania take on Liechtenstein in a UEFA Nations League clash, with both sides eager to secure a positive result and build momentum in the competition. Expect a competitive encounter as the teams battle for valuable points and national pride. Watch all the action LIVE, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Lithuania vs Liechtenstein - 16 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/1Yv9ab9ERU6Y6mOms8elgQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "16 Nov 2026, 09:50 PM",
+        "contractEndDate": "17 Nov 2026, 02:50 AM",
+        "originalAirDate": "16 Nov 2026, 10:20 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027835/1793267066963986_UNL26_MD6_Lithuania_vs_Liechtenstein_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027835/1793267180605986_UNL26_MD6_Lithuania_vs_Liechtenstein_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027835/1793267180605986_UNL26_MD6_Lithuania_vs_Liechtenstein_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794846774844,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Footlive1611/ENG/hdntl=exp=1794933175~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2094589,Footlive1611,ENG,none~hmac=fed5d59780d817fc383bc8a3c1e59715010e81339e4c7c87762483921e510c16/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC3gfxqAAAAAEmX5aPklcFpT0AJZES10wXCTTCxisu7uAIFYH9dKXMTE2h2Olwv3R3wrmncG5GGFTnXKsNOuSZQ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Footlive1611/ENG/hdntl=exp=1794933175~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2094589,Footlive1611,ENG,none~hmac=fed5d59780d817fc383bc8a3c1e59715010e81339e4c7c87762483921e510c16/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC3gfxqAAAAAEmX5aPklcFpT0AJZES10wXCTTCxisu7uAIFYH9dKXMTE2h2Olwv3R3wrmncG5GGFTnXKsNOuSZQ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Footlive1611/ENG/hdntl=exp=1794933175~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2094589,Footlive1611,ENG,none~hmac=fed5d59780d817fc383bc8a3c1e59715010e81339e4c7c87762483921e510c16/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC3gfxqAAAAAEmX5aPklcFpT0AJZES10wXCTTCxisu7uAIFYH9dKXMTE2h2Olwv3R3wrmncG5GGFTnXKsNOuSZQ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Footlive1611/ENG/hdntl=exp=1794933175~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2094589,Footlive1611,ENG,none~hmac=fed5d59780d817fc383bc8a3c1e59715010e81339e4c7c87762483921e510c16/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAC3gfxqAAAAAEmX5aPklcFpT0AJZES10wXCTTCxisu7uAIFYH9dKXMTE2h2Olwv3R3wrmncG5GGFTnXKsNOuSZQ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Footlive1611/ENG/hdntl=exp=1794933175~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2094589,Footlive1611,ENG,none~hmac=fed5d59780d817fc383bc8a3c1e59715010e81339e4c7c87762483921e510c16/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC3gfxqAAAAAEmX5aPklcFpT0AJZES10wXCTTCxisu7uAIFYH9dKXMTE2h2Olwv3R3wrmncG5GGFTnXKsNOuSZQ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Footlive1611/ENG/hdntl=exp=1794933175~acl=%2f*~id=c23ef4b477bf00f851662c74dc3c238b-1794823963126~data=hdntl,2094589,Footlive1611,ENG,none~hmac=fed5d59780d817fc383bc8a3c1e59715010e81339e4c7c87762483921e510c16/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAC3gfxqAAAAAEmX5aPklcFpT0AJZES10wXCTTCxisu7uAIFYH9dKXMTE2h2Olwv3R3wrmncG5GGFTnXKsNOuSZQ&aka_media_format_type=hls",
+            "Date": "Monday 16th of November 2026 10:02:55 PM"
+          }
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -459,14 +753,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029203/1794823637561474_NZvsIND_1st_test_day1_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029203/1794826034235474_NZvsIND_1st_test_day1_dated_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029217/1794841556232711_NZvsIND_1st_test_day1_dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029217/1794841912496711_NZvsIND_1st_test_day1_dated_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029215/1794818302000147_IND_vs_NZ_2026_Match_masthead_mobile_v2_984x1182.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029198/1794821890888362_IND_vs_NZ_2026_Match_Masthead_logo_1stTEST_Day1_Dated.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029203/1794826034235474_NZvsIND_1st_test_day1_dated_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029217/1794841912496711_NZvsIND_1st_test_day1_dated_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
