@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "17-11-2026 23:03",
+  "last_updated": "18-11-2026 00:43",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,302 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090554645,
+      "video_info": {
+        "title": "UEFA Nations League 2026-27",
+        "shortDescription": "Wales prepare to face a formidable Portugal side in the UEFA Nations League 2026-27. With both nations aiming for a positive result, this clash promises plenty of excitement as they battle for crucial points. Watch all the action LIVE, only on Sony LIV.",
+        "longDescription": "Wales prepare to face a formidable Portugal side in the UEFA Nations League 2026-27. With both nations aiming for a positive result, this clash promises plenty of excitement as they battle for crucial points. Watch all the action LIVE, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Wales vs Portugal - 18 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/ORHLqlgTTr6-KDzCQv-ylA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "18 Nov 2026, 12:35 AM",
+        "contractEndDate": "18 Nov 2026, 05:35 AM",
+        "originalAirDate": "18 Nov 2026, 01:05 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027861/1793276632157801_UNL26_MD6_Wales_vs_Portugal_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027861/1793276874509801_UNL26_MD6_Wales_vs_Portugal_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029191/1794796094000442_UEFA_Nation_League_2026_masthead_mobile_v2_984x1182_Wales_vs_Portugal.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029191/1794796094000442_UEFA_Nation_League_2026_Match_Masthead_logo_Wales_vs_Portugal_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027861/1793276874509801_UNL26_MD6_Wales_vs_Portugal_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120306/footlive1711/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794942776947,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120306/footlive1711/ENG/hdntl=exp=1795029177~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120306,footlive1711,ENG,none~hmac=657571a1196cff7d18c88c28cebda2c8f31125743bc0f9f49c3d56adbb58c4fd/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC5+P1qAAAAADEE1Ek8x%2fG2QcW6NoICdTJcUH%2fszoWLskGHjLIdFR5Ruzw44V9cgVOz+ilhXS5SRD3vTVZ5H2uw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120306/footlive1711/ENG/hdntl=exp=1795029177~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120306,footlive1711,ENG,none~hmac=657571a1196cff7d18c88c28cebda2c8f31125743bc0f9f49c3d56adbb58c4fd/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC5+P1qAAAAADEE1Ek8x%2fG2QcW6NoICdTJcUH%2fszoWLskGHjLIdFR5Ruzw44V9cgVOz+ilhXS5SRD3vTVZ5H2uw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120306/footlive1711/ENG/hdntl=exp=1795029177~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120306,footlive1711,ENG,none~hmac=657571a1196cff7d18c88c28cebda2c8f31125743bc0f9f49c3d56adbb58c4fd/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC5+P1qAAAAADEE1Ek8x%2fG2QcW6NoICdTJcUH%2fszoWLskGHjLIdFR5Ruzw44V9cgVOz+ilhXS5SRD3vTVZ5H2uw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120306/footlive1711/ENG/hdntl=exp=1795029177~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120306,footlive1711,ENG,none~hmac=657571a1196cff7d18c88c28cebda2c8f31125743bc0f9f49c3d56adbb58c4fd/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAC5+P1qAAAAADEE1Ek8x%2fG2QcW6NoICdTJcUH%2fszoWLskGHjLIdFR5Ruzw44V9cgVOz+ilhXS5SRD3vTVZ5H2uw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120306/footlive1711/ENG/hdntl=exp=1795029177~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120306,footlive1711,ENG,none~hmac=657571a1196cff7d18c88c28cebda2c8f31125743bc0f9f49c3d56adbb58c4fd/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC5+P1qAAAAADEE1Ek8x%2fG2QcW6NoICdTJcUH%2fszoWLskGHjLIdFR5Ruzw44V9cgVOz+ilhXS5SRD3vTVZ5H2uw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120306/footlive1711/ENG/hdntl=exp=1795029177~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120306,footlive1711,ENG,none~hmac=657571a1196cff7d18c88c28cebda2c8f31125743bc0f9f49c3d56adbb58c4fd/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAC5+P1qAAAAADEE1Ek8x%2fG2QcW6NoICdTJcUH%2fszoWLskGHjLIdFR5Ruzw44V9cgVOz+ilhXS5SRD3vTVZ5H2uw&aka_media_format_type=hls",
+            "Date": "Wednesday 18th of November 2026 12:42:57 AM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090554644,
+      "video_info": {
+        "title": "UEFA Nations League 2026-27",
+        "shortDescription": "A fascinating contest awaits as Denmark take on Norway in the UEFA Nations League 2026-27. With both nations looking to strengthen their campaign, the focus will be on delivering a statement performance and claiming a crucial victory. Watch all the action LIVE, only on Sony LIV.",
+        "longDescription": "A fascinating contest awaits as Denmark take on Norway in the UEFA Nations League 2026-27. With both nations looking to strengthen their campaign, the focus will be on delivering a statement performance and claiming a crucial victory. Watch all the action LIVE, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Denmark vs Norway - 18 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/SUnmyIb6QE-jzIy9Zp54KQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "18 Nov 2026, 12:35 AM",
+        "contractEndDate": "18 Nov 2026, 05:35 AM",
+        "originalAirDate": "18 Nov 2026, 01:05 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027760/1793275967999324_UNL26_MD6_Denmark_vs_Norway_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027760/1793276088016324_UNL26_MD6_Denmark_vs_Norway_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029191/1794796094000442_UEFA_Nation_League_2026_masthead_mobile_v2_984x1182_Denmark_vs_Norway.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029191/1794796094000442_UEFA_Nation_League_2026_Match_Masthead_logo_Denmark_vs_Norway_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027760/1793276088016324_UNL26_MD6_Denmark_vs_Norway_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120304/footlive1711/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794942777841,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/footlive1711/ENG/hdntl=exp=1795029178~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120304,footlive1711,ENG,none~hmac=219a90fb75b54e3dc895eca88e9591c676f879cc399072ac5fb3412cb791cbdf/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC6+P1qAAAAAHk7JRQe25iBGLMvpptIbPy5wT7eenugg0uPG7Z43aTrhbOYQWWnqV0jK1gKaQHfXt5qVC8nfYOT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/footlive1711/ENG/hdntl=exp=1795029178~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120304,footlive1711,ENG,none~hmac=219a90fb75b54e3dc895eca88e9591c676f879cc399072ac5fb3412cb791cbdf/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC6+P1qAAAAAHk7JRQe25iBGLMvpptIbPy5wT7eenugg0uPG7Z43aTrhbOYQWWnqV0jK1gKaQHfXt5qVC8nfYOT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/footlive1711/ENG/hdntl=exp=1795029178~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120304,footlive1711,ENG,none~hmac=219a90fb75b54e3dc895eca88e9591c676f879cc399072ac5fb3412cb791cbdf/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC6+P1qAAAAAHk7JRQe25iBGLMvpptIbPy5wT7eenugg0uPG7Z43aTrhbOYQWWnqV0jK1gKaQHfXt5qVC8nfYOT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/footlive1711/ENG/hdntl=exp=1795029178~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120304,footlive1711,ENG,none~hmac=219a90fb75b54e3dc895eca88e9591c676f879cc399072ac5fb3412cb791cbdf/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAC6+P1qAAAAAHk7JRQe25iBGLMvpptIbPy5wT7eenugg0uPG7Z43aTrhbOYQWWnqV0jK1gKaQHfXt5qVC8nfYOT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/footlive1711/ENG/hdntl=exp=1795029178~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120304,footlive1711,ENG,none~hmac=219a90fb75b54e3dc895eca88e9591c676f879cc399072ac5fb3412cb791cbdf/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC6+P1qAAAAAHk7JRQe25iBGLMvpptIbPy5wT7eenugg0uPG7Z43aTrhbOYQWWnqV0jK1gKaQHfXt5qVC8nfYOT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120304/footlive1711/ENG/hdntl=exp=1795029178~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120304,footlive1711,ENG,none~hmac=219a90fb75b54e3dc895eca88e9591c676f879cc399072ac5fb3412cb791cbdf/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAC6+P1qAAAAAHk7JRQe25iBGLMvpptIbPy5wT7eenugg0uPG7Z43aTrhbOYQWWnqV0jK1gKaQHfXt5qVC8nfYOT&aka_media_format_type=hls",
+            "Date": "Wednesday 18th of November 2026 12:42:58 AM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090554647,
+      "video_info": {
+        "title": "UEFA Nations League 2026-27",
+        "shortDescription": "Poland and Sweden meet in an intriguing UEFA Nations League 2026-27 contest. With both sides looking to build momentum and improve their standing, this encounter could play an important role in shaping their campaign. Watch all the action LIVE, only on Sony LIV.",
+        "longDescription": "Poland and Sweden meet in an intriguing UEFA Nations League 2026-27 contest. With both sides looking to build momentum and improve their standing, this encounter could play an important role in shaping their campaign. Watch all the action LIVE, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Poland vs Sweden - 18 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/pzAZ6MXmQmaIq497VfvqOA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "18 Nov 2026, 12:35 AM",
+        "contractEndDate": "18 Nov 2026, 05:35 AM",
+        "originalAirDate": "18 Nov 2026, 01:05 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027838/1793278035589702_UNL26_MD6_Poland_vs_Sweden_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027838/1793278288283702_UNL26_MD6_Poland_vs_Sweden_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029191/1794796094000442_UEFA_Nation_League_2026_masthead_mobile_v2_984x1182_Poland_vs_Sweden.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029191/1794796094000442_UEFA_Nation_League_2026_Match_Masthead_logo_Poland_vs_Sweden_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027838/1793278288283702_UNL26_MD6_Poland_vs_Sweden_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120300/footlive1711/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794942778722,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/footlive1711/ENG/hdntl=exp=1795029179~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120300,footlive1711,ENG,none~hmac=6154ad3388daffa7feef85eb30959ab5a92ed02f04e227842786bb4c25a857ed/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC7+P1qAAAAADH+fofqPj8cdnD2aEg66KbYB+Qw1n9QCfx8ebpPDeCFEXg5Td+dAvP61seXfcq+0Q8UB5jjscmU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/footlive1711/ENG/hdntl=exp=1795029179~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120300,footlive1711,ENG,none~hmac=6154ad3388daffa7feef85eb30959ab5a92ed02f04e227842786bb4c25a857ed/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC7+P1qAAAAADH+fofqPj8cdnD2aEg66KbYB+Qw1n9QCfx8ebpPDeCFEXg5Td+dAvP61seXfcq+0Q8UB5jjscmU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/footlive1711/ENG/hdntl=exp=1795029179~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120300,footlive1711,ENG,none~hmac=6154ad3388daffa7feef85eb30959ab5a92ed02f04e227842786bb4c25a857ed/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC7+P1qAAAAADH+fofqPj8cdnD2aEg66KbYB+Qw1n9QCfx8ebpPDeCFEXg5Td+dAvP61seXfcq+0Q8UB5jjscmU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/footlive1711/ENG/hdntl=exp=1795029179~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120300,footlive1711,ENG,none~hmac=6154ad3388daffa7feef85eb30959ab5a92ed02f04e227842786bb4c25a857ed/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAC7+P1qAAAAADH+fofqPj8cdnD2aEg66KbYB+Qw1n9QCfx8ebpPDeCFEXg5Td+dAvP61seXfcq+0Q8UB5jjscmU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/footlive1711/ENG/hdntl=exp=1795029179~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120300,footlive1711,ENG,none~hmac=6154ad3388daffa7feef85eb30959ab5a92ed02f04e227842786bb4c25a857ed/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC7+P1qAAAAADH+fofqPj8cdnD2aEg66KbYB+Qw1n9QCfx8ebpPDeCFEXg5Td+dAvP61seXfcq+0Q8UB5jjscmU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120300/footlive1711/ENG/hdntl=exp=1795029179~acl=%2f*~id=c4867956ee52814c611c860fb778fd75-1794941563134~data=hdntl,2120300,footlive1711,ENG,none~hmac=6154ad3388daffa7feef85eb30959ab5a92ed02f04e227842786bb4c25a857ed/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAC7+P1qAAAAADH+fofqPj8cdnD2aEg66KbYB+Qw1n9QCfx8ebpPDeCFEXg5Td+dAvP61seXfcq+0Q8UB5jjscmU&aka_media_format_type=hls",
+            "Date": "Wednesday 18th of November 2026 12:42:58 AM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090554106,
