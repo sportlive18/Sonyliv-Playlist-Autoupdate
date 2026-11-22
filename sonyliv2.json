@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "22-11-2026 14:54",
+  "last_updated": "22-11-2026 15:01",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,103 +18,6 @@
     "USAGE_GUIDE": []
   },
   "data": [
-    {
-      "contentId": 1090555675,
-      "video_info": {
-        "title": "ACC Men's Asia Cup Rising Stars 2026",
-        "shortDescription": "The UAE faced Nepal in a crucial encounter at the ACC Men's Asia Cup Rising Stars 2026, with both teams looking to make their mark and secure valuable points in the tournament. Catch all the action LIVE, only on Sony LIV.",
-        "longDescription": "The UAE faced Nepal in a crucial encounter at the ACC Men's Asia Cup Rising Stars 2026, with both teams looking to make their mark and secure valuable points in the tournament. Catch all the action LIVE, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": "UAE vs Nepal - 22 Nov 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/D07-rC4TTgWxsH6LZlTxgg/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "22 Nov 2026, 10:50 AM",
-        "contractEndDate": "22 Nov 2026, 11:50 PM",
-        "originalAirDate": "22 Nov 2026, 11:20 AM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182085954360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182383971360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029640/1795325838199975_ACC_RisingStars26_UAE_vs_NEPAL_SP_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029482/1795174981219686_ACC_Rising_Stars_2026_Match_Masthead_logo_UAE_vs_Nepal_Live.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182383971360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": [
-        {
-          "language": "English",
-          "lang_code": "ENG",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "Playback_videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/master.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1795325412422,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_200.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_400.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_500.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_600.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_1000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_1300.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_2000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_2200.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_3800.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_4500.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_3000.m3u8",
-            "Date": "Sunday 22nd of November 2026 11:00:13 AM"
-          }
-        }
-      ]
-    },
     {
       "contentId": 1090555678,
       "video_info": {
@@ -471,67 +374,106 @@
           }
         }
       ]
-    }
-  ],
-  "upcoming": [
+    },
     {
-      "contentId": 1090554767,
+      "contentId": 1090555675,
       "video_info": {
-        "title": "Upcoming - India A vs Pakistan Shaheens - DP World Asia Cup Rising Stars Men's 2026",
-        "shortDescription": "Watch India A take on Pakistan Shaheens in a thrilling DP World Asia Cup Rising Stars Men's 2026 clash, only on Sony LIV.",
-        "longDescription": "Watch India A take on Pakistan Shaheens in a thrilling DP World Asia Cup Rising Stars Men's 2026 clash, only on Sony LIV.",
+        "title": "ACC Men's Asia Cup Rising Stars 2026",
+        "shortDescription": "The UAE faced Nepal in a crucial encounter at the ACC Men's Asia Cup Rising Stars 2026, with both teams looking to make their mark and secure valuable points in the tournament. Catch all the action LIVE, only on Sony LIV.",
+        "longDescription": "The UAE faced Nepal in a crucial encounter at the ACC Men's Asia Cup Rising Stars 2026, with both teams looking to make their mark and secure valuable points in the tournament. Catch all the action LIVE, only on Sony LIV.",
         "genres": [
           "Cricket"
         ],
-        "episodeTitle": ""
+        "episodeTitle": "UAE vs Nepal - 22 Nov 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
+        "dai_asset_key": "https://dai.google.com/ssai/event/D07-rC4TTgWxsH6LZlTxgg/master.m3u8",
         "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
+            "lang_code": "ENG",
+            "lang_label": "English"
           }
         ],
-        "emfAttributes__audio_languages": "HIN",
+        "emfAttributes__audio_languages": "ENG",
         "platformVariants": {
           "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
           "audioLanguages": [
             {
               "audioId": 1,
-              "audioLanguageName": "HIN",
+              "audioLanguageName": "ENG",
               "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
+              "audioLanguageLabel": "English"
             }
           ],
           "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/2f064ad94ea947c49cf74361aba37572/1795330912/baseline-std-v4/RISING_STAR_IND_VS_PAK_SSN_PROMO_40_SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
+          "videoUrl": "NA"
         }
       },
       "air_dates": {
-        "contractStartDate": "16 Nov 2026, 10:00 PM",
-        "contractEndDate": "22 Nov 2026, 03:00 PM",
-        "originalAirDate": null
+        "contractStartDate": "22 Nov 2026, 10:50 AM",
+        "contractEndDate": "22 Nov 2026, 11:50 PM",
+        "originalAirDate": "22 Nov 2026, 11:20 AM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029492/1795180877405618_ACRS26_INDvsPAK_today_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029616/1795286271436647_ACRS26_INDvsPAK_today_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182085954360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182383971360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029607/1795274746362748_ACC_Rising_Stars_2026_Match_masthead_mobile_v2_984x1182_1.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029482/1795174980636686_ACC_Rising_Stars_2026_Match_Masthead_logo_India_A_vs_Pakistan_Shaheens_Today.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029640/1795325838199975_ACC_RisingStars26_UAE_vs_NEPAL_SP_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029482/1795174981219686_ACC_Rising_Stars_2026_Match_Masthead_logo_UAE_vs_Nepal_Live.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029616/1795286271436647_ACRS26_INDvsPAK_today_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182383971360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_landscape_thumb.jpg"
       },
-      "multiple_audio_links": []
-    },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "Playback_videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/master.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1795325412422,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_200.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_400.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_500.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_600.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_1000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_1300.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_2000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_2200.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_3800.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_4500.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/hdntl=exp=1795411812~acl=%2f*~id=c6136eb8ce37d0dc0251c9d0e59f8ea1-1795316064115~data=hdntl,2018457,criclive2211,ENG,none~hmac=e1b96c3392e8a14ef2f40709fe13869599beec3a5aa030e3d60d41f9456bc03d/master_3000.m3u8",
+            "Date": "Sunday 22nd of November 2026 11:00:13 AM"
+          }
+        }
+      ]
+    }
+  ],
+  "upcoming": [
     {
       "contentId": 1090555484,
       "video_info": {
@@ -703,64 +645,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090552952,
-      "video_info": {
-        "title": "Upcoming - India A vs Pakistan Shaheens - DP World Asia Cup Rising Stars Men's 2026",
-        "shortDescription": "Watch India A take on Pakistan Shaheens in a thrilling DP World Asia Cup Rising Stars Men's 2026 clash, only on Sony LIV.",
-        "longDescription": "Watch India A take on Pakistan Shaheens in a thrilling DP World Asia Cup Rising Stars Men's 2026 clash, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/e76031f92cb942aea5f3e2c76819f796/1795282088/baseline-std-v4/INDIAS_RISING_STAR_IND_VS_PAK_10_SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "06 Nov 2026, 10:00 PM",
-        "contractEndDate": "22 Nov 2026, 03:00 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029233/1794889581849702_Asia_Cup_Ind_vs_Pak_landscape_thumbnail.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029233/1794889581849702_Asia_Cup_Ind_vs_Pak_landscape_thumbnail.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029233/1794889581849702_Asia_Cup_Ind_vs_Pak_landscape_thumbnail.jpg"
       },
       "multiple_audio_links": []
     },
@@ -1341,6 +1225,64 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029405/1795096404105290_uefa_league_matchday_5_landscape_thumbnail.png"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090547508,
+      "video_info": {
+        "title": "Upcoming - MG Indian Super League 2026-27",
+        "shortDescription": "Watch all the action from MG Indian Super League 2026-27, exclusively on Sony LIV.",
+        "longDescription": "Watch all the action from MG Indian Super League 2026-27, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/2a5801689c024c8abb7970fbacea165d/1791610469/baseline-std-v4/PROMO_ISL_2026_27_30_SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "07 Oct 2026, 12:00 AM",
+        "contractEndDate": "17 Jan 2027, 04:30 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026531/1792220167577931_Indian_Super_League_Football_Portrait_Thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026531/1792220168107930_Indian_Super_League_Football_Landscape_Thumb_Dated.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026531/1792220168107930_Indian_Super_League_Football_Landscape_Thumb_Dated.jpg"
       },
       "multiple_audio_links": []
     }
