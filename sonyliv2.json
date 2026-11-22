@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "22-11-2026 23:01",
+  "last_updated": "22-11-2026 23:21",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -374,24 +374,23 @@
           }
         }
       ]
-    }
-  ],
-  "upcoming": [
+    },
     {
-      "contentId": 1090554106,
+      "contentId": 1090542016,
       "video_info": {
-        "title": "Upcoming - 1st Test - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "title": "Family Full House With Rohit Sharma",
+        "shortDescription": "Family Full House with Rohit Sharma features Indian cricketer Rohit Sharma making his television hosting debut on Sony TV. The family-focused game show brings competing families together for fun, survey-based trivia infused with Rohit's signature laid-back wit and humor.",
+        "longDescription": "Family Full House with Rohit Sharma features Indian cricketer Rohit Sharma making his television hosting debut on Sony TV. The family-focused game show brings competing families together for fun, survey-based trivia infused with Rohit's signature laid-back wit and humor.",
         "genres": [
-          "Cricket"
+          "Comedy",
+          "Game show"
         ],
-        "episodeTitle": ""
+        "episodeTitle": "Family Full House With Rohit Sharma"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
+        "dai_asset_key": "https://dai.google.com/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
+        "broadcast_channel": "SET",
         "audio_language_list": [
           {
             "lang_code": "HIN",
@@ -401,40 +400,81 @@
         "emfAttributes__audio_languages": "HIN",
         "platformVariants": {
           "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
           "audioLanguages": [
             {
               "audioId": 1,
               "audioLanguageName": "HIN",
               "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
+              "audioLanguageLabel": "Hindi"
             }
           ],
           "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/8a2794081df841439ff1462be46555f3/1795016726/baseline-std-v4/NZ_VS_IND_1ST_TEST_SERIES_PROMO_2_35_SEC_HOR_DATED_WOBUG_APP_WITH_TAG_IND_18112026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
+          "videoUrl": "NA"
         }
       },
       "air_dates": {
-        "contractStartDate": "13 Nov 2026, 01:30 PM",
-        "contractEndDate": "23 Nov 2026, 02:30 AM",
-        "originalAirDate": null
+        "contractStartDate": "22 Nov 2026, 08:55 PM",
+        "contractEndDate": "22 Nov 2026, 10:58 PM",
+        "originalAirDate": "22 Nov 2026, 08:55 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029217/1794841651787711_NZvsIND_1st_test_day1_today_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029344/1795027876381725_NZvsIND_1st_test_day1_today_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028728/179428940591995_FFH26_simulcast_10nov_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028728/179428964961395_FFH26_simulcast_10nov_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029345/1795039054981193_NZ_vs_IND_Test_Match_Generic_masthead_mobile_v2_sponsor.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029198/1794821891279362_IND_vs_NZ_2026_Match_Masthead_logo_1stTEST_Day4_TODAY.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029641/1795326086261316_FFH_22Nov_EP20_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024131/1789720680187261_Signature_Masthead_Logo_NewMovie_Dated.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029344/1795027876381725_NZvsIND_1st_test_day1_today_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028728/179428964961395_FFH26_simulcast_10nov_landscape_thumb.jpg"
       },
-      "multiple_audio_links": []
-    },
+      "multiple_audio_links": [
+        {
+          "language": "Hindi",
+          "lang_code": "HIN",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "Playback_videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022318/geclive2211/HIN/master.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "HIN",
+                "audioLanguageLabel": "Hindi"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1795365083787,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2022318/geclive2211/HIN/hdntl=exp=1795451484~acl=%2f*~id=aebe2e4c3d72a3cfd29a12d562097fe1-1795359071236~data=hdntl,2022318,geclive2211,HIN,none~hmac=ea119598f0ddecf8082ad8417a439b4f71fce74e394f08646fd67d1bb8a1bef1/master_200.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=581816,AVERAGE-BANDWIDTH=581816,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2022318/geclive2211/HIN/hdntl=exp=1795451484~acl=%2f*~id=aebe2e4c3d72a3cfd29a12d562097fe1-1795359071236~data=hdntl,2022318,geclive2211,HIN,none~hmac=ea119598f0ddecf8082ad8417a439b4f71fce74e394f08646fd67d1bb8a1bef1/master_350.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2022318/geclive2211/HIN/hdntl=exp=1795451484~acl=%2f*~id=aebe2e4c3d72a3cfd29a12d562097fe1-1795359071236~data=hdntl,2022318,geclive2211,HIN,none~hmac=ea119598f0ddecf8082ad8417a439b4f71fce74e394f08646fd67d1bb8a1bef1/master_500.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2022318/geclive2211/HIN/hdntl=exp=1795451484~acl=%2f*~id=aebe2e4c3d72a3cfd29a12d562097fe1-1795359071236~data=hdntl,2022318,geclive2211,HIN,none~hmac=ea119598f0ddecf8082ad8417a439b4f71fce74e394f08646fd67d1bb8a1bef1/master_700.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2022318/geclive2211/HIN/hdntl=exp=1795451484~acl=%2f*~id=aebe2e4c3d72a3cfd29a12d562097fe1-1795359071236~data=hdntl,2022318,geclive2211,HIN,none~hmac=ea119598f0ddecf8082ad8417a439b4f71fce74e394f08646fd67d1bb8a1bef1/master_1300.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2022318/geclive2211/HIN/hdntl=exp=1795451484~acl=%2f*~id=aebe2e4c3d72a3cfd29a12d562097fe1-1795359071236~data=hdntl,2022318,geclive2211,HIN,none~hmac=ea119598f0ddecf8082ad8417a439b4f71fce74e394f08646fd67d1bb8a1bef1/master_2000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2778568,AVERAGE-BANDWIDTH=2778568,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2022318/geclive2211/HIN/hdntl=exp=1795451484~acl=%2f*~id=aebe2e4c3d72a3cfd29a12d562097fe1-1795359071236~data=hdntl,2022318,geclive2211,HIN,none~hmac=ea119598f0ddecf8082ad8417a439b4f71fce74e394f08646fd67d1bb8a1bef1/master_2500.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2022318/geclive2211/HIN/hdntl=exp=1795451484~acl=%2f*~id=aebe2e4c3d72a3cfd29a12d562097fe1-1795359071236~data=hdntl,2022318,geclive2211,HIN,none~hmac=ea119598f0ddecf8082ad8417a439b4f71fce74e394f08646fd67d1bb8a1bef1/master_3500.m3u8",
+            "Date": "Sunday 22nd of November 2026 10:01:24 PM"
+          }
+        }
+      ]
+    }
+  ],
+  "upcoming": [
     {
       "contentId": 1090555981,
       "video_info": {
@@ -490,6 +530,64 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029548/1795238001561761_ASIACUP_INDvsUAE_promo_dated_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090554106,
+      "video_info": {
+        "title": "Upcoming - 1st Test - India Tour Of New Zealand 2026",
+        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/8a2794081df841439ff1462be46555f3/1795016726/baseline-std-v4/NZ_VS_IND_1ST_TEST_SERIES_PROMO_2_35_SEC_HOR_DATED_WOBUG_APP_WITH_TAG_IND_18112026_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "13 Nov 2026, 01:30 PM",
+        "contractEndDate": "23 Nov 2026, 02:30 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029217/1794841651787711_NZvsIND_1st_test_day1_today_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029344/1795027876381725_NZvsIND_1st_test_day1_today_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029345/1795039054981193_NZ_vs_IND_Test_Match_Generic_masthead_mobile_v2_sponsor.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029198/1794821891279362_IND_vs_NZ_2026_Match_Masthead_logo_1stTEST_Day4_TODAY.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029344/1795027876381725_NZvsIND_1st_test_day1_today_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
@@ -552,64 +650,6 @@
       "multiple_audio_links": []
     },
     {
-      "contentId": 1090555513,
-      "video_info": {
-        "title": "Upcoming - Matchday 5 - UEFA Champions League 2026-27",
-        "shortDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
-        "longDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/0880b1bc81b54d898f30a7654673ae0e/1795195686/baseline-std-v4/UCL_2026_MATCH_DAY_5_40_SEC_HOR_WOBUG_DATED_APP_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "20 Nov 2026, 11:00 PM",
-        "contractEndDate": "24 Nov 2026, 10:40 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029525/1795197200657754_UCL_Arsenal_vs_Dortmund_Promo_landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029525/1795197200657754_UCL_Arsenal_vs_Dortmund_Promo_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029690/1795366163851977_UCL26_PSG_Roma-Arsenal_Dortmund-ManCity_Napoli_Combo_masthead_mobile_v2.jpg",
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029525/1795197200657754_UCL_Arsenal_vs_Dortmund_Promo_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
       "contentId": 1090555667,
       "video_info": {
         "title": "Upcoming - UEFA Champions League 2026-27",
@@ -664,6 +704,64 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029579/1795250909596716_FCB_ManUtd_PSG_LFC_landscape_thumbnail.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090555513,
+      "video_info": {
+        "title": "Upcoming - Matchday 5 - UEFA Champions League 2026-27",
+        "shortDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
+        "longDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/0880b1bc81b54d898f30a7654673ae0e/1795195686/baseline-std-v4/UCL_2026_MATCH_DAY_5_40_SEC_HOR_WOBUG_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "20 Nov 2026, 11:00 PM",
+        "contractEndDate": "24 Nov 2026, 10:40 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029525/1795197200657754_UCL_Arsenal_vs_Dortmund_Promo_landscape_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029525/1795197200657754_UCL_Arsenal_vs_Dortmund_Promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029525/1795197200657754_UCL_Arsenal_vs_Dortmund_Promo_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
@@ -958,64 +1056,6 @@
       "multiple_audio_links": []
     },
     {
-      "contentId": 1090555091,
-      "video_info": {
-        "title": "Upcoming - Sporting vs Manchester United - UEFA Champions League 2026-27",
-        "shortDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
-        "longDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/8fb93939d50740d6bfaead6d0ed62017/1795079972/baseline-std-v4/UCL_MD_5_Promos_Sporting_Clubede_Portugal_vs_Manchester_United_40_SEC_HOR_WOBUG_DATED_APP_19112026_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "19 Nov 2026, 02:30 PM",
-        "contractEndDate": "26 Nov 2026, 12:55 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125378786174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_portrait_thumb_dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125561396174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_dated.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125561396174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_dated.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
       "contentId": 1090555088,
       "video_info": {
         "title": "Upcoming - Lille vs Bayern Munich - UEFA Champions League 2026-27",
@@ -1070,6 +1110,64 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795122921709174_UCL26_MD5_Lille_vs_Bayern_Munich_Promo_landscape_thumb_dated.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090555091,
+      "video_info": {
+        "title": "Upcoming - Sporting vs Manchester United - UEFA Champions League 2026-27",
+        "shortDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
+        "longDescription": "Watch all the action from UEFA Champions League 2026-27, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/8fb93939d50740d6bfaead6d0ed62017/1795079972/baseline-std-v4/UCL_MD_5_Promos_Sporting_Clubede_Portugal_vs_Manchester_United_40_SEC_HOR_WOBUG_DATED_APP_19112026_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "19 Nov 2026, 02:30 PM",
+        "contractEndDate": "26 Nov 2026, 12:55 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125378786174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_portrait_thumb_dated.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125561396174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_dated.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125561396174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_dated.jpg"
       },
       "multiple_audio_links": []
     },
