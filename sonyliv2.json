@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "24-11-2026 12:04",
+  "last_updated": "24-11-2026 15:04",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -374,6 +374,103 @@
           }
         }
       ]
+    },
+    {
+      "contentId": 1090556042,
+      "video_info": {
+        "title": "ACC Men's Asia Cup Rising Stars 2026",
+        "shortDescription": "Watch Pakistan A take on Nepal in the ACC Men's Asia Cup Rising Stars 2026 as they look to continue their impressive campaign and strengthen their push for a place in the knockout stage, LIVE only on Sony LIV.",
+        "longDescription": "Watch Pakistan A take on Nepal in the ACC Men's Asia Cup Rising Stars 2026 as they look to continue their impressive campaign and strengthen their push for a place in the knockout stage, LIVE only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Pakistan A vs Nepal - 24 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/YEM-gkNKSaaG0VB4X6KiMg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "24 Nov 2026, 02:50 PM",
+        "contractEndDate": "25 Nov 2026, 03:50 AM",
+        "originalAirDate": "24 Nov 2026, 03:20 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410669021751_ACRS26_PAK_A_vs_NEPAL_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029735/1795417882460698_ACC_Rising_Stars_2026_Match_masthead_mobile_v2_984x1182_PAK_VS_NEPAL.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029740/179541883067933_ACC_Rising_Stars_2026_Match_Masthead_logo_Pakistan_Shaheens_vs_Nepal_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "Playback_videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/master.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1795512876914,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/hdntl=exp=1795599277~acl=%2f*~id=f95951e303298e93029f317caf97f940-1795487664158~data=hdntl,2120299,Criclive2411,ENG,none~hmac=52e266c88edc008d358e279a261d3ad5bedba17cb0e9c0fbe32e8a44bcd34be9/master_200.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/hdntl=exp=1795599277~acl=%2f*~id=f95951e303298e93029f317caf97f940-1795487664158~data=hdntl,2120299,Criclive2411,ENG,none~hmac=52e266c88edc008d358e279a261d3ad5bedba17cb0e9c0fbe32e8a44bcd34be9/master_400.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/hdntl=exp=1795599277~acl=%2f*~id=f95951e303298e93029f317caf97f940-1795487664158~data=hdntl,2120299,Criclive2411,ENG,none~hmac=52e266c88edc008d358e279a261d3ad5bedba17cb0e9c0fbe32e8a44bcd34be9/master_500.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/hdntl=exp=1795599277~acl=%2f*~id=f95951e303298e93029f317caf97f940-1795487664158~data=hdntl,2120299,Criclive2411,ENG,none~hmac=52e266c88edc008d358e279a261d3ad5bedba17cb0e9c0fbe32e8a44bcd34be9/master_600.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/hdntl=exp=1795599277~acl=%2f*~id=f95951e303298e93029f317caf97f940-1795487664158~data=hdntl,2120299,Criclive2411,ENG,none~hmac=52e266c88edc008d358e279a261d3ad5bedba17cb0e9c0fbe32e8a44bcd34be9/master_1000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/hdntl=exp=1795599277~acl=%2f*~id=f95951e303298e93029f317caf97f940-1795487664158~data=hdntl,2120299,Criclive2411,ENG,none~hmac=52e266c88edc008d358e279a261d3ad5bedba17cb0e9c0fbe32e8a44bcd34be9/master_1300.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/hdntl=exp=1795599277~acl=%2f*~id=f95951e303298e93029f317caf97f940-1795487664158~data=hdntl,2120299,Criclive2411,ENG,none~hmac=52e266c88edc008d358e279a261d3ad5bedba17cb0e9c0fbe32e8a44bcd34be9/master_2000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/hdntl=exp=1795599277~acl=%2f*~id=f95951e303298e93029f317caf97f940-1795487664158~data=hdntl,2120299,Criclive2411,ENG,none~hmac=52e266c88edc008d358e279a261d3ad5bedba17cb0e9c0fbe32e8a44bcd34be9/master_2200.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/hdntl=exp=1795599277~acl=%2f*~id=f95951e303298e93029f317caf97f940-1795487664158~data=hdntl,2120299,Criclive2411,ENG,none~hmac=52e266c88edc008d358e279a261d3ad5bedba17cb0e9c0fbe32e8a44bcd34be9/master_3800.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/hdntl=exp=1795599277~acl=%2f*~id=f95951e303298e93029f317caf97f940-1795487664158~data=hdntl,2120299,Criclive2411,ENG,none~hmac=52e266c88edc008d358e279a261d3ad5bedba17cb0e9c0fbe32e8a44bcd34be9/master_4500.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/hdntl=exp=1795599277~acl=%2f*~id=f95951e303298e93029f317caf97f940-1795487664158~data=hdntl,2120299,Criclive2411,ENG,none~hmac=52e266c88edc008d358e279a261d3ad5bedba17cb0e9c0fbe32e8a44bcd34be9/master_3000.m3u8",
+            "Date": "Tuesday 24th of November 2026 03:04:37 PM"
+          }
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -414,7 +511,7 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/c977be947ab54d21aeb156c0790a40e7/1795448172/baseline-std-v4/NZ_VS_IND_2ND_TEST_SERIES_PROMO_30_SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/8b4efe3e02384b998eb7d5d4a02e23c1/1795507092/baseline-std-v4/NZ_VS_IND_2ND_TEST_SERIES_PROMO_30_SEC_HOR_WOBUG_DATED_APP_REV_hin_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
@@ -601,8 +698,8 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029766/1795436903314515_UCL26_27_Match_masthead_mobile_v2_984x1182_Real_Madrid_vs_PSV_Eindhoven.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029809/1795505255213433_UCL26_27_Match_Masthead_logo_Real_Madrid_vs_PSV_Eindhoven_TONIGHT.png",
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg"
@@ -659,8 +756,8 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119337286174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_portrait_thumb_tonight.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119532192174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_tonight.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029766/1795436903184515_UCL26_27_Match_masthead_mobile_v2_984x1182_Arsenal_vs_Borussia_Dortmund.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029809/1795505254565433_UCL26_27_Match_Masthead_logo_Arsenal_vs_Borussia_Dortmund_TONIGHT.png",
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119532192174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_tonight.jpg"
@@ -717,8 +814,8 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795123809435174_UCL26_MD5_ManCity_vs_Napoli_Promo_portrait_thumb_tonight.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124011219174_UCL26_MD5_ManCity_vs_Napoli_Promo_landscape_thumb_tonight.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029766/1795436903283515_UCL26_27_Match_masthead_mobile_v2_984x1182_Manchester_City_vs_Napoli.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029809/1795505254992433_UCL26_27_Match_Masthead_logo_Manchester_City_vs_Napoli_TONIGHT.png",
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124011219174_UCL26_MD5_ManCity_vs_Napoli_Promo_landscape_thumb_tonight.jpg"
