@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "25-11-2026 03:44",
+  "last_updated": "25-11-2026 19:04",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,8 +17,164 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090556268,
+      "video_info": {
+        "title": "UEFA Youth League 2026-27",
+        "shortDescription": "Sporting CP take on Manchester United in an exciting UEFA Youth League encounter. Both sides will look to deliver a strong performance and claim crucial points in the competition. Catch every moment of the action live, only on Sony LIV.",
+        "longDescription": "Sporting CP take on Manchester United in an exciting UEFA Youth League encounter. Both sides will look to deliver a strong performance and claim crucial points in the competition. Catch every moment of the action live, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Sporting CP vs Manchester United - 25 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "25 Nov 2026, 05:55 PM",
+        "contractEndDate": "25 Nov 2026, 10:55 PM",
+        "originalAirDate": "25 Nov 2026, 06:25 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029562/1795242131908330_UYL26_MD5_Sporting_CP_vs_ManUnited_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029562/1795243348812330_UYL26_MD5_Sporting_CP_vs_ManUnited_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029562/1795243348812330_UYL26_MD5_Sporting_CP_vs_ManUnited_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "Playback_videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/master.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1795613677383,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/hdntl=exp=1795700077~acl=%2f*~id=74292841520691854675738958345416~data=hdntl,2120303,footlive2511,ENG,none~hmac=76ecf696e4bca503ea13fdbe92b8d08efb246000e918ee5151e332b0219e5e9c/master_200.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/hdntl=exp=1795700077~acl=%2f*~id=74292841520691854675738958345416~data=hdntl,2120303,footlive2511,ENG,none~hmac=76ecf696e4bca503ea13fdbe92b8d08efb246000e918ee5151e332b0219e5e9c/master_400.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/hdntl=exp=1795700077~acl=%2f*~id=74292841520691854675738958345416~data=hdntl,2120303,footlive2511,ENG,none~hmac=76ecf696e4bca503ea13fdbe92b8d08efb246000e918ee5151e332b0219e5e9c/master_500.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/hdntl=exp=1795700077~acl=%2f*~id=74292841520691854675738958345416~data=hdntl,2120303,footlive2511,ENG,none~hmac=76ecf696e4bca503ea13fdbe92b8d08efb246000e918ee5151e332b0219e5e9c/master_600.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/hdntl=exp=1795700077~acl=%2f*~id=74292841520691854675738958345416~data=hdntl,2120303,footlive2511,ENG,none~hmac=76ecf696e4bca503ea13fdbe92b8d08efb246000e918ee5151e332b0219e5e9c/master_1000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/hdntl=exp=1795700077~acl=%2f*~id=74292841520691854675738958345416~data=hdntl,2120303,footlive2511,ENG,none~hmac=76ecf696e4bca503ea13fdbe92b8d08efb246000e918ee5151e332b0219e5e9c/master_1300.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/hdntl=exp=1795700077~acl=%2f*~id=74292841520691854675738958345416~data=hdntl,2120303,footlive2511,ENG,none~hmac=76ecf696e4bca503ea13fdbe92b8d08efb246000e918ee5151e332b0219e5e9c/master_2000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/hdntl=exp=1795700077~acl=%2f*~id=74292841520691854675738958345416~data=hdntl,2120303,footlive2511,ENG,none~hmac=76ecf696e4bca503ea13fdbe92b8d08efb246000e918ee5151e332b0219e5e9c/master_2200.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/hdntl=exp=1795700077~acl=%2f*~id=74292841520691854675738958345416~data=hdntl,2120303,footlive2511,ENG,none~hmac=76ecf696e4bca503ea13fdbe92b8d08efb246000e918ee5151e332b0219e5e9c/master_3800.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/hdntl=exp=1795700077~acl=%2f*~id=74292841520691854675738958345416~data=hdntl,2120303,footlive2511,ENG,none~hmac=76ecf696e4bca503ea13fdbe92b8d08efb246000e918ee5151e332b0219e5e9c/master_4500.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/hdntl=exp=1795700077~acl=%2f*~id=74292841520691854675738958345416~data=hdntl,2120303,footlive2511,ENG,none~hmac=76ecf696e4bca503ea13fdbe92b8d08efb246000e918ee5151e332b0219e5e9c/master_3000.m3u8",
+            "Date": "Wednesday 25th of November 2026 07:04:38 PM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
+    {
+      "contentId": 1090556407,
+      "video_info": {
+        "title": "Upcoming - Sri Lanka A vs India A - DP World Asia Cup Rising Stars Men's 2026",
+        "shortDescription": "Watch all the action from the DP World Asia Cup Rising Stars Men's 2026, exclusively on Sony LIV.",
+        "longDescription": "Watch all the action from the DP World Asia Cup Rising Stars Men's 2026, exclusively on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/b63673fad3e3433aa708933159592cbc/1795593976/baseline-std-v4/INDIAS_RISING_STAR_SEMI_FINAL_20SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "25 Nov 2026, 01:00 PM",
+        "contractEndDate": "26 Nov 2026, 02:50 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029923/179559212688853_ACRS26_SF_SL_A_vs_IND_A_dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029923/179559235760653_ACRS26_SF_SL_A_vs_IND_A_dated_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029922/1795591875996760_ACC_Rising_Stars_2026_Match_masthead_mobile_v2_984x1182_1_Sri_Lanka_A_vs_India_A.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029922/1795591875705760_ACC_Rising_Stars_2026_Match_Masthead_logo_SL_VS_IND_DATED.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029923/179559235760653_ACRS26_SF_SL_A_vs_IND_A_dated_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
     {
       "contentId": 1090556117,
       "video_info": {
@@ -240,14 +396,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124654655174_UCL26_MD5_PSG_vs_AS_Roma_Promo_portrait_thumb_dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124816432174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_dated.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124663137174_UCL26_MD5_PSG_vs_AS_Roma_Promo_portrait_thumb_tonight.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124826868174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_tonight.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124816432174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_dated.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124826868174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_tonight.jpg"
       },
       "multiple_audio_links": []
     },
@@ -298,14 +454,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121592341174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_portrait_thumb_dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121889201174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_dated.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121603927174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_portrait_thumb_tonight.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121897122174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_tonight.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121889201174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_dated.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121897122174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_tonight.jpg"
       },
       "multiple_audio_links": []
     },
@@ -356,14 +512,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125378786174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_portrait_thumb_dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125561396174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_dated.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125389870174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_portrait_thumb_tonight.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125569875174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_tonight.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125561396174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_dated.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125569875174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_tonight.jpg"
       },
       "multiple_audio_links": []
     },
@@ -414,14 +570,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795122720788174_UCL26_MD5_Lille_vs_Bayern_Munich_Promo_portrait_thumb_dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795122921709174_UCL26_MD5_Lille_vs_Bayern_Munich_Promo_landscape_thumb_dated.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795122732396174_UCL26_MD5_Lille_vs_Bayern_Munich_Promo_portrait_thumb_tonight.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795122942762174_UCL26_MD5_Lille_vs_Bayern_Munich_Promo_landscape_thumb_tonight.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795122921709174_UCL26_MD5_Lille_vs_Bayern_Munich_Promo_landscape_thumb_dated.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795122942762174_UCL26_MD5_Lille_vs_Bayern_Munich_Promo_landscape_thumb_tonight.jpg"
       },
       "multiple_audio_links": []
     },
@@ -472,14 +628,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029405/1795096404105290_uefa_league_matchday_5_landscape_thumbnail.png",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029405/1795096404105290_uefa_league_matchday_5_landscape_thumbnail.png",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029830/1795516732730843_UEL_26_Olympiacos-FC-vs-AC-Milan_DDT_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029830/1795517014178843_UEL_26_Olympiacos-FC-vs-AC-Milan_DDT_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029405/1795096404105290_uefa_league_matchday_5_landscape_thumbnail.png"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029830/1795517014178843_UEL_26_Olympiacos-FC-vs-AC-Milan_DDT_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
