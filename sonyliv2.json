@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "27-11-2026 03:04",
+  "last_updated": "27-11-2026 03:24",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -1536,7 +1536,7 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030030/1795687860515211_NZ_vs_IND_2nd_Test_Day1_portrait_thumb.png",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029345/1795039054981193_NZ_vs_IND_Test_Match_Generic_masthead_mobile_v2_sponsor.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030049/1795697008739865_NZvsIND_2nd_test_extraaa_inns_jadeja_sameer_sunilG_live_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029198/1794821891535362_IND_vs_NZ_2026_Match_Masthead_logo_2ndTEST_Day1_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
@@ -1829,6 +1829,200 @@
           }
         }
       ]
+    },
+    {
+      "contentId": 1090556434,
+      "video_info": {
+        "title": "UEFA Conference League 2026-27",
+        "shortDescription": "FC Nordsjælland face Panathinaikos FC in the UEFA Conference League 2026/27 Matchday 4. Nordsjælland will look to make home advantage count, while Panathinaikos aim to overcome the challenge and strengthen their position in the league phase. Catch all the action LIVE, only on Sony LIV.",
+        "longDescription": "FC Nordsjælland face Panathinaikos FC in the UEFA Conference League 2026/27 Matchday 4. Nordsjælland will look to make home advantage count, while Panathinaikos aim to overcome the challenge and strengthen their position in the league phase. Catch all the action LIVE, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "FC Nordsjælland vs Panathinaikos FC - 27 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/Ay0scsSCRW6NMbeDvrKhfA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "27 Nov 2026, 01:15 AM",
+        "contractEndDate": "27 Nov 2026, 05:55 AM",
+        "originalAirDate": "27 Nov 2026, 01:25 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029937/1794911953594281_UECL_26_FC-Nordsjaelland-vs-Panathinaikos-FC_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029937/1794912012492281_UECL_26_FC-Nordsjaelland-vs-Panathinaikos-FC_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029937/1794912012492281_UECL_26_FC-Nordsjaelland-vs-Panathinaikos-FC_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "Playback_videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2118676/Footlive2611/ENG/master.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1795730077059,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118676/Footlive2611/ENG/hdntl=exp=1795816478~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118676,Footlive2611,ENG,none~hmac=f966783be061100b96cd80dc2b2875144f24e7f148318f5d117a6dd3e084a675/master_200.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118676/Footlive2611/ENG/hdntl=exp=1795816478~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118676,Footlive2611,ENG,none~hmac=f966783be061100b96cd80dc2b2875144f24e7f148318f5d117a6dd3e084a675/master_400.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118676/Footlive2611/ENG/hdntl=exp=1795816478~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118676,Footlive2611,ENG,none~hmac=f966783be061100b96cd80dc2b2875144f24e7f148318f5d117a6dd3e084a675/master_500.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118676/Footlive2611/ENG/hdntl=exp=1795816478~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118676,Footlive2611,ENG,none~hmac=f966783be061100b96cd80dc2b2875144f24e7f148318f5d117a6dd3e084a675/master_600.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118676/Footlive2611/ENG/hdntl=exp=1795816478~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118676,Footlive2611,ENG,none~hmac=f966783be061100b96cd80dc2b2875144f24e7f148318f5d117a6dd3e084a675/master_1000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118676/Footlive2611/ENG/hdntl=exp=1795816478~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118676,Footlive2611,ENG,none~hmac=f966783be061100b96cd80dc2b2875144f24e7f148318f5d117a6dd3e084a675/master_1300.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118676/Footlive2611/ENG/hdntl=exp=1795816478~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118676,Footlive2611,ENG,none~hmac=f966783be061100b96cd80dc2b2875144f24e7f148318f5d117a6dd3e084a675/master_2000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118676/Footlive2611/ENG/hdntl=exp=1795816478~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118676,Footlive2611,ENG,none~hmac=f966783be061100b96cd80dc2b2875144f24e7f148318f5d117a6dd3e084a675/master_2200.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118676/Footlive2611/ENG/hdntl=exp=1795816478~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118676,Footlive2611,ENG,none~hmac=f966783be061100b96cd80dc2b2875144f24e7f148318f5d117a6dd3e084a675/master_3800.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118676/Footlive2611/ENG/hdntl=exp=1795816478~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118676,Footlive2611,ENG,none~hmac=f966783be061100b96cd80dc2b2875144f24e7f148318f5d117a6dd3e084a675/master_4500.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118676/Footlive2611/ENG/hdntl=exp=1795816478~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118676,Footlive2611,ENG,none~hmac=f966783be061100b96cd80dc2b2875144f24e7f148318f5d117a6dd3e084a675/master_3000.m3u8",
+            "Date": "Friday 27th of November 2026 03:24:39 AM"
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090556436,
+      "video_info": {
+        "title": "UEFA Conference League 2026-27",
+        "shortDescription": "PFC CSKA Sofia host Trabzonspor A.Ş. in the UEFA Conference League 2026/27 Matchday 4. CSKA Sofia will look to put up a strong performance in front of their home supporters, while Trabzonspor aim to secure a positive away result and strengthen their league-phase campaign. Catch all the action LIVE, only on Sony LIV.",
+        "longDescription": "PFC CSKA Sofia host Trabzonspor A.Ş. in the UEFA Conference League 2026/27 Matchday 4. CSKA Sofia will look to put up a strong performance in front of their home supporters, while Trabzonspor aim to secure a positive away result and strengthen their league-phase campaign. Catch all the action LIVE, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "PFC CSKA Sofia vs Trabzonspor A.Ş. - 27 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/x4vaWSfQQeWBlmDkcz5TVQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "27 Nov 2026, 01:15 AM",
+        "contractEndDate": "27 Nov 2026, 05:55 AM",
+        "originalAirDate": "27 Nov 2026, 01:25 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029937/1794912903034281_UECL_26_PFC-CSKA-Sofia-vs-Trabzonspor-AS_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029937/1794912952277281_UECL_26_PFC-CSKA-Sofia-vs-Trabzonspor-AS_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029937/1794912952277281_UECL_26_PFC-CSKA-Sofia-vs-Trabzonspor-AS_live_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "Playback_videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2118673/Footlive2611/ENG/master.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1795730079475,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118673/Footlive2611/ENG/hdntl=exp=1795816479~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118673,Footlive2611,ENG,none~hmac=0e7fe85a6d33bb90b7a4bbe15f042295d883fcc2bdc264307503ddae9bc6b691/master_200.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118673/Footlive2611/ENG/hdntl=exp=1795816479~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118673,Footlive2611,ENG,none~hmac=0e7fe85a6d33bb90b7a4bbe15f042295d883fcc2bdc264307503ddae9bc6b691/master_400.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118673/Footlive2611/ENG/hdntl=exp=1795816479~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118673,Footlive2611,ENG,none~hmac=0e7fe85a6d33bb90b7a4bbe15f042295d883fcc2bdc264307503ddae9bc6b691/master_500.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118673/Footlive2611/ENG/hdntl=exp=1795816479~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118673,Footlive2611,ENG,none~hmac=0e7fe85a6d33bb90b7a4bbe15f042295d883fcc2bdc264307503ddae9bc6b691/master_600.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118673/Footlive2611/ENG/hdntl=exp=1795816479~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118673,Footlive2611,ENG,none~hmac=0e7fe85a6d33bb90b7a4bbe15f042295d883fcc2bdc264307503ddae9bc6b691/master_1000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118673/Footlive2611/ENG/hdntl=exp=1795816479~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118673,Footlive2611,ENG,none~hmac=0e7fe85a6d33bb90b7a4bbe15f042295d883fcc2bdc264307503ddae9bc6b691/master_1300.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118673/Footlive2611/ENG/hdntl=exp=1795816479~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118673,Footlive2611,ENG,none~hmac=0e7fe85a6d33bb90b7a4bbe15f042295d883fcc2bdc264307503ddae9bc6b691/master_2000.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118673/Footlive2611/ENG/hdntl=exp=1795816479~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118673,Footlive2611,ENG,none~hmac=0e7fe85a6d33bb90b7a4bbe15f042295d883fcc2bdc264307503ddae9bc6b691/master_2200.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118673/Footlive2611/ENG/hdntl=exp=1795816479~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118673,Footlive2611,ENG,none~hmac=0e7fe85a6d33bb90b7a4bbe15f042295d883fcc2bdc264307503ddae9bc6b691/master_3800.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118673/Footlive2611/ENG/hdntl=exp=1795816479~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118673,Footlive2611,ENG,none~hmac=0e7fe85a6d33bb90b7a4bbe15f042295d883fcc2bdc264307503ddae9bc6b691/master_4500.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonyeventsglobal.akamaized.net/hls/live/2118673/Footlive2611/ENG/hdntl=exp=1795816479~acl=%2f*~id=41722876129446495421341114181633~data=hdntl,2118673,Footlive2611,ENG,none~hmac=0e7fe85a6d33bb90b7a4bbe15f042295d883fcc2bdc264307503ddae9bc6b691/master_3000.m3u8",
+            "Date": "Friday 27th of November 2026 03:24:41 AM"
+          }
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -1879,14 +2073,72 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029773/1795439256234643_NZvsIND_2nd_test_day1_today_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029773/1795439206344643_NZvsIND_2nd_test_day1_tonight_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029773/1795440603381643_NZvsIND_2nd_test_day1_dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029773/1795439146883643_NZvsIND_2nd_test_day1_dated_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029345/1795039054981193_NZ_vs_IND_Test_Match_Generic_masthead_mobile_v2_sponsor.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029198/1794821891572362_IND_vs_NZ_2026_Match_Masthead_logo_2ndTEST_Day1_TODAY.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029198/1794821891471362_IND_vs_NZ_2026_Match_Masthead_logo_2ndTEST_Day1_Dated.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029773/1795439206344643_NZvsIND_2nd_test_day1_tonight_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029773/1795439146883643_NZvsIND_2nd_test_day1_dated_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090555134,
+      "video_info": {
+        "title": "Upcoming - Matchday 5 - UEFA Europa League 2026-27",
+        "shortDescription": "Watch all the action from the UEFA Europa League 2026/27 live, only on Sony LIV.",
+        "longDescription": "Watch all the action from the UEFA Europa League 2026/27 live, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/781e34d1c1344f218b1a0efb97072f7f/1795096522/baseline-std-v4/UEL_MATCH_DAY_5_GENERIC_30_SEC_HOR_WOBUG_DATED_APP__IND_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "19 Nov 2026, 07:20 PM",
+        "contractEndDate": "27 Nov 2026, 12:55 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029830/1795516707408843_UEL_26_Olympiacos-FC-vs-AC-Milan_Tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029830/1795517036490843_UEL_26_Olympiacos-FC-vs-AC-Milan_Tonight_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029830/1795517036490843_UEL_26_Olympiacos-FC-vs-AC-Milan_Tonight_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
